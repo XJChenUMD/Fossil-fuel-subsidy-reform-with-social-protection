@@ -1,0 +1,1537 @@
+"","year","countryname","Group","TotalSub"
+"1",2015,"Belgium","Coal",1083.25363440497
+"2",2015,"Belgium","Fossil-based electricity",0
+"3",2015,"Belgium","Natural gas",301.519401926727
+"4",2015,"Belgium","Petroleum",8212.41735668279
+"5",2015,"Brazil","Coal",5660.97709568307
+"6",2015,"Brazil","Fossil-based electricity",0
+"7",2015,"Brazil","Natural gas",66.0922096388462
+"8",2015,"Brazil","Petroleum",62459.275675603
+"9",2015,"China","Coal",892369.430495695
+"10",2015,"China","Fossil-based electricity",0
+"11",2015,"China","Natural gas",7491.41088868524
+"12",2015,"China","Petroleum",181339.616329261
+"13",2015,"Denmark","Coal",352.0074414386
+"14",2015,"Denmark","Fossil-based electricity",0
+"15",2015,"Denmark","Natural gas",0
+"16",2015,"Denmark","Petroleum",0
+"17",2015,"Finland","Coal",746.721730513302
+"18",2015,"Finland","Fossil-based electricity",0
+"19",2015,"Finland","Natural gas",8.31858601836015
+"20",2015,"Finland","Petroleum",0
+"21",2015,"France","Coal",2421.1171158106
+"22",2015,"France","Fossil-based electricity",0
+"23",2015,"France","Natural gas",0
+"24",2015,"France","Petroleum",39875.6519442771
+"25",2015,"Germany","Coal",24278.4810604015
+"26",2015,"Germany","Fossil-based electricity",0
+"27",2015,"Germany","Natural gas",0
+"28",2015,"Germany","Petroleum",45212.2205541548
+"29",2015,"India","Coal",97695.8013780035
+"30",2015,"India","Fossil-based electricity",0
+"31",2015,"India","Natural gas",4467.90897861016
+"32",2015,"India","Petroleum",52727.1212953725
+"33",2015,"Indonesia","Coal",12114.4250451284
+"34",2015,"Indonesia","Fossil-based electricity",0
+"35",2015,"Indonesia","Natural gas",3995.64723201647
+"36",2015,"Indonesia","Petroleum",50653.4429596342
+"37",2015,"Ireland","Coal",1556.21790813204
+"38",2015,"Ireland","Fossil-based electricity",0
+"39",2015,"Ireland","Natural gas",0
+"40",2015,"Ireland","Petroleum",49.9167123373835
+"41",2015,"Italy","Coal",2868.01078460626
+"42",2015,"Italy","Fossil-based electricity",0
+"43",2015,"Italy","Natural gas",0
+"44",2015,"Italy","Petroleum",16634.6075503289
+"45",2015,"Japan","Coal",38541.9469550318
+"46",2015,"Japan","Fossil-based electricity",0
+"47",2015,"Japan","Natural gas",0
+"48",2015,"Japan","Petroleum",136797.000398549
+"49",2015,"Luxembourg","Coal",13.8411919617098
+"50",2015,"Luxembourg","Fossil-based electricity",0
+"51",2015,"Luxembourg","Natural gas",66.0447759821567
+"52",2015,"Luxembourg","Petroleum",1894.04191550476
+"53",2015,"Mexico","Coal",3326.82250874626
+"54",2015,"Mexico","Fossil-based electricity",0
+"55",2015,"Mexico","Natural gas",8139.99894707981
+"56",2015,"Mexico","Petroleum",52260.8268384786
+"57",2015,"Russian Federation","Coal",93480.9952531496
+"58",2015,"Russian Federation","Fossil-based electricity",0
+"59",2015,"Russian Federation","Natural gas",44005.0729973561
+"60",2015,"Russian Federation","Petroleum",127174.555385889
+"61",2015,"South Africa","Coal",35387.1646776166
+"62",2015,"South Africa","Fossil-based electricity",0
+"63",2015,"South Africa","Natural gas",0
+"64",2015,"South Africa","Petroleum",6738.62899186469
+"65",2015,"Spain","Coal",5296.94238798218
+"66",2015,"Spain","Fossil-based electricity",0
+"67",2015,"Spain","Natural gas",0
+"68",2015,"Spain","Petroleum",10474.3704012539
+"69",2015,"Turkiye","Coal",27148.0361311167
+"70",2015,"Turkiye","Fossil-based electricity",0
+"71",2015,"Turkiye","Natural gas",3725.86124757393
+"72",2015,"Turkiye","Petroleum",2729.03879247743
+"73",2015,"United Kingdom","Coal",14366.5864195402
+"74",2015,"United Kingdom","Fossil-based electricity",0
+"75",2015,"United Kingdom","Natural gas",789.933156703163
+"76",2015,"United Kingdom","Petroleum",17413.6170617574
+"77",2015,"United States","Coal",156370.30284852
+"78",2015,"United States","Fossil-based electricity",0
+"79",2015,"United States","Natural gas",58060.538270478
+"80",2015,"United States","Petroleum",446143.078382805
+"81",2016,"Belgium","Coal",1021.54509865192
+"82",2016,"Belgium","Fossil-based electricity",0
+"83",2016,"Belgium","Natural gas",226.665314798939
+"84",2016,"Belgium","Petroleum",4608.93893865345
+"85",2016,"Brazil","Coal",4886.45764728579
+"86",2016,"Brazil","Fossil-based electricity",0
+"87",2016,"Brazil","Natural gas",59.9206733078624
+"88",2016,"Brazil","Petroleum",34870.7836654156
+"89",2016,"China","Coal",910388.13223393
+"90",2016,"China","Fossil-based electricity",0
+"91",2016,"China","Natural gas",8320.28446685393
+"92",2016,"China","Petroleum",208225.306822757
+"93",2016,"Denmark","Coal",422.222993206424
+"94",2016,"Denmark","Fossil-based electricity",0
+"95",2016,"Denmark","Natural gas",0
+"96",2016,"Denmark","Petroleum",0
+"97",2016,"Finland","Coal",841.853158066855
+"98",2016,"Finland","Fossil-based electricity",0
+"99",2016,"Finland","Natural gas",5.32242872710259
+"100",2016,"Finland","Petroleum",0
+"101",2016,"France","Coal",2462.51907202258
+"102",2016,"France","Fossil-based electricity",0
+"103",2016,"France","Natural gas",0
+"104",2016,"France","Petroleum",25951.5111065195
+"105",2016,"Germany","Coal",24744.2763134376
+"106",2016,"Germany","Fossil-based electricity",0
+"107",2016,"Germany","Natural gas",0
+"108",2016,"Germany","Petroleum",41040.1503180901
+"109",2016,"India","Coal",101237.38356885
+"110",2016,"India","Fossil-based electricity",0
+"111",2016,"India","Natural gas",5113.05092948645
+"112",2016,"India","Petroleum",49081.1388609963
+"113",2016,"Indonesia","Coal",13763.4195866053
+"114",2016,"Indonesia","Fossil-based electricity",0
+"115",2016,"Indonesia","Natural gas",4336.95631244646
+"116",2016,"Indonesia","Petroleum",42578.1980147358
+"117",2016,"Ireland","Coal",1872.04570932618
+"118",2016,"Ireland","Fossil-based electricity",0
+"119",2016,"Ireland","Natural gas",0
+"120",2016,"Ireland","Petroleum",175.121668981506
+"121",2016,"Italy","Coal",2701.04179993626
+"122",2016,"Italy","Fossil-based electricity",0
+"123",2016,"Italy","Natural gas",0
+"124",2016,"Italy","Petroleum",13007.5706622718
+"125",2016,"Japan","Coal",38989.7651822996
+"126",2016,"Japan","Fossil-based electricity",0
+"127",2016,"Japan","Natural gas",5531.73810193434
+"128",2016,"Japan","Petroleum",122348.334636643
+"129",2016,"Luxembourg","Coal",15.2479063010347
+"130",2016,"Luxembourg","Fossil-based electricity",0
+"131",2016,"Luxembourg","Natural gas",45.8981455013635
+"132",2016,"Luxembourg","Petroleum",1562.44748363684
+"133",2016,"Mexico","Coal",3799.88020611949
+"134",2016,"Mexico","Fossil-based electricity",0
+"135",2016,"Mexico","Natural gas",8687.03601207215
+"136",2016,"Mexico","Petroleum",54555.7283993453
+"137",2016,"Russian Federation","Coal",81401.0981977495
+"138",2016,"Russian Federation","Fossil-based electricity",0
+"139",2016,"Russian Federation","Natural gas",45206.5417477999
+"140",2016,"Russian Federation","Petroleum",98335.0310841751
+"141",2016,"South Africa","Coal",36887.5303441134
+"142",2016,"South Africa","Fossil-based electricity",0
+"143",2016,"South Africa","Natural gas",0
+"144",2016,"South Africa","Petroleum",6277.49020037959
+"145",2016,"Spain","Coal",4577.26206058927
+"146",2016,"Spain","Fossil-based electricity",0
+"147",2016,"Spain","Natural gas",0
+"148",2016,"Spain","Petroleum",9868.10588283238
+"149",2016,"Turkiye","Coal",29885.7341779467
+"150",2016,"Turkiye","Fossil-based electricity",0
+"151",2016,"Turkiye","Natural gas",2386.05058214531
+"152",2016,"Turkiye","Petroleum",4022.14430157324
+"153",2016,"United Kingdom","Coal",7903.32005405938
+"154",2016,"United Kingdom","Fossil-based electricity",0
+"155",2016,"United Kingdom","Natural gas",2611.71480120474
+"156",2016,"United Kingdom","Petroleum",28606.2120873836
+"157",2016,"United States","Coal",147789.485237294
+"158",2016,"United States","Fossil-based electricity",0
+"159",2016,"United States","Natural gas",69229.4639944049
+"160",2016,"United States","Petroleum",479983.487527162
+"161",2017,"Belgium","Coal",1041.86110412194
+"162",2017,"Belgium","Fossil-based electricity",0
+"163",2017,"Belgium","Natural gas",461.811914911949
+"164",2017,"Belgium","Petroleum",2978.70215630222
+"165",2017,"Brazil","Coal",5318.58247536417
+"166",2017,"Brazil","Fossil-based electricity",0
+"167",2017,"Brazil","Natural gas",96.0199286320343
+"168",2017,"Brazil","Petroleum",33060.4630607853
+"169",2017,"China","Coal",971227.194704867
+"170",2017,"China","Fossil-based electricity",0
+"171",2017,"China","Natural gas",10185.8658922556
+"172",2017,"China","Petroleum",237484.594460948
+"173",2017,"Denmark","Coal",338.463630273027
+"174",2017,"Denmark","Fossil-based electricity",0
+"175",2017,"Denmark","Natural gas",0
+"176",2017,"Denmark","Petroleum",0
+"177",2017,"Finland","Coal",840.654980341797
+"178",2017,"Finland","Fossil-based electricity",0
+"179",2017,"Finland","Natural gas",5.49378316181786
+"180",2017,"Finland","Petroleum",0
+"181",2017,"France","Coal",2775.48184949845
+"182",2017,"France","Fossil-based electricity",0
+"183",2017,"France","Natural gas",0
+"184",2017,"France","Petroleum",21169.0318726591
+"185",2017,"Germany","Coal",23691.3096782389
+"186",2017,"Germany","Fossil-based electricity",0
+"187",2017,"Germany","Natural gas",452.753467863996
+"188",2017,"Germany","Petroleum",44521.3729100188
+"189",2017,"India","Coal",113331.575534059
+"190",2017,"India","Fossil-based electricity",0
+"191",2017,"India","Natural gas",5843.16049495872
+"192",2017,"India","Petroleum",57105.2969665758
+"193",2017,"Indonesia","Coal",16126.7438712949
+"194",2017,"Indonesia","Fossil-based electricity",0
+"195",2017,"Indonesia","Natural gas",4489.01086324639
+"196",2017,"Indonesia","Petroleum",50524.4403185965
+"197",2017,"Ireland","Coal",1803.62515305525
+"198",2017,"Ireland","Fossil-based electricity",0
+"199",2017,"Ireland","Natural gas",16.2619946878002
+"200",2017,"Ireland","Petroleum",157.599634626944
+"201",2017,"Italy","Coal",2373.48786660909
+"202",2017,"Italy","Fossil-based electricity",0
+"203",2017,"Italy","Natural gas",0
+"204",2017,"Italy","Petroleum",12287.1784666351
+"205",2017,"Japan","Coal",41883.8335406282
+"206",2017,"Japan","Fossil-based electricity",0
+"207",2017,"Japan","Natural gas",4108.23438989008
+"208",2017,"Japan","Petroleum",141115.151691396
+"209",2017,"Luxembourg","Coal",14.544979966481
+"210",2017,"Luxembourg","Fossil-based electricity",0
+"211",2017,"Luxembourg","Natural gas",62.5915631348677
+"212",2017,"Luxembourg","Petroleum",1780.44480506916
+"213",2017,"Mexico","Coal",3908.67166784439
+"214",2017,"Mexico","Fossil-based electricity",0
+"215",2017,"Mexico","Natural gas",7145.79868035577
+"216",2017,"Mexico","Petroleum",48460.1463673542
+"217",2017,"Russian Federation","Coal",87543.7937702315
+"218",2017,"Russian Federation","Fossil-based electricity",0
+"219",2017,"Russian Federation","Natural gas",48644.6768891085
+"220",2017,"Russian Federation","Petroleum",101460.333914285
+"221",2017,"South Africa","Coal",37572.8799395927
+"222",2017,"South Africa","Fossil-based electricity",0
+"223",2017,"South Africa","Natural gas",0
+"224",2017,"South Africa","Petroleum",5091.50424724089
+"225",2017,"Spain","Coal",5886.72910949102
+"226",2017,"Spain","Fossil-based electricity",0
+"227",2017,"Spain","Natural gas",744.439118174737
+"228",2017,"Spain","Petroleum",10779.0893002626
+"229",2017,"Turkiye","Coal",32730.1305949409
+"230",2017,"Turkiye","Fossil-based electricity",0
+"231",2017,"Turkiye","Natural gas",7904.6618510122
+"232",2017,"Turkiye","Petroleum",8792.80104371274
+"233",2017,"United Kingdom","Coal",6334.93151417782
+"234",2017,"United Kingdom","Fossil-based electricity",0
+"235",2017,"United Kingdom","Natural gas",10009.8679750438
+"236",2017,"United Kingdom","Petroleum",27537.2413309979
+"237",2017,"United States","Coal",149312.386786901
+"238",2017,"United States","Fossil-based electricity",0
+"239",2017,"United States","Natural gas",68954.2901450058
+"240",2017,"United States","Petroleum",494266.529908505
+"241",2018,"Belgium","Coal",1014.00416279478
+"242",2018,"Belgium","Fossil-based electricity",0
+"243",2018,"Belgium","Natural gas",543.346947272766
+"244",2018,"Belgium","Petroleum",1183.02771352901
+"245",2018,"Brazil","Coal",5516.7621494908
+"246",2018,"Brazil","Fossil-based electricity",0
+"247",2018,"Brazil","Natural gas",99.7362762528468
+"248",2018,"Brazil","Petroleum",50746.7458863675
+"249",2018,"China","Coal",1070344.19500434
+"250",2018,"China","Fossil-based electricity",0
+"251",2018,"China","Natural gas",15879.2868277272
+"252",2018,"China","Petroleum",325901.679647069
+"253",2018,"Denmark","Coal",304.633920263333
+"254",2018,"Denmark","Fossil-based electricity",0
+"255",2018,"Denmark","Natural gas",0
+"256",2018,"Denmark","Petroleum",0
+"257",2018,"Finland","Coal",789.449125028076
+"258",2018,"Finland","Fossil-based electricity",0
+"259",2018,"Finland","Natural gas",7.58576476948996
+"260",2018,"Finland","Petroleum",0
+"261",2018,"France","Coal",2521.98818666385
+"262",2018,"France","Fossil-based electricity",0
+"263",2018,"France","Natural gas",0
+"264",2018,"France","Petroleum",9469.98484557933
+"265",2018,"Germany","Coal",22268.8965689545
+"266",2018,"Germany","Fossil-based electricity",0
+"267",2018,"Germany","Natural gas",2316.49948555078
+"268",2018,"Germany","Petroleum",44891.8503352607
+"269",2018,"India","Coal",126281.330482576
+"270",2018,"India","Fossil-based electricity",0
+"271",2018,"India","Natural gas",5683.08364120761
+"272",2018,"India","Petroleum",74145.5581411631
+"273",2018,"Indonesia","Coal",19331.847965333
+"274",2018,"Indonesia","Fossil-based electricity",0
+"275",2018,"Indonesia","Natural gas",4661.04810192548
+"276",2018,"Indonesia","Petroleum",59369.9770223484
+"277",2018,"Ireland","Coal",1699.40030462188
+"278",2018,"Ireland","Fossil-based electricity",0
+"279",2018,"Ireland","Natural gas",21.875862012788
+"280",2018,"Ireland","Petroleum",727.23317975115
+"281",2018,"Italy","Coal",2090.33629863079
+"282",2018,"Italy","Fossil-based electricity",0
+"283",2018,"Italy","Natural gas",0
+"284",2018,"Italy","Petroleum",13555.6680111868
+"285",2018,"Japan","Coal",41501.3450491305
+"286",2018,"Japan","Fossil-based electricity",0
+"287",2018,"Japan","Natural gas",7681.96714276959
+"288",2018,"Japan","Petroleum",137583.880133173
+"289",2018,"Luxembourg","Coal",12.1693751211494
+"290",2018,"Luxembourg","Fossil-based electricity",0
+"291",2018,"Luxembourg","Natural gas",71.706572492543
+"292",2018,"Luxembourg","Petroleum",2015.39275599416
+"293",2018,"Mexico","Coal",3922.68041408207
+"294",2018,"Mexico","Fossil-based electricity",0
+"295",2018,"Mexico","Natural gas",9660.55398597842
+"296",2018,"Mexico","Petroleum",50527.7205515457
+"297",2018,"Russian Federation","Coal",99017.9965121771
+"298",2018,"Russian Federation","Fossil-based electricity",0
+"299",2018,"Russian Federation","Natural gas",57457.7803993977
+"300",2018,"Russian Federation","Petroleum",125374.641865542
+"301",2018,"South Africa","Coal",39149.3700183546
+"302",2018,"South Africa","Fossil-based electricity",0
+"303",2018,"South Africa","Natural gas",0
+"304",2018,"South Africa","Petroleum",6330.51071848584
+"305",2018,"Spain","Coal",5165.63543672348
+"306",2018,"Spain","Fossil-based electricity",0
+"307",2018,"Spain","Natural gas",1912.5500614106
+"308",2018,"Spain","Petroleum",12200.3691670005
+"309",2018,"Turkiye","Coal",34350.6607094593
+"310",2018,"Turkiye","Fossil-based electricity",0
+"311",2018,"Turkiye","Natural gas",8884.56551903946
+"312",2018,"Turkiye","Petroleum",15242.1819243643
+"313",2018,"United Kingdom","Coal",4900.58194001897
+"314",2018,"United Kingdom","Fossil-based electricity",0
+"315",2018,"United Kingdom","Natural gas",11120.506294652
+"316",2018,"United Kingdom","Petroleum",25145.3615659149
+"317",2018,"United States","Coal",151372.530358409
+"318",2018,"United States","Fossil-based electricity",0
+"319",2018,"United States","Natural gas",79234.0613319433
+"320",2018,"United States","Petroleum",518786.795490586
+"321",2019,"Belgium","Coal",935.926529030029
+"322",2019,"Belgium","Fossil-based electricity",0
+"323",2019,"Belgium","Natural gas",410.993351856455
+"324",2019,"Belgium","Petroleum",3694.25172744796
+"325",2019,"Brazil","Coal",5433.6900252012
+"326",2019,"Brazil","Fossil-based electricity",0
+"327",2019,"Brazil","Natural gas",109.705115270305
+"328",2019,"Brazil","Petroleum",50849.6032848467
+"329",2019,"China","Coal",1125857.92262662
+"330",2019,"China","Fossil-based electricity",0
+"331",2019,"China","Natural gas",16984.9818794587
+"332",2019,"China","Petroleum",361122.563789032
+"333",2019,"Denmark","Coal",158.720733008585
+"334",2019,"Denmark","Fossil-based electricity",0
+"335",2019,"Denmark","Natural gas",0
+"336",2019,"Denmark","Petroleum",1175.39789975568
+"337",2019,"Finland","Coal",629.476766321763
+"338",2019,"Finland","Fossil-based electricity",0
+"339",2019,"Finland","Natural gas",3.36637804190695
+"340",2019,"Finland","Petroleum",53.567555059168
+"341",2019,"France","Coal",1983.77566843771
+"342",2019,"France","Fossil-based electricity",0
+"343",2019,"France","Natural gas",0
+"344",2019,"France","Petroleum",19205.3385436202
+"345",2019,"Germany","Coal",16993.2614795857
+"346",2019,"Germany","Fossil-based electricity",0
+"347",2019,"Germany","Natural gas",264.358809547991
+"348",2019,"Germany","Petroleum",54746.3040380352
+"349",2019,"India","Coal",130387.974634444
+"350",2019,"India","Fossil-based electricity",0
+"351",2019,"India","Natural gas",7399.29315736618
+"352",2019,"India","Petroleum",83744.5907429412
+"353",2019,"Indonesia","Coal",25622.3539905599
+"354",2019,"Indonesia","Fossil-based electricity",0
+"355",2019,"Indonesia","Natural gas",4950.88783717373
+"356",2019,"Indonesia","Petroleum",58692.199406378
+"357",2019,"Ireland","Coal",914.53181948468
+"358",2019,"Ireland","Fossil-based electricity",0
+"359",2019,"Ireland","Natural gas",0
+"360",2019,"Ireland","Petroleum",2534.41762012696
+"361",2019,"Italy","Coal",1504.5441090307
+"362",2019,"Italy","Fossil-based electricity",0
+"363",2019,"Italy","Natural gas",0
+"364",2019,"Italy","Petroleum",19534.4390533291
+"365",2019,"Japan","Coal",41808.1398645954
+"366",2019,"Japan","Fossil-based electricity",0
+"367",2019,"Japan","Natural gas",7659.99715876789
+"368",2019,"Japan","Petroleum",133864.212074942
+"369",2019,"Luxembourg","Coal",12.5315737771078
+"370",2019,"Luxembourg","Fossil-based electricity",0
+"371",2019,"Luxembourg","Natural gas",68.2571900198638
+"372",2019,"Luxembourg","Petroleum",2505.05255586176
+"373",2019,"Mexico","Coal",3783.38739716898
+"374",2019,"Mexico","Fossil-based electricity",0
+"375",2019,"Mexico","Natural gas",9138.14824779924
+"376",2019,"Mexico","Petroleum",48244.1510985599
+"377",2019,"Russian Federation","Coal",110013.031933796
+"378",2019,"Russian Federation","Fossil-based electricity",0
+"379",2019,"Russian Federation","Natural gas",59745.5272351871
+"380",2019,"Russian Federation","Petroleum",136359.623336828
+"381",2019,"South Africa","Coal",39772.1065018743
+"382",2019,"South Africa","Fossil-based electricity",0
+"383",2019,"South Africa","Natural gas",0.804178148488745
+"384",2019,"South Africa","Petroleum",7144.26125677854
+"385",2019,"Spain","Coal",2055.01095018812
+"386",2019,"Spain","Fossil-based electricity",0
+"387",2019,"Spain","Natural gas",0
+"388",2019,"Spain","Petroleum",17051.3735755667
+"389",2019,"Turkiye","Coal",35447.9641023848
+"390",2019,"Turkiye","Fossil-based electricity",0
+"391",2019,"Turkiye","Natural gas",6477.94851897112
+"392",2019,"Turkiye","Petroleum",17636.4086283204
+"393",2019,"United Kingdom","Coal",3158.74951310312
+"394",2019,"United Kingdom","Fossil-based electricity",0
+"395",2019,"United Kingdom","Natural gas",4790.82579272591
+"396",2019,"United Kingdom","Petroleum",30954.959564883
+"397",2019,"United States","Coal",133858.241567132
+"398",2019,"United States","Fossil-based electricity",0
+"399",2019,"United States","Natural gas",102178.669978113
+"400",2019,"United States","Petroleum",540598.675384668
+"401",2020,"Belgium","Coal",595.037130385552
+"402",2020,"Belgium","Fossil-based electricity",0
+"403",2020,"Belgium","Natural gas",327.746716418706
+"404",2020,"Belgium","Petroleum",2751.50767981801
+"405",2020,"Brazil","Coal",4699.24615255417
+"406",2020,"Brazil","Fossil-based electricity",0
+"407",2020,"Brazil","Natural gas",107.297015030253
+"408",2020,"Brazil","Petroleum",48818.7249056635
+"409",2020,"China","Coal",1125557.31698002
+"410",2020,"China","Fossil-based electricity",0
+"411",2020,"China","Natural gas",16475.4543866401
+"412",2020,"China","Petroleum",339473.36091585
+"413",2020,"Denmark","Coal",154.757130311666
+"414",2020,"Denmark","Fossil-based electricity",0
+"415",2020,"Denmark","Natural gas",0
+"416",2020,"Denmark","Petroleum",1309.66040992635
+"417",2020,"Finland","Coal",499.396936514187
+"418",2020,"Finland","Fossil-based electricity",0
+"419",2020,"Finland","Natural gas",2.36837767621477
+"420",2020,"Finland","Petroleum",53.3189496224046
+"421",2020,"France","Coal",1492.86925643039
+"422",2020,"France","Fossil-based electricity",0
+"423",2020,"France","Natural gas",0
+"424",2020,"France","Petroleum",11964.0461298669
+"425",2020,"Germany","Coal",14345.8654632787
+"426",2020,"Germany","Fossil-based electricity",0
+"427",2020,"Germany","Natural gas",0
+"428",2020,"Germany","Petroleum",44985.2811051094
+"429",2020,"India","Coal",124848.199986967
+"430",2020,"India","Fossil-based electricity",0
+"431",2020,"India","Natural gas",7844.24056345253
+"432",2020,"India","Petroleum",50369.6507954013
+"433",2020,"Indonesia","Coal",22458.675937968
+"434",2020,"Indonesia","Fossil-based electricity",0
+"435",2020,"Indonesia","Natural gas",4932.14931043041
+"436",2020,"Indonesia","Petroleum",49510.0224030819
+"437",2020,"Ireland","Coal",823.841036197277
+"438",2020,"Ireland","Fossil-based electricity",0
+"439",2020,"Ireland","Natural gas",0
+"440",2020,"Ireland","Petroleum",2481.41673126539
+"441",2020,"Italy","Coal",927.037874647447
+"442",2020,"Italy","Fossil-based electricity",0
+"443",2020,"Italy","Natural gas",0
+"444",2020,"Italy","Petroleum",12982.2169092195
+"445",2020,"Japan","Coal",38309.9995583667
+"446",2020,"Japan","Fossil-based electricity",0
+"447",2020,"Japan","Natural gas",12331.9376890469
+"448",2020,"Japan","Petroleum",114216.212748903
+"449",2020,"Luxembourg","Coal",9.64423697031675
+"450",2020,"Luxembourg","Fossil-based electricity",0
+"451",2020,"Luxembourg","Natural gas",53.9298470996266
+"452",2020,"Luxembourg","Petroleum",2197.68162517174
+"453",2020,"Mexico","Coal",2434.54754030896
+"454",2020,"Mexico","Fossil-based electricity",0
+"455",2020,"Mexico","Natural gas",8940.80175192283
+"456",2020,"Mexico","Petroleum",35394.9790850955
+"457",2020,"Russian Federation","Coal",93495.1074715417
+"458",2020,"Russian Federation","Fossil-based electricity",0
+"459",2020,"Russian Federation","Natural gas",59285.2063983529
+"460",2020,"Russian Federation","Petroleum",122897.10683556
+"461",2020,"South Africa","Coal",38095.2440280078
+"462",2020,"South Africa","Fossil-based electricity",0
+"463",2020,"South Africa","Natural gas",0.809429640133775
+"464",2020,"South Africa","Petroleum",4972.190158824
+"465",2020,"Spain","Coal",1209.9799380523
+"466",2020,"Spain","Fossil-based electricity",0
+"467",2020,"Spain","Natural gas",0
+"468",2020,"Spain","Petroleum",9705.12422618802
+"469",2020,"Turkiye","Coal",17534.0373762249
+"470",2020,"Turkiye","Fossil-based electricity",0
+"471",2020,"Turkiye","Natural gas",3066.36936030991
+"472",2020,"Turkiye","Petroleum",14657.0725402716
+"473",2020,"United Kingdom","Coal",2011.37630280064
+"474",2020,"United Kingdom","Fossil-based electricity",0
+"475",2020,"United Kingdom","Natural gas",3459.8494998677
+"476",2020,"United Kingdom","Petroleum",17582.1109573694
+"477",2020,"United States","Coal",108134.028250753
+"478",2020,"United States","Fossil-based electricity",0
+"479",2020,"United States","Natural gas",98325.927402577
+"480",2020,"United States","Petroleum",448282.605671064
+"481",2021,"Belgium","Coal",568.439067717486
+"482",2021,"Belgium","Fossil-based electricity",0
+"483",2021,"Belgium","Natural gas",2532.21283111219
+"484",2021,"Belgium","Petroleum",3096.8501151764
+"485",2021,"Brazil","Coal",4563.62631040692
+"486",2021,"Brazil","Fossil-based electricity",0
+"487",2021,"Brazil","Natural gas",2680.70277667237
+"488",2021,"Brazil","Petroleum",55804.6919177245
+"489",2021,"China","Coal",1200149.43648835
+"490",2021,"China","Fossil-based electricity",0
+"491",2021,"China","Natural gas",74700.6128666353
+"492",2021,"China","Petroleum",384272.30442052
+"493",2021,"Denmark","Coal",59.6210831100194
+"494",2021,"Denmark","Fossil-based electricity",0
+"495",2021,"Denmark","Natural gas",11.4968076575037
+"496",2021,"Denmark","Petroleum",1483.55138707944
+"497",2021,"Finland","Coal",257.9137393612
+"498",2021,"Finland","Fossil-based electricity",0
+"499",2021,"Finland","Natural gas",9.41219223851755
+"500",2021,"Finland","Petroleum",23.8884005771108
+"501",2021,"France","Coal",1254.842184223
+"502",2021,"France","Fossil-based electricity",0
+"503",2021,"France","Natural gas",7280.71240605474
+"504",2021,"France","Petroleum",19129.0782146878
+"505",2021,"Germany","Coal",9731.20155808775
+"506",2021,"Germany","Fossil-based electricity",0
+"507",2021,"Germany","Natural gas",9209.56106520958
+"508",2021,"Germany","Petroleum",44035.3997038945
+"509",2021,"India","Coal",139321.811423112
+"510",2021,"India","Fossil-based electricity",0
+"511",2021,"India","Natural gas",7467.32633437433
+"512",2021,"India","Petroleum",69513.9047463932
+"513",2021,"Indonesia","Coal",24691.5910359448
+"514",2021,"Indonesia","Fossil-based electricity",0
+"515",2021,"Indonesia","Natural gas",5370.78343715026
+"516",2021,"Indonesia","Petroleum",58704.8369406408
+"517",2021,"Ireland","Coal",716.026139948779
+"518",2021,"Ireland","Fossil-based electricity",0
+"519",2021,"Ireland","Natural gas",104.960169585726
+"520",2021,"Ireland","Petroleum",1598.93405590712
+"521",2021,"Italy","Coal",600.223670885276
+"522",2021,"Italy","Fossil-based electricity",0
+"523",2021,"Italy","Natural gas",7235.73563196376
+"524",2021,"Italy","Petroleum",19070.8332228045
+"525",2021,"Japan","Coal",38479.1579773254
+"526",2021,"Japan","Fossil-based electricity",0
+"527",2021,"Japan","Natural gas",15820.9588861171
+"528",2021,"Japan","Petroleum",136341.266653377
+"529",2021,"Luxembourg","Coal",6.80349706764374
+"530",2021,"Luxembourg","Fossil-based electricity",0
+"531",2021,"Luxembourg","Natural gas",93.3818122193578
+"532",2021,"Luxembourg","Petroleum",2555.67829270614
+"533",2021,"Mexico","Coal",3334.02810490325
+"534",2021,"Mexico","Fossil-based electricity",0
+"535",2021,"Mexico","Natural gas",10174.8089702905
+"536",2021,"Mexico","Petroleum",49141.7526026822
+"537",2021,"Russian Federation","Coal",107994.017433031
+"538",2021,"Russian Federation","Fossil-based electricity",0
+"539",2021,"Russian Federation","Natural gas",59926.2957856155
+"540",2021,"Russian Federation","Petroleum",149981.996305645
+"541",2021,"South Africa","Coal",40345.7582340813
+"542",2021,"South Africa","Fossil-based electricity",0
+"543",2021,"South Africa","Natural gas",0.840899046475579
+"544",2021,"South Africa","Petroleum",5829.05457783424
+"545",2021,"Spain","Coal",1088.69095738521
+"546",2021,"Spain","Fossil-based electricity",0
+"547",2021,"Spain","Natural gas",5410.02956444969
+"548",2021,"Spain","Petroleum",13193.2427652649
+"549",2021,"Turkiye","Coal",32470.2245556101
+"550",2021,"Turkiye","Fossil-based electricity",0
+"551",2021,"Turkiye","Natural gas",10254.8547560068
+"552",2021,"Turkiye","Petroleum",30087.919521112
+"553",2021,"United Kingdom","Coal",2155.74444983408
+"554",2021,"United Kingdom","Fossil-based electricity",0
+"555",2021,"United Kingdom","Natural gas",13157.5825670127
+"556",2021,"United Kingdom","Petroleum",28744.0970131599
+"557",2021,"United States","Coal",112703.438562026
+"558",2021,"United States","Fossil-based electricity",0
+"559",2021,"United States","Natural gas",89496.3358671717
+"560",2021,"United States","Petroleum",523779.905656626
+"561",2022,"Belgium","Coal",326.925441936297
+"562",2022,"Belgium","Fossil-based electricity",0
+"563",2022,"Belgium","Natural gas",3236.06369978483
+"564",2022,"Belgium","Petroleum",5206.07170158907
+"565",2022,"Brazil","Coal",4079.89978099878
+"566",2022,"Brazil","Fossil-based electricity",0
+"567",2022,"Brazil","Natural gas",2939.63014063189
+"568",2022,"Brazil","Petroleum",53466.0984367015
+"569",2022,"China","Coal",1229618.57627603
+"570",2022,"China","Fossil-based electricity",0
+"571",2022,"China","Natural gas",98966.2740814371
+"572",2022,"China","Petroleum",455968.758777579
+"573",2022,"Denmark","Coal",0
+"574",2022,"Denmark","Fossil-based electricity",0
+"575",2022,"Denmark","Natural gas",163.261947675739
+"576",2022,"Denmark","Petroleum",2001.14309424299
+"577",2022,"Finland","Coal",67.9231309173693
+"578",2022,"Finland","Fossil-based electricity",0
+"579",2022,"Finland","Natural gas",15.4763035677842
+"580",2022,"Finland","Petroleum",62.4418974563537
+"581",2022,"France","Coal",861.584898957639
+"582",2022,"France","Fossil-based electricity",0
+"583",2022,"France","Natural gas",11599.5785210963
+"584",2022,"France","Petroleum",29382.6607263828
+"585",2022,"Germany","Coal",4680.19190242082
+"586",2022,"Germany","Fossil-based electricity",0
+"587",2022,"Germany","Natural gas",23700.0433216648
+"588",2022,"Germany","Petroleum",49491.6286772685
+"589",2022,"India","Coal",132109.031764849
+"590",2022,"India","Fossil-based electricity",0
+"591",2022,"India","Natural gas",6025.16465653194
+"592",2022,"India","Petroleum",147183.814770045
+"593",2022,"Indonesia","Coal",28716.7167167174
+"594",2022,"Indonesia","Fossil-based electricity",0
+"595",2022,"Indonesia","Natural gas",7696.67151348057
+"596",2022,"Indonesia","Petroleum",68852.2978252857
+"597",2022,"Ireland","Coal",704.438210685824
+"598",2022,"Ireland","Fossil-based electricity",0
+"599",2022,"Ireland","Natural gas",92.0908445172556
+"600",2022,"Ireland","Petroleum",2070.13894048365
+"601",2022,"Italy","Coal",300.050601384234
+"602",2022,"Italy","Fossil-based electricity",0
+"603",2022,"Italy","Natural gas",17739.494712547
+"604",2022,"Italy","Petroleum",30808.0360498762
+"605",2022,"Japan","Coal",36237.72568818
+"606",2022,"Japan","Fossil-based electricity",0
+"607",2022,"Japan","Natural gas",15143.9157614159
+"608",2022,"Japan","Petroleum",199592.253804812
+"609",2022,"Luxembourg","Coal",2.04533132746078
+"610",2022,"Luxembourg","Fossil-based electricity",0
+"611",2022,"Luxembourg","Natural gas",139.41873803164
+"612",2022,"Luxembourg","Petroleum",2565.88374304208
+"613",2022,"Mexico","Coal",3060.85859774774
+"614",2022,"Mexico","Fossil-based electricity",0
+"615",2022,"Mexico","Natural gas",9159.07151235088
+"616",2022,"Mexico","Petroleum",63512.0392266018
+"617",2022,"Russian Federation","Coal",114985.503163129
+"618",2022,"Russian Federation","Fossil-based electricity",0
+"619",2022,"Russian Federation","Natural gas",52600.4969108927
+"620",2022,"Russian Federation","Petroleum",150851.206555714
+"621",2022,"South Africa","Coal",42164.7417487327
+"622",2022,"South Africa","Fossil-based electricity",0
+"623",2022,"South Africa","Natural gas",0.910472121298625
+"624",2022,"South Africa","Petroleum",8433.38190327559
+"625",2022,"Spain","Coal",840.343109287742
+"626",2022,"Spain","Fossil-based electricity",0
+"627",2022,"Spain","Natural gas",5966.5354993669
+"628",2022,"Spain","Petroleum",15894.3153448138
+"629",2022,"Turkiye","Coal",37653.0177210267
+"630",2022,"Turkiye","Fossil-based electricity",0
+"631",2022,"Turkiye","Natural gas",14612.6658027797
+"632",2022,"Turkiye","Petroleum",32524.016014364
+"633",2022,"United Kingdom","Coal",2211.56622951856
+"634",2022,"United Kingdom","Fossil-based electricity",0
+"635",2022,"United Kingdom","Natural gas",13542.219799535
+"636",2022,"United Kingdom","Petroleum",34599.3606334632
+"637",2022,"United States","Coal",116258.367038293
+"638",2022,"United States","Fossil-based electricity",0
+"639",2022,"United States","Natural gas",99533.2850934329
+"640",2022,"United States","Petroleum",468836.345213655
+"641",2023,"Belgium","Coal",365.963534074465
+"642",2023,"Belgium","Fossil-based electricity",0
+"643",2023,"Belgium","Natural gas",3622.94414385461
+"644",2023,"Belgium","Petroleum",3877.48609635338
+"645",2023,"Brazil","Coal",4730.13946837456
+"646",2023,"Brazil","Fossil-based electricity",0
+"647",2023,"Brazil","Natural gas",146.581038660384
+"648",2023,"Brazil","Petroleum",51214.8157749098
+"649",2023,"China","Coal",1361181.37612971
+"650",2023,"China","Fossil-based electricity",0
+"651",2023,"China","Natural gas",92397.5749857084
+"652",2023,"China","Petroleum",431026.626242849
+"653",2023,"Denmark","Coal",0
+"654",2023,"Denmark","Fossil-based electricity",0
+"655",2023,"Denmark","Natural gas",165.950070129268
+"656",2023,"Denmark","Petroleum",1708.66588144609
+"657",2023,"Finland","Coal",57.0093031968155
+"658",2023,"Finland","Fossil-based electricity",0
+"659",2023,"Finland","Natural gas",12.3790375685951
+"660",2023,"Finland","Petroleum",62.0170259346447
+"661",2023,"France","Coal",968.033233173527
+"662",2023,"France","Fossil-based electricity",0
+"663",2023,"France","Natural gas",11199.0027666971
+"664",2023,"France","Petroleum",21589.8149350076
+"665",2023,"Germany","Coal",4637.06512757876
+"666",2023,"Germany","Fossil-based electricity",0
+"667",2023,"Germany","Natural gas",24673.4467431529
+"668",2023,"Germany","Petroleum",47826.1739072071
+"669",2023,"India","Coal",148653.763288163
+"670",2023,"India","Fossil-based electricity",0
+"671",2023,"India","Natural gas",8264.13835896191
+"672",2023,"India","Petroleum",129356.007535848
+"673",2023,"Indonesia","Coal",32330.0282117132
+"674",2023,"Indonesia","Fossil-based electricity",0
+"675",2023,"Indonesia","Natural gas",7006.93681979892
+"676",2023,"Indonesia","Petroleum",71788.0564725072
+"677",2023,"Ireland","Coal",667.08151309519
+"678",2023,"Ireland","Fossil-based electricity",0
+"679",2023,"Ireland","Natural gas",730.002198402235
+"680",2023,"Ireland","Petroleum",1533.28284805078
+"681",2023,"Italy","Coal",307.301062254218
+"682",2023,"Italy","Fossil-based electricity",0
+"683",2023,"Italy","Natural gas",14422.6583914615
+"684",2023,"Italy","Petroleum",21616.276227828
+"685",2023,"Japan","Coal",39163.0727922311
+"686",2023,"Japan","Fossil-based electricity",0
+"687",2023,"Japan","Natural gas",15445.7987468595
+"688",2023,"Japan","Petroleum",166026.116962175
+"689",2023,"Luxembourg","Coal",2.46375054917853
+"690",2023,"Luxembourg","Fossil-based electricity",0
+"691",2023,"Luxembourg","Natural gas",178.903677511199
+"692",2023,"Luxembourg","Petroleum",2592.95420275632
+"693",2023,"Mexico","Coal",3473.05444338085
+"694",2023,"Mexico","Fossil-based electricity",0
+"695",2023,"Mexico","Natural gas",9433.03465515323
+"696",2023,"Mexico","Petroleum",53069.8103797522
+"697",2023,"Russian Federation","Coal",120573.026927929
+"698",2023,"Russian Federation","Fossil-based electricity",0
+"699",2023,"Russian Federation","Natural gas",59024.0332311329
+"700",2023,"Russian Federation","Petroleum",138689.655486241
+"701",2023,"South Africa","Coal",47191.157757872
+"702",2023,"South Africa","Fossil-based electricity",0
+"703",2023,"South Africa","Natural gas",1.0674331899168
+"704",2023,"South Africa","Petroleum",7144.05621850397
+"705",2023,"Spain","Coal",894.858777145459
+"706",2023,"Spain","Fossil-based electricity",0
+"707",2023,"Spain","Natural gas",6797.89753569477
+"708",2023,"Spain","Petroleum",14616.0236049278
+"709",2023,"Turkiye","Coal",40356.1564223706
+"710",2023,"Turkiye","Fossil-based electricity",0
+"711",2023,"Turkiye","Natural gas",10600.2912544116
+"712",2023,"Turkiye","Petroleum",25049.5592279658
+"713",2023,"United Kingdom","Coal",2572.51614455656
+"714",2023,"United Kingdom","Fossil-based electricity",0
+"715",2023,"United Kingdom","Natural gas",12246.4829593301
+"716",2023,"United Kingdom","Petroleum",29351.151167758
+"717",2023,"United States","Coal",122121.834514363
+"718",2023,"United States","Fossil-based electricity",0
+"719",2023,"United States","Natural gas",113841.669383719
+"720",2023,"United States","Petroleum",478017.048384318
+"721",2024,"Belgium","Coal",384.510610196816
+"722",2024,"Belgium","Fossil-based electricity",0
+"723",2024,"Belgium","Natural gas",3581.33400775435
+"724",2024,"Belgium","Petroleum",3775.51853797403
+"725",2024,"Brazil","Coal",4980.19459211049
+"726",2024,"Brazil","Fossil-based electricity",0
+"727",2024,"Brazil","Natural gas",142.000288367806
+"728",2024,"Brazil","Petroleum",49608.7011142575
+"729",2024,"China","Coal",1433887.2455648
+"730",2024,"China","Fossil-based electricity",0
+"731",2024,"China","Natural gas",81893.6983765453
+"732",2024,"China","Petroleum",435258.300789217
+"733",2024,"Denmark","Coal",0
+"734",2024,"Denmark","Fossil-based electricity",0
+"735",2024,"Denmark","Natural gas",71.890798435181
+"736",2024,"Denmark","Petroleum",1901.36979240835
+"737",2024,"Finland","Coal",52.1196917533642
+"738",2024,"Finland","Fossil-based electricity",0
+"739",2024,"Finland","Natural gas",11.4941974816719
+"740",2024,"Finland","Petroleum",66.141960555989
+"741",2024,"France","Coal",1007.87141601855
+"742",2024,"France","Fossil-based electricity",0
+"743",2024,"France","Natural gas",10735.7461116005
+"744",2024,"France","Petroleum",20312.2469383471
+"745",2024,"Germany","Coal",4665.24540909916
+"746",2024,"Germany","Fossil-based electricity",0
+"747",2024,"Germany","Natural gas",24277.7259308499
+"748",2024,"Germany","Petroleum",49694.4929964628
+"749",2024,"India","Coal",159594.129004029
+"750",2024,"India","Fossil-based electricity",0
+"751",2024,"India","Natural gas",9621.89083452481
+"752",2024,"India","Petroleum",132208.438316989
+"753",2024,"Indonesia","Coal",38127.0999509872
+"754",2024,"Indonesia","Fossil-based electricity",0
+"755",2024,"Indonesia","Natural gas",7124.58241887561
+"756",2024,"Indonesia","Petroleum",73790.4034256262
+"757",2024,"Ireland","Coal",698.218322218214
+"758",2024,"Ireland","Fossil-based electricity",0
+"759",2024,"Ireland","Natural gas",622.630734301565
+"760",2024,"Ireland","Petroleum",1637.48516081617
+"761",2024,"Italy","Coal",320.003991055957
+"762",2024,"Italy","Fossil-based electricity",0
+"763",2024,"Italy","Natural gas",12797.4938756159
+"764",2024,"Italy","Petroleum",19332.8917617377
+"765",2024,"Japan","Coal",38978.7456974427
+"766",2024,"Japan","Fossil-based electricity",0
+"767",2024,"Japan","Natural gas",14946.4014154204
+"768",2024,"Japan","Petroleum",157481.443454663
+"769",2024,"Luxembourg","Coal",2.79868650419726
+"770",2024,"Luxembourg","Fossil-based electricity",0
+"771",2024,"Luxembourg","Natural gas",179.264366181602
+"772",2024,"Luxembourg","Petroleum",2809.1195242961
+"773",2024,"Mexico","Coal",3771.24123306915
+"774",2024,"Mexico","Fossil-based electricity",0
+"775",2024,"Mexico","Natural gas",9634.15316807253
+"776",2024,"Mexico","Petroleum",52562.5850422135
+"777",2024,"Russian Federation","Coal",124702.550215463
+"778",2024,"Russian Federation","Fossil-based electricity",0
+"779",2024,"Russian Federation","Natural gas",61586.8930818399
+"780",2024,"Russian Federation","Petroleum",136090.979802848
+"781",2024,"South Africa","Coal",49881.5903429321
+"782",2024,"South Africa","Fossil-based electricity",0
+"783",2024,"South Africa","Natural gas",1.0708997063861
+"784",2024,"South Africa","Petroleum",7157.52537246278
+"785",2024,"Spain","Coal",914.45957755729
+"786",2024,"Spain","Fossil-based electricity",0
+"787",2024,"Spain","Natural gas",6565.05590672749
+"788",2024,"Spain","Petroleum",15160.9448683659
+"789",2024,"Turkiye","Coal",42911.6031934924
+"790",2024,"Turkiye","Fossil-based electricity",0
+"791",2024,"Turkiye","Natural gas",10292.1689942886
+"792",2024,"Turkiye","Petroleum",22122.0283743924
+"793",2024,"United Kingdom","Coal",2613.08130962357
+"794",2024,"United Kingdom","Fossil-based electricity",0
+"795",2024,"United Kingdom","Natural gas",11699.4745596806
+"796",2024,"United Kingdom","Petroleum",29040.0817915175
+"797",2024,"United States","Coal",123538.692517026
+"798",2024,"United States","Fossil-based electricity",0
+"799",2024,"United States","Natural gas",113850.770093115
+"800",2024,"United States","Petroleum",490997.766443367
+"801",2025,"Belgium","Coal",405.284687667644
+"802",2025,"Belgium","Fossil-based electricity",0
+"803",2025,"Belgium","Natural gas",3679.73243135653
+"804",2025,"Belgium","Petroleum",3838.51532320588
+"805",2025,"Brazil","Coal",5322.55429989671
+"806",2025,"Brazil","Fossil-based electricity",0
+"807",2025,"Brazil","Natural gas",180.781539880888
+"808",2025,"Brazil","Petroleum",49421.6971727935
+"809",2025,"China","Coal",1558449.10698811
+"810",2025,"China","Fossil-based electricity",0
+"811",2025,"China","Natural gas",69464.0391050197
+"812",2025,"China","Petroleum",458378.826904566
+"813",2025,"Denmark","Coal",0
+"814",2025,"Denmark","Fossil-based electricity",0
+"815",2025,"Denmark","Natural gas",0
+"816",2025,"Denmark","Petroleum",2072.59564563775
+"817",2025,"Finland","Coal",60.9373900413447
+"818",2025,"Finland","Fossil-based electricity",0
+"819",2025,"Finland","Natural gas",11.1253673401649
+"820",2025,"Finland","Petroleum",69.7293381409299
+"821",2025,"France","Coal",1071.41896890867
+"822",2025,"France","Fossil-based electricity",0
+"823",2025,"France","Natural gas",9913.25783023315
+"824",2025,"France","Petroleum",20884.6413643016
+"825",2025,"Germany","Coal",4860.64152044966
+"826",2025,"Germany","Fossil-based electricity",0
+"827",2025,"Germany","Natural gas",24703.8328951231
+"828",2025,"Germany","Petroleum",51922.6718588201
+"829",2025,"India","Coal",183250.569456247
+"830",2025,"India","Fossil-based electricity",0
+"831",2025,"India","Natural gas",11173.9061069805
+"832",2025,"India","Petroleum",146520.65649192
+"833",2025,"Indonesia","Coal",47794.8297635408
+"834",2025,"Indonesia","Fossil-based electricity",0
+"835",2025,"Indonesia","Natural gas",7559.81244671358
+"836",2025,"Indonesia","Petroleum",77351.3346381744
+"837",2025,"Ireland","Coal",716.556322453092
+"838",2025,"Ireland","Fossil-based electricity",0
+"839",2025,"Ireland","Natural gas",527.792943126589
+"840",2025,"Ireland","Petroleum",1631.09629626811
+"841",2025,"Italy","Coal",345.325150971373
+"842",2025,"Italy","Fossil-based electricity",0
+"843",2025,"Italy","Natural gas",11825.088093164
+"844",2025,"Italy","Petroleum",18819.4297992742
+"845",2025,"Japan","Coal",39543.0735920299
+"846",2025,"Japan","Fossil-based electricity",0
+"847",2025,"Japan","Natural gas",14927.149460643
+"848",2025,"Japan","Petroleum",159136.360713657
+"849",2025,"Luxembourg","Coal",3.13132403339957
+"850",2025,"Luxembourg","Fossil-based electricity",0
+"851",2025,"Luxembourg","Natural gas",184.315483258857
+"852",2025,"Luxembourg","Petroleum",2940.0542203925
+"853",2025,"Mexico","Coal",4188.46187761328
+"854",2025,"Mexico","Fossil-based electricity",0
+"855",2025,"Mexico","Natural gas",9923.94446669906
+"856",2025,"Mexico","Petroleum",53809.0056335289
+"857",2025,"Russian Federation","Coal",122620.430984084
+"858",2025,"Russian Federation","Fossil-based electricity",0
+"859",2025,"Russian Federation","Natural gas",68347.3379221807
+"860",2025,"Russian Federation","Petroleum",137471.775067967
+"861",2025,"South Africa","Coal",56007.240537606
+"862",2025,"South Africa","Fossil-based electricity",0
+"863",2025,"South Africa","Natural gas",1.12089066513968
+"864",2025,"South Africa","Petroleum",7214.46330768387
+"865",2025,"Spain","Coal",964.178635036226
+"866",2025,"Spain","Fossil-based electricity",0
+"867",2025,"Spain","Natural gas",6669.81519443012
+"868",2025,"Spain","Petroleum",15590.6156638669
+"869",2025,"Turkiye","Coal",46360.5121623263
+"870",2025,"Turkiye","Fossil-based electricity",0
+"871",2025,"Turkiye","Natural gas",10410.2058039957
+"872",2025,"Turkiye","Petroleum",22555.0559501421
+"873",2025,"United Kingdom","Coal",2742.10979031935
+"874",2025,"United Kingdom","Fossil-based electricity",0
+"875",2025,"United Kingdom","Natural gas",11629.0741167183
+"876",2025,"United Kingdom","Petroleum",31609.9783960735
+"877",2025,"United States","Coal",128150.649769426
+"878",2025,"United States","Fossil-based electricity",0
+"879",2025,"United States","Natural gas",115275.124893635
+"880",2025,"United States","Petroleum",506892.91431032
+"881",2026,"Belgium","Coal",423.81375484697
+"882",2026,"Belgium","Fossil-based electricity",0
+"883",2026,"Belgium","Natural gas",3758.93682248424
+"884",2026,"Belgium","Petroleum",4044.23867854197
+"885",2026,"Brazil","Coal",5552.3552659314
+"886",2026,"Brazil","Fossil-based electricity",0
+"887",2026,"Brazil","Natural gas",242.714232970921
+"888",2026,"Brazil","Petroleum",49212.9881413125
+"889",2026,"China","Coal",1644227.42859862
+"890",2026,"China","Fossil-based electricity",0
+"891",2026,"China","Natural gas",61552.0533587067
+"892",2026,"China","Petroleum",482738.560038917
+"893",2026,"Denmark","Coal",0.0198306164006435
+"894",2026,"Denmark","Fossil-based electricity",0
+"895",2026,"Denmark","Natural gas",0
+"896",2026,"Denmark","Petroleum",2278.93786922874
+"897",2026,"Finland","Coal",68.8620232922304
+"898",2026,"Finland","Fossil-based electricity",0
+"899",2026,"Finland","Natural gas",10.845289875675
+"900",2026,"Finland","Petroleum",73.3660622599327
+"901",2026,"France","Coal",1123.73702372434
+"902",2026,"France","Fossil-based electricity",0
+"903",2026,"France","Natural gas",9279.80363110437
+"904",2026,"France","Petroleum",21892.0070401231
+"905",2026,"Germany","Coal",4903.26499918895
+"906",2026,"Germany","Fossil-based electricity",0
+"907",2026,"Germany","Natural gas",25220.9112244056
+"908",2026,"Germany","Petroleum",53451.7678282935
+"909",2026,"India","Coal",201183.486577617
+"910",2026,"India","Fossil-based electricity",0
+"911",2026,"India","Natural gas",13043.149146194
+"912",2026,"India","Petroleum",161737.690267013
+"913",2026,"Indonesia","Coal",51508.7178381477
+"914",2026,"Indonesia","Fossil-based electricity",0
+"915",2026,"Indonesia","Natural gas",7927.03875750802
+"916",2026,"Indonesia","Petroleum",81052.5478228005
+"917",2026,"Ireland","Coal",730.672725763618
+"918",2026,"Ireland","Fossil-based electricity",0
+"919",2026,"Ireland","Natural gas",443.601944274767
+"920",2026,"Ireland","Petroleum",1679.57201070152
+"921",2026,"Italy","Coal",370.415816020655
+"922",2026,"Italy","Fossil-based electricity",0
+"923",2026,"Italy","Natural gas",10928.2788011248
+"924",2026,"Italy","Petroleum",18953.7967997125
+"925",2026,"Japan","Coal",39101.1227484087
+"926",2026,"Japan","Fossil-based electricity",0
+"927",2026,"Japan","Natural gas",14993.2119394189
+"928",2026,"Japan","Petroleum",159917.067584229
+"929",2026,"Luxembourg","Coal",3.46431723682533
+"930",2026,"Luxembourg","Fossil-based electricity",0
+"931",2026,"Luxembourg","Natural gas",189.379682482359
+"932",2026,"Luxembourg","Petroleum",3104.50682792393
+"933",2026,"Mexico","Coal",4436.33795051699
+"934",2026,"Mexico","Fossil-based electricity",0
+"935",2026,"Mexico","Natural gas",10221.4271693451
+"936",2026,"Mexico","Petroleum",54951.4405420601
+"937",2026,"Russian Federation","Coal",118798.785445282
+"938",2026,"Russian Federation","Fossil-based electricity",0
+"939",2026,"Russian Federation","Natural gas",73457.2227632479
+"940",2026,"Russian Federation","Petroleum",139699.833867035
+"941",2026,"South Africa","Coal",57909.5692010988
+"942",2026,"South Africa","Fossil-based electricity",0
+"943",2026,"South Africa","Natural gas",1.17297405450434
+"944",2026,"South Africa","Petroleum",7284.3129879415
+"945",2026,"Spain","Coal",997.950019709017
+"946",2026,"Spain","Fossil-based electricity",0
+"947",2026,"Spain","Natural gas",6719.79317946079
+"948",2026,"Spain","Petroleum",15765.9886048332
+"949",2026,"Turkiye","Coal",48389.7304384207
+"950",2026,"Turkiye","Fossil-based electricity",0
+"951",2026,"Turkiye","Natural gas",10519.8587005744
+"952",2026,"Turkiye","Petroleum",23707.0186707639
+"953",2026,"United Kingdom","Coal",2814.29145709745
+"954",2026,"United Kingdom","Fossil-based electricity",0
+"955",2026,"United Kingdom","Natural gas",11610.7468126077
+"956",2026,"United Kingdom","Petroleum",32943.5097973086
+"957",2026,"United States","Coal",127500.549844371
+"958",2026,"United States","Fossil-based electricity",0
+"959",2026,"United States","Natural gas",118445.498385775
+"960",2026,"United States","Petroleum",523510.361618842
+"961",2027,"Belgium","Coal",442.395868127116
+"962",2027,"Belgium","Fossil-based electricity",0
+"963",2027,"Belgium","Natural gas",3803.27409625422
+"964",2027,"Belgium","Petroleum",4266.95366231774
+"965",2027,"Brazil","Coal",5749.20266722672
+"966",2027,"Brazil","Fossil-based electricity",0
+"967",2027,"Brazil","Natural gas",199.676847854019
+"968",2027,"Brazil","Petroleum",49170.4143653456
+"969",2027,"China","Coal",1717611.72719483
+"970",2027,"China","Fossil-based electricity",0
+"971",2027,"China","Natural gas",59563.083701121
+"972",2027,"China","Petroleum",507474.70832224
+"973",2027,"Denmark","Coal",2.16032948906933
+"974",2027,"Denmark","Fossil-based electricity",0
+"975",2027,"Denmark","Natural gas",0
+"976",2027,"Denmark","Petroleum",2497.6328535732
+"977",2027,"Finland","Coal",76.2679949176128
+"978",2027,"Finland","Fossil-based electricity",0
+"979",2027,"Finland","Natural gas",10.7744698009379
+"980",2027,"Finland","Petroleum",77.0391587588631
+"981",2027,"France","Coal",1172.58614581683
+"982",2027,"France","Fossil-based electricity",0
+"983",2027,"France","Natural gas",9105.04571036512
+"984",2027,"France","Petroleum",23215.917583563
+"985",2027,"Germany","Coal",4918.65071578366
+"986",2027,"Germany","Fossil-based electricity",0
+"987",2027,"Germany","Natural gas",25803.5632654147
+"988",2027,"Germany","Petroleum",54672.5482415575
+"989",2027,"India","Coal",218075.36340538
+"990",2027,"India","Fossil-based electricity",0
+"991",2027,"India","Natural gas",15569.2586303795
+"992",2027,"India","Petroleum",179131.363412779
+"993",2027,"Indonesia","Coal",54807.5989166815
+"994",2027,"Indonesia","Fossil-based electricity",0
+"995",2027,"Indonesia","Natural gas",8529.88112451647
+"996",2027,"Indonesia","Petroleum",85250.2988895786
+"997",2027,"Ireland","Coal",747.710689775321
+"998",2027,"Ireland","Fossil-based electricity",0
+"999",2027,"Ireland","Natural gas",420.53367074481
+"1000",2027,"Ireland","Petroleum",1737.77995826465
+"1001",2027,"Italy","Coal",392.771979143345
+"1002",2027,"Italy","Fossil-based electricity",0
+"1003",2027,"Italy","Natural gas",10685.0949018216
+"1004",2027,"Italy","Petroleum",19142.9506951445
+"1005",2027,"Japan","Coal",39061.9080183258
+"1006",2027,"Japan","Fossil-based electricity",0
+"1007",2027,"Japan","Natural gas",15331.5955741346
+"1008",2027,"Japan","Petroleum",161164.692559185
+"1009",2027,"Luxembourg","Coal",3.84574594361338
+"1010",2027,"Luxembourg","Fossil-based electricity",0
+"1011",2027,"Luxembourg","Natural gas",193.531831063934
+"1012",2027,"Luxembourg","Petroleum",3262.69668840851
+"1013",2027,"Mexico","Coal",4605.75031146822
+"1014",2027,"Mexico","Fossil-based electricity",0
+"1015",2027,"Mexico","Natural gas",10575.5810429719
+"1016",2027,"Mexico","Petroleum",56315.8706190553
+"1017",2027,"Russian Federation","Coal",113786.079019113
+"1018",2027,"Russian Federation","Fossil-based electricity",0
+"1019",2027,"Russian Federation","Natural gas",77895.7893322175
+"1020",2027,"Russian Federation","Petroleum",141894.726939444
+"1021",2027,"South Africa","Coal",59409.371222089
+"1022",2027,"South Africa","Fossil-based electricity",0
+"1023",2027,"South Africa","Natural gas",1.21302386038327
+"1024",2027,"South Africa","Petroleum",7446.41335011905
+"1025",2027,"Spain","Coal",1022.59805865581
+"1026",2027,"Spain","Fossil-based electricity",0
+"1027",2027,"Spain","Natural gas",6816.89222823185
+"1028",2027,"Spain","Petroleum",15834.5815049827
+"1029",2027,"Turkiye","Coal",50138.1209682679
+"1030",2027,"Turkiye","Fossil-based electricity",0
+"1031",2027,"Turkiye","Natural gas",10739.3031549117
+"1032",2027,"Turkiye","Petroleum",25185.5850442636
+"1033",2027,"United Kingdom","Coal",2880.39540444594
+"1034",2027,"United Kingdom","Fossil-based electricity",0
+"1035",2027,"United Kingdom","Natural gas",11700.5626139276
+"1036",2027,"United Kingdom","Petroleum",34299.2426223405
+"1037",2027,"United States","Coal",124293.469208419
+"1038",2027,"United States","Fossil-based electricity",0
+"1039",2027,"United States","Natural gas",122999.294571448
+"1040",2027,"United States","Petroleum",539593.443872031
+"1041",2028,"Belgium","Coal",460.908583153733
+"1042",2028,"Belgium","Fossil-based electricity",0
+"1043",2028,"Belgium","Natural gas",3829.46896751341
+"1044",2028,"Belgium","Petroleum",4497.18774295496
+"1045",2028,"Brazil","Coal",5939.75799202814
+"1046",2028,"Brazil","Fossil-based electricity",0
+"1047",2028,"Brazil","Natural gas",179.06369501896
+"1048",2028,"Brazil","Petroleum",49134.0323063499
+"1049",2028,"China","Coal",1788680.69333545
+"1050",2028,"China","Fossil-based electricity",0
+"1051",2028,"China","Natural gas",57674.3272989965
+"1052",2028,"China","Petroleum",532902.601151458
+"1053",2028,"Denmark","Coal",4.2836818718629
+"1054",2028,"Denmark","Fossil-based electricity",0
+"1055",2028,"Denmark","Natural gas",0
+"1056",2028,"Denmark","Petroleum",2728.79756498198
+"1057",2028,"Finland","Coal",88.4058386315411
+"1058",2028,"Finland","Fossil-based electricity",0
+"1059",2028,"Finland","Natural gas",10.7187819658794
+"1060",2028,"Finland","Petroleum",80.7682028033706
+"1061",2028,"France","Coal",1219.8623288486
+"1062",2028,"France","Fossil-based electricity",0
+"1063",2028,"France","Natural gas",8954.90594364813
+"1064",2028,"France","Petroleum",24554.298224806
+"1065",2028,"Germany","Coal",4866.42609297829
+"1066",2028,"Germany","Fossil-based electricity",0
+"1067",2028,"Germany","Natural gas",26313.5590308535
+"1068",2028,"Germany","Petroleum",55588.1494967215
+"1069",2028,"India","Coal",234090.184207214
+"1070",2028,"India","Fossil-based electricity",0
+"1071",2028,"India","Natural gas",17696.4517095136
+"1072",2028,"India","Petroleum",197537.0604704
+"1073",2028,"Indonesia","Coal",58130.8297610977
+"1074",2028,"Indonesia","Fossil-based electricity",0
+"1075",2028,"Indonesia","Natural gas",9041.93692541657
+"1076",2028,"Indonesia","Petroleum",89568.5191897742
+"1077",2028,"Ireland","Coal",764.362478805317
+"1078",2028,"Ireland","Fossil-based electricity",0
+"1079",2028,"Ireland","Natural gas",395.078599859611
+"1080",2028,"Ireland","Petroleum",1796.23707616792
+"1081",2028,"Italy","Coal",414.866049768404
+"1082",2028,"Italy","Fossil-based electricity",0
+"1083",2028,"Italy","Natural gas",10188.1165367941
+"1084",2028,"Italy","Petroleum",19326.0832199534
+"1085",2028,"Japan","Coal",39468.1756047101
+"1086",2028,"Japan","Fossil-based electricity",0
+"1087",2028,"Japan","Natural gas",15394.3073565004
+"1088",2028,"Japan","Petroleum",162527.25830774
+"1089",2028,"Luxembourg","Coal",4.23201429123427
+"1090",2028,"Luxembourg","Fossil-based electricity",0
+"1091",2028,"Luxembourg","Natural gas",192.286880667679
+"1092",2028,"Luxembourg","Petroleum",3426.99075690186
+"1093",2028,"Mexico","Coal",4745.72466583962
+"1094",2028,"Mexico","Fossil-based electricity",0
+"1095",2028,"Mexico","Natural gas",10936.491474158
+"1096",2028,"Mexico","Petroleum",57672.7264278177
+"1097",2028,"Russian Federation","Coal",108957.361926601
+"1098",2028,"Russian Federation","Fossil-based electricity",0
+"1099",2028,"Russian Federation","Natural gas",81778.9404884602
+"1100",2028,"Russian Federation","Petroleum",144148.711394387
+"1101",2028,"South Africa","Coal",60654.6610958441
+"1102",2028,"South Africa","Fossil-based electricity",0
+"1103",2028,"South Africa","Natural gas",1.24770324425355
+"1104",2028,"South Africa","Petroleum",7613.51031076329
+"1105",2028,"Spain","Coal",1044.33966407609
+"1106",2028,"Spain","Fossil-based electricity",0
+"1107",2028,"Spain","Natural gas",6549.56775613143
+"1108",2028,"Spain","Petroleum",15953.5366440521
+"1109",2028,"Turkiye","Coal",51866.9760434395
+"1110",2028,"Turkiye","Fossil-based electricity",0
+"1111",2028,"Turkiye","Natural gas",10977.5012078114
+"1112",2028,"Turkiye","Petroleum",26768.2297292274
+"1113",2028,"United Kingdom","Coal",2942.59235485567
+"1114",2028,"United Kingdom","Fossil-based electricity",0
+"1115",2028,"United Kingdom","Natural gas",11801.7210512698
+"1116",2028,"United Kingdom","Petroleum",35602.9324224218
+"1117",2028,"United States","Coal",119349.885991914
+"1118",2028,"United States","Fossil-based electricity",0
+"1119",2028,"United States","Natural gas",127451.736660726
+"1120",2028,"United States","Petroleum",556107.614766202
+"1121",2029,"Belgium","Coal",479.470184111133
+"1122",2029,"Belgium","Fossil-based electricity",0
+"1123",2029,"Belgium","Natural gas",3872.84307458786
+"1124",2029,"Belgium","Petroleum",4737.74135711287
+"1125",2029,"Brazil","Coal",6130.71851921421
+"1126",2029,"Brazil","Fossil-based electricity",0
+"1127",2029,"Brazil","Natural gas",165.884186184914
+"1128",2029,"Brazil","Petroleum",49153.3340393239
+"1129",2029,"China","Coal",1859936.08443883
+"1130",2029,"China","Fossil-based electricity",0
+"1131",2029,"China","Natural gas",57993.6794489905
+"1132",2029,"China","Petroleum",558202.375747014
+"1133",2029,"Denmark","Coal",6.38631106583327
+"1134",2029,"Denmark","Fossil-based electricity",0
+"1135",2029,"Denmark","Natural gas",0
+"1136",2029,"Denmark","Petroleum",2975.51578216249
+"1137",2029,"Finland","Coal",106.183064498593
+"1138",2029,"Finland","Fossil-based electricity",0
+"1139",2029,"Finland","Natural gas",10.7442844002076
+"1140",2029,"Finland","Petroleum",84.2167579826728
+"1141",2029,"France","Coal",1266.12305760405
+"1142",2029,"France","Fossil-based electricity",0
+"1143",2029,"France","Natural gas",8964.39941992001
+"1144",2029,"France","Petroleum",25882.6270502638
+"1145",2029,"Germany","Coal",4809.50152518352
+"1146",2029,"Germany","Fossil-based electricity",0
+"1147",2029,"Germany","Natural gas",26776.5995596626
+"1148",2029,"Germany","Petroleum",56390.005317994
+"1149",2029,"India","Coal",250381.984753553
+"1150",2029,"India","Fossil-based electricity",0
+"1151",2029,"India","Natural gas",19368.4648064619
+"1152",2029,"India","Petroleum",216339.485151791
+"1153",2029,"Indonesia","Coal",61497.9326365318
+"1154",2029,"Indonesia","Fossil-based electricity",0
+"1155",2029,"Indonesia","Natural gas",9549.70929572711
+"1156",2029,"Indonesia","Petroleum",93937.3890362301
+"1157",2029,"Ireland","Coal",780.990477006532
+"1158",2029,"Ireland","Fossil-based electricity",0
+"1159",2029,"Ireland","Natural gas",390.810307593944
+"1160",2029,"Ireland","Petroleum",1858.51514792496
+"1161",2029,"Italy","Coal",437.080797239173
+"1162",2029,"Italy","Fossil-based electricity",0
+"1163",2029,"Italy","Natural gas",9802.99105493503
+"1164",2029,"Italy","Petroleum",19503.418508366
+"1165",2029,"Japan","Coal",39927.1308900071
+"1166",2029,"Japan","Fossil-based electricity",0
+"1167",2029,"Japan","Natural gas",15433.8012641222
+"1168",2029,"Japan","Petroleum",163985.931089524
+"1169",2029,"Luxembourg","Coal",4.62425768214679
+"1170",2029,"Luxembourg","Fossil-based electricity",0
+"1171",2029,"Luxembourg","Natural gas",193.322330245248
+"1172",2029,"Luxembourg","Petroleum",3598.45118110955
+"1173",2029,"Mexico","Coal",4842.4989763871
+"1174",2029,"Mexico","Fossil-based electricity",0
+"1175",2029,"Mexico","Natural gas",11311.7150681382
+"1176",2029,"Mexico","Petroleum",58937.0828827494
+"1177",2029,"Russian Federation","Coal",104443.529020959
+"1178",2029,"Russian Federation","Fossil-based electricity",0
+"1179",2029,"Russian Federation","Natural gas",84585.4310831622
+"1180",2029,"Russian Federation","Petroleum",146136.667852561
+"1181",2029,"South Africa","Coal",61873.9161389239
+"1182",2029,"South Africa","Fossil-based electricity",0
+"1183",2029,"South Africa","Natural gas",1.27864166512188
+"1184",2029,"South Africa","Petroleum",7790.38783650857
+"1185",2029,"Spain","Coal",1065.93970394016
+"1186",2029,"Spain","Fossil-based electricity",0
+"1187",2029,"Spain","Natural gas",6458.18969605156
+"1188",2029,"Spain","Petroleum",16111.9794524233
+"1189",2029,"Turkiye","Coal",53612.451329675
+"1190",2029,"Turkiye","Fossil-based electricity",0
+"1191",2029,"Turkiye","Natural gas",11233.3947716758
+"1192",2029,"Turkiye","Petroleum",28422.5073585854
+"1193",2029,"United Kingdom","Coal",3001.82354063569
+"1194",2029,"United Kingdom","Fossil-based electricity",0
+"1195",2029,"United Kingdom","Natural gas",11942.2589816198
+"1196",2029,"United Kingdom","Petroleum",36877.7906912419
+"1197",2029,"United States","Coal",114075.486395578
+"1198",2029,"United States","Fossil-based electricity",0
+"1199",2029,"United States","Natural gas",132026.667680905
+"1200",2029,"United States","Petroleum",572829.672257649
+"1201",2030,"Belgium","Coal",498.016861928503
+"1202",2030,"Belgium","Fossil-based electricity",0
+"1203",2030,"Belgium","Natural gas",3916.92438587661
+"1204",2030,"Belgium","Petroleum",4984.8461687695
+"1205",2030,"Brazil","Coal",6322.42164495546
+"1206",2030,"Brazil","Fossil-based electricity",0
+"1207",2030,"Brazil","Natural gas",155.311433901662
+"1208",2030,"Brazil","Petroleum",49166.91293175
+"1209",2030,"China","Coal",1931935.36178691
+"1210",2030,"China","Fossil-based electricity",0
+"1211",2030,"China","Natural gas",58368.5703611132
+"1212",2030,"China","Petroleum",584017.604604069
+"1213",2030,"Denmark","Coal",8.45579231397257
+"1214",2030,"Denmark","Fossil-based electricity",0
+"1215",2030,"Denmark","Natural gas",0
+"1216",2030,"Denmark","Petroleum",3229.86955910961
+"1217",2030,"Finland","Coal",124.073000491057
+"1218",2030,"Finland","Fossil-based electricity",0
+"1219",2030,"Finland","Natural gas",10.7737662122639
+"1220",2030,"Finland","Petroleum",87.7178964955407
+"1221",2030,"France","Coal",1311.18313918799
+"1222",2030,"France","Fossil-based electricity",0
+"1223",2030,"France","Natural gas",8881.10640152221
+"1224",2030,"France","Petroleum",27171.1413957503
+"1225",2030,"Germany","Coal",4914.97128280305
+"1226",2030,"Germany","Fossil-based electricity",0
+"1227",2030,"Germany","Natural gas",27043.4329247108
+"1228",2030,"Germany","Petroleum",57383.252998485
+"1229",2030,"India","Coal",267610.623182359
+"1230",2030,"India","Fossil-based electricity",0
+"1231",2030,"India","Natural gas",21171.6256145964
+"1232",2030,"India","Petroleum",235896.269465825
+"1233",2030,"Indonesia","Coal",64921.6763012831
+"1234",2030,"Indonesia","Fossil-based electricity",0
+"1235",2030,"Indonesia","Natural gas",10074.5344812109
+"1236",2030,"Indonesia","Petroleum",98375.8645281655
+"1237",2030,"Ireland","Coal",797.233275024111
+"1238",2030,"Ireland","Fossil-based electricity",0
+"1239",2030,"Ireland","Natural gas",387.384011744419
+"1240",2030,"Ireland","Petroleum",1920.10849347196
+"1241",2030,"Italy","Coal",459.210408832371
+"1242",2030,"Italy","Fossil-based electricity",0
+"1243",2030,"Italy","Natural gas",9486.84331764804
+"1244",2030,"Italy","Petroleum",19673.3769278511
+"1245",2030,"Japan","Coal",40486.473077464
+"1246",2030,"Japan","Fossil-based electricity",0
+"1247",2030,"Japan","Natural gas",15473.2676883983
+"1248",2030,"Japan","Petroleum",165517.316204904
+"1249",2030,"Luxembourg","Coal",5.01474320711688
+"1250",2030,"Luxembourg","Fossil-based electricity",0
+"1251",2030,"Luxembourg","Natural gas",194.645284974631
+"1252",2030,"Luxembourg","Petroleum",3768.34704123835
+"1253",2030,"Mexico","Coal",4937.08439555009
+"1254",2030,"Mexico","Fossil-based electricity",0
+"1255",2030,"Mexico","Natural gas",11684.8317157082
+"1256",2030,"Mexico","Petroleum",60192.3081831139
+"1257",2030,"Russian Federation","Coal",104575.059338252
+"1258",2030,"Russian Federation","Fossil-based electricity",0
+"1259",2030,"Russian Federation","Natural gas",86767.8523520047
+"1260",2030,"Russian Federation","Petroleum",148020.498339888
+"1261",2030,"South Africa","Coal",63216.9668624772
+"1262",2030,"South Africa","Fossil-based electricity",0
+"1263",2030,"South Africa","Natural gas",1.30954946826171
+"1264",2030,"South Africa","Petroleum",7971.81395709457
+"1265",2030,"Spain","Coal",1087.31251106307
+"1266",2030,"Spain","Fossil-based electricity",0
+"1267",2030,"Spain","Natural gas",6374.17588497437
+"1268",2030,"Spain","Petroleum",16295.6040639448
+"1269",2030,"Turkiye","Coal",55539.1405019318
+"1270",2030,"Turkiye","Fossil-based electricity",0
+"1271",2030,"Turkiye","Natural gas",11496.8085886788
+"1272",2030,"Turkiye","Petroleum",30188.9728658625
+"1273",2030,"United Kingdom","Coal",3057.13392502898
+"1274",2030,"United Kingdom","Fossil-based electricity",0
+"1275",2030,"United Kingdom","Natural gas",12076.4155184174
+"1276",2030,"United Kingdom","Petroleum",38097.039981515
+"1277",2030,"United States","Coal",112923.128194031
+"1278",2030,"United States","Fossil-based electricity",0
+"1279",2030,"United States","Natural gas",136024.406172962
+"1280",2030,"United States","Petroleum",589948.499108648
+"1281",2015,"Other HICs","Coal",84971.308414571
+"1282",2015,"Other HICs","Fossil-based electricity",0
+"1283",2015,"Other HICs","Natural gas",21730.5281279662
+"1284",2015,"Other HICs","Petroleum",114389.19498467
+"1285",2015,"Other LICs","Coal",416.708674073863
+"1286",2015,"Other LICs","Fossil-based electricity",0
+"1287",2015,"Other LICs","Natural gas",83.8511154316819
+"1288",2015,"Other LICs","Petroleum",4566.94772564739
+"1289",2015,"Other LMICs","Coal",30036.7785078258
+"1290",2015,"Other LMICs","Fossil-based electricity",0
+"1291",2015,"Other LMICs","Natural gas",44891.5595188916
+"1292",2015,"Other LMICs","Petroleum",150737.701391947
+"1293",2015,"Other UMICs","Coal",31938.2118888992
+"1294",2015,"Other UMICs","Fossil-based electricity",0
+"1295",2015,"Other UMICs","Natural gas",22027.2308823953
+"1296",2015,"Other UMICs","Petroleum",177983.467184299
+"1297",2016,"Other HICs","Coal",88775.1706663264
+"1298",2016,"Other HICs","Fossil-based electricity",0
+"1299",2016,"Other HICs","Natural gas",23439.0143674981
+"1300",2016,"Other HICs","Petroleum",114007.807719897
+"1301",2016,"Other LICs","Coal",465.19881646805
+"1302",2016,"Other LICs","Fossil-based electricity",0
+"1303",2016,"Other LICs","Natural gas",90.7334638123071
+"1304",2016,"Other LICs","Petroleum",5083.97503247598
+"1305",2016,"Other LMICs","Coal",32610.0792054897
+"1306",2016,"Other LMICs","Fossil-based electricity",0
+"1307",2016,"Other LMICs","Natural gas",47964.3404974085
+"1308",2016,"Other LMICs","Petroleum",159377.404711582
+"1309",2016,"Other UMICs","Coal",33615.3836030632
+"1310",2016,"Other UMICs","Fossil-based electricity",0
+"1311",2016,"Other UMICs","Natural gas",24499.0553494867
+"1312",2016,"Other UMICs","Petroleum",182956.397342931
+"1313",2017,"Other HICs","Coal",92573.1120495925
+"1314",2017,"Other HICs","Fossil-based electricity",0
+"1315",2017,"Other HICs","Natural gas",25645.3228511018
+"1316",2017,"Other HICs","Petroleum",119401.715762526
+"1317",2017,"Other LICs","Coal",599.550765476762
+"1318",2017,"Other LICs","Fossil-based electricity",0
+"1319",2017,"Other LICs","Natural gas",89.3395657530462
+"1320",2017,"Other LICs","Petroleum",7481.89183699486
+"1321",2017,"Other LMICs","Coal",36017.7407886285
+"1322",2017,"Other LMICs","Fossil-based electricity",0
+"1323",2017,"Other LMICs","Natural gas",52893.7622054683
+"1324",2017,"Other LMICs","Petroleum",182981.306156758
+"1325",2017,"Other UMICs","Coal",36220.5796629556
+"1326",2017,"Other UMICs","Fossil-based electricity",0
+"1327",2017,"Other UMICs","Natural gas",26748.4976276937
+"1328",2017,"Other UMICs","Petroleum",181600.728273624
+"1329",2018,"Other HICs","Coal",94110.8007023876
+"1330",2018,"Other HICs","Fossil-based electricity",0
+"1331",2018,"Other HICs","Natural gas",28122.7056499171
+"1332",2018,"Other HICs","Petroleum",136654.072742024
+"1333",2018,"Other LICs","Coal",727.238659779239
+"1334",2018,"Other LICs","Fossil-based electricity",0
+"1335",2018,"Other LICs","Natural gas",99.5747287724139
+"1336",2018,"Other LICs","Petroleum",8261.65432827338
+"1337",2018,"Other LMICs","Coal",43990.1603702832
+"1338",2018,"Other LMICs","Fossil-based electricity",0
+"1339",2018,"Other LMICs","Natural gas",61086.2414775887
+"1340",2018,"Other LMICs","Petroleum",191377.023903486
+"1341",2018,"Other UMICs","Coal",39006.4622071351
+"1342",2018,"Other UMICs","Fossil-based electricity",0
+"1343",2018,"Other UMICs","Natural gas",30356.8540164008
+"1344",2018,"Other UMICs","Petroleum",192549.021146144
+"1345",2019,"Other HICs","Coal",84198.9400824485
+"1346",2019,"Other HICs","Fossil-based electricity",0
+"1347",2019,"Other HICs","Natural gas",29892.9307027803
+"1348",2019,"Other HICs","Petroleum",172704.456339146
+"1349",2019,"Other LICs","Coal",771.25149732924
+"1350",2019,"Other LICs","Fossil-based electricity",0
+"1351",2019,"Other LICs","Natural gas",214.663176851614
+"1352",2019,"Other LICs","Petroleum",8993.25311639181
+"1353",2019,"Other LMICs","Coal",49655.1516284563
+"1354",2019,"Other LMICs","Fossil-based electricity",0
+"1355",2019,"Other LMICs","Natural gas",64313.5625483123
+"1356",2019,"Other LMICs","Petroleum",204053.991340516
+"1357",2019,"Other UMICs","Coal",38531.4412335351
+"1358",2019,"Other UMICs","Fossil-based electricity",0
+"1359",2019,"Other UMICs","Natural gas",31161.3580441651
+"1360",2019,"Other UMICs","Petroleum",201594.128770034
+"1361",2020,"Other HICs","Coal",71328.7933748799
+"1362",2020,"Other HICs","Fossil-based electricity",0
+"1363",2020,"Other HICs","Natural gas",28621.4938299992
+"1364",2020,"Other HICs","Petroleum",134616.105328248
+"1365",2020,"Other LICs","Coal",793.785620017275
+"1366",2020,"Other LICs","Fossil-based electricity",0
+"1367",2020,"Other LICs","Natural gas",154.967137473744
+"1368",2020,"Other LICs","Petroleum",7730.44760083782
+"1369",2020,"Other LMICs","Coal",47382.5658111498
+"1370",2020,"Other LMICs","Fossil-based electricity",0
+"1371",2020,"Other LMICs","Natural gas",64995.9935575688
+"1372",2020,"Other LMICs","Petroleum",187696.696253554
+"1373",2020,"Other UMICs","Coal",34538.3525523298
+"1374",2020,"Other UMICs","Fossil-based electricity",0
+"1375",2020,"Other UMICs","Natural gas",31265.0557394166
+"1376",2020,"Other UMICs","Petroleum",173103.707714527
+"1377",2021,"Other HICs","Coal",70671.2748754065
+"1378",2021,"Other HICs","Fossil-based electricity",0
+"1379",2021,"Other HICs","Natural gas",45776.2339398519
+"1380",2021,"Other HICs","Petroleum",166031.707237903
+"1381",2021,"Other LICs","Coal",1053.66714715263
+"1382",2021,"Other LICs","Fossil-based electricity",0
+"1383",2021,"Other LICs","Natural gas",179.713767693689
+"1384",2021,"Other LICs","Petroleum",10170.9475979124
+"1385",2021,"Other LMICs","Coal",49220.4900194092
+"1386",2021,"Other LMICs","Fossil-based electricity",0
+"1387",2021,"Other LMICs","Natural gas",69756.1765268243
+"1388",2021,"Other LMICs","Petroleum",215310.134861807
+"1389",2021,"Other UMICs","Coal",34867.2387665811
+"1390",2021,"Other UMICs","Fossil-based electricity",0
+"1391",2021,"Other UMICs","Natural gas",35828.2180999694
+"1392",2021,"Other UMICs","Petroleum",206096.446529724
+"1393",2022,"Other HICs","Coal",67492.2694365316
+"1394",2022,"Other HICs","Fossil-based electricity",0
+"1395",2022,"Other HICs","Natural gas",57153.9567932724
+"1396",2022,"Other HICs","Petroleum",202150.701235432
+"1397",2022,"Other LICs","Coal",848.559555488162
+"1398",2022,"Other LICs","Fossil-based electricity",0
+"1399",2022,"Other LICs","Natural gas",176.850732337372
+"1400",2022,"Other LICs","Petroleum",11936.5371530094
+"1401",2022,"Other LMICs","Coal",44748.4072855209
+"1402",2022,"Other LMICs","Fossil-based electricity",0
+"1403",2022,"Other LMICs","Natural gas",73061.6826965646
+"1404",2022,"Other LMICs","Petroleum",250933.262345003
+"1405",2022,"Other UMICs","Coal",35586.3592656955
+"1406",2022,"Other UMICs","Fossil-based electricity",0
+"1407",2022,"Other UMICs","Natural gas",36351.0138338958
+"1408",2022,"Other UMICs","Petroleum",239690.009689036
+"1409",2023,"Other HICs","Coal",70638.4506748476
+"1410",2023,"Other HICs","Fossil-based electricity",0
+"1411",2023,"Other HICs","Natural gas",59635.8543966258
+"1412",2023,"Other HICs","Petroleum",175791.019225167
+"1413",2023,"Other LICs","Coal",1069.90178193577
+"1414",2023,"Other LICs","Fossil-based electricity",0
+"1415",2023,"Other LICs","Natural gas",223.006459094391
+"1416",2023,"Other LICs","Petroleum",11072.0495741757
+"1417",2023,"Other LMICs","Coal",49915.4451461262
+"1418",2023,"Other LMICs","Fossil-based electricity",0
+"1419",2023,"Other LMICs","Natural gas",80817.0493415204
+"1420",2023,"Other LMICs","Petroleum",241243.771774769
+"1421",2023,"Other UMICs","Coal",39276.8642543819
+"1422",2023,"Other UMICs","Fossil-based electricity",0
+"1423",2023,"Other UMICs","Natural gas",40295.4541515477
+"1424",2023,"Other UMICs","Petroleum",223171.249914627
+"1425",2024,"Other HICs","Coal",71251.8960185352
+"1426",2024,"Other HICs","Fossil-based electricity",0
+"1427",2024,"Other HICs","Natural gas",57510.2408076487
+"1428",2024,"Other HICs","Petroleum",176418.694294649
+"1429",2024,"Other LICs","Coal",1151.70578807523
+"1430",2024,"Other LICs","Fossil-based electricity",0
+"1431",2024,"Other LICs","Natural gas",247.228235483297
+"1432",2024,"Other LICs","Petroleum",11216.4987880301
+"1433",2024,"Other LMICs","Coal",54384.5996472196
+"1434",2024,"Other LMICs","Fossil-based electricity",0
+"1435",2024,"Other LMICs","Natural gas",83426.6496435224
+"1436",2024,"Other LMICs","Petroleum",246817.713367569
+"1437",2024,"Other UMICs","Coal",41985.2245118706
+"1438",2024,"Other UMICs","Fossil-based electricity",0
+"1439",2024,"Other UMICs","Natural gas",41267.9870508392
+"1440",2024,"Other UMICs","Petroleum",221943.555393964
+"1441",2025,"Other HICs","Coal",74101.7319105191
+"1442",2025,"Other HICs","Fossil-based electricity",0
+"1443",2025,"Other HICs","Natural gas",55847.6567483517
+"1444",2025,"Other HICs","Petroleum",183995.701752474
+"1445",2025,"Other LICs","Coal",1251.53481279982
+"1446",2025,"Other LICs","Fossil-based electricity",0
+"1447",2025,"Other LICs","Natural gas",281.93259243403
+"1448",2025,"Other LICs","Petroleum",12030.9730664272
+"1449",2025,"Other LMICs","Coal",60188.3241620169
+"1450",2025,"Other LMICs","Fossil-based electricity",0
+"1451",2025,"Other LMICs","Natural gas",91369.7461987462
+"1452",2025,"Other LMICs","Petroleum",259824.315870842
+"1453",2025,"Other UMICs","Coal",47246.3894394175
+"1454",2025,"Other UMICs","Fossil-based electricity",0
+"1455",2025,"Other UMICs","Natural gas",43459.6708617919
+"1456",2025,"Other UMICs","Petroleum",230147.751746805
+"1457",2026,"Other HICs","Coal",75482.3913767734
+"1458",2026,"Other HICs","Fossil-based electricity",0
+"1459",2026,"Other HICs","Natural gas",52702.0546114056
+"1460",2026,"Other HICs","Petroleum",192089.977442285
+"1461",2026,"Other LICs","Coal",1388.17492449248
+"1462",2026,"Other LICs","Fossil-based electricity",0
+"1463",2026,"Other LICs","Natural gas",324.948271174265
+"1464",2026,"Other LICs","Petroleum",12948.1681892541
+"1465",2026,"Other LMICs","Coal",64140.565337672
+"1466",2026,"Other LMICs","Fossil-based electricity",0
+"1467",2026,"Other LMICs","Natural gas",99263.051649541
+"1468",2026,"Other LMICs","Petroleum",275417.707489962
+"1469",2026,"Other UMICs","Coal",49065.7995750924
+"1470",2026,"Other UMICs","Fossil-based electricity",0
+"1471",2026,"Other UMICs","Natural gas",46009.544280831
+"1472",2026,"Other UMICs","Petroleum",238917.431431992
+"1473",2027,"Other HICs","Coal",76358.8711319146
+"1474",2027,"Other HICs","Fossil-based electricity",0
+"1475",2027,"Other HICs","Natural gas",52346.9249556284
+"1476",2027,"Other HICs","Petroleum",200260.510889455
+"1477",2027,"Other LICs","Coal",1527.88092577097
+"1478",2027,"Other LICs","Fossil-based electricity",0
+"1479",2027,"Other LICs","Natural gas",378.441311442612
+"1480",2027,"Other LICs","Petroleum",14198.1837970045
+"1481",2027,"Other LMICs","Coal",68119.9153794205
+"1482",2027,"Other LMICs","Fossil-based electricity",0
+"1483",2027,"Other LMICs","Natural gas",106931.367080542
+"1484",2027,"Other LMICs","Petroleum",294379.152924622
+"1485",2027,"Other UMICs","Coal",50276.0422275538
+"1486",2027,"Other UMICs","Fossil-based electricity",0
+"1487",2027,"Other UMICs","Natural gas",48593.6095169257
+"1488",2027,"Other UMICs","Petroleum",249267.412653505
+"1489",2028,"Other HICs","Coal",77207.7960585758
+"1490",2028,"Other HICs","Fossil-based electricity",0
+"1491",2028,"Other HICs","Natural gas",51873.5879040333
+"1492",2028,"Other HICs","Petroleum",208422.181520427
+"1493",2028,"Other LICs","Coal",1604.38337379012
+"1494",2028,"Other LICs","Fossil-based electricity",0
+"1495",2028,"Other LICs","Natural gas",431.243286056648
+"1496",2028,"Other LICs","Petroleum",15553.3764435004
+"1497",2028,"Other LMICs","Coal",71801.5904741074
+"1498",2028,"Other LMICs","Fossil-based electricity",0
+"1499",2028,"Other LMICs","Natural gas",113853.079042648
+"1500",2028,"Other LMICs","Petroleum",314837.928954228
+"1501",2028,"Other UMICs","Coal",51408.5601638956
+"1502",2028,"Other UMICs","Fossil-based electricity",0
+"1503",2028,"Other UMICs","Natural gas",50832.1133385042
+"1504",2028,"Other UMICs","Petroleum",259959.702389321
+"1505",2029,"Other HICs","Coal",78213.4547619038
+"1506",2029,"Other HICs","Fossil-based electricity",0
+"1507",2029,"Other HICs","Natural gas",52301.5184505254
+"1508",2029,"Other HICs","Petroleum",216932.607478192
+"1509",2029,"Other LICs","Coal",1670.36646488508
+"1510",2029,"Other LICs","Fossil-based electricity",0
+"1511",2029,"Other LICs","Natural gas",485.002135123816
+"1512",2029,"Other LICs","Petroleum",17041.3497412533
+"1513",2029,"Other LMICs","Coal",74468.261520835
+"1514",2029,"Other LMICs","Fossil-based electricity",0
+"1515",2029,"Other LMICs","Natural gas",120824.880169051
+"1516",2029,"Other LMICs","Petroleum",336304.579711352
+"1517",2029,"Other UMICs","Coal",52447.1668185812
+"1518",2029,"Other UMICs","Fossil-based electricity",0
+"1519",2029,"Other UMICs","Natural gas",52934.137189539
+"1520",2029,"Other UMICs","Petroleum",270453.239369582
+"1521",2030,"Other HICs","Coal",79768.993484765
+"1522",2030,"Other HICs","Fossil-based electricity",0
+"1523",2030,"Other HICs","Natural gas",52763.5441970334
+"1524",2030,"Other HICs","Petroleum",225688.818073083
+"1525",2030,"Other LICs","Coal",1756.86227513141
+"1526",2030,"Other LICs","Fossil-based electricity",0
+"1527",2030,"Other LICs","Natural gas",546.027862903584
+"1528",2030,"Other LICs","Petroleum",18657.9697640301
+"1529",2030,"Other LMICs","Coal",79027.5796255175
+"1530",2030,"Other LMICs","Fossil-based electricity",0
+"1531",2030,"Other LMICs","Natural gas",127587.556823546
+"1532",2030,"Other LMICs","Petroleum",359567.654281892
+"1533",2030,"Other UMICs","Coal",53574.4109161494
+"1534",2030,"Other UMICs","Fossil-based electricity",0
+"1535",2030,"Other UMICs","Natural gas",55169.8994117074
+"1536",2030,"Other UMICs","Petroleum",281359.938910539
