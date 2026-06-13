@@ -1,0 +1,721 @@
+"","Group","Reg","SPScenario","value"
+"1","D1","Belgium","Cash",41.6197579159866
+"2","D1","Brazil","Cash",74.881661309776
+"3","D1","China","Cash",23.0344580217537
+"4","D1","Germany","Cash",57.3847685789708
+"5","D1","Denmark","Cash",58.8947194150559
+"6","D1","Spain","Cash",54.5042451609944
+"7","D1","Finland","Cash",59.9380152495507
+"8","D1","France","Cash",88.1072836529593
+"9","D1","United Kingdom","Cash",62.8654279756586
+"10","D1","Indonesia","Cash",31.7572864501294
+"11","D1","India","Cash",36.4609926101221
+"12","D1","Ireland","Cash",75.7329756192695
+"13","D1","Italy","Cash",56.550437773645
+"14","D1","Japan","Cash",56.5722932142224
+"15","D1","Luxembourg","Cash",48.039004516
+"16","D1","Mexico","Cash",58.4234824045832
+"17","D1","Russian Federation","Cash",80.8627908340222
+"18","D1","Turkiye","Cash",22.7181618511534
+"19","D1","United States","Cash",74.8284828467682
+"20","D1","South Africa","Cash",85.4982665899982
+"21","D1","Belgium","SP_current",84.0477774150992
+"22","D1","Brazil","SP_current",76.7912153300361
+"23","D1","China","SP_current",62.7658354285768
+"24","D1","Germany","SP_current",68.5439347883068
+"25","D1","Denmark","SP_current",99.8569442932548
+"26","D1","Spain","SP_current",61.1479799910921
+"27","D1","Finland","SP_current",79.4890762454149
+"28","D1","France","SP_current",89.6726572267606
+"29","D1","United Kingdom","SP_current",82.9872954328677
+"30","D1","Indonesia","SP_current",53.4457985304076
+"31","D1","India","SP_current",87.2971451277697
+"32","D1","Ireland","SP_current",91.2524242406011
+"33","D1","Italy","SP_current",69.0044323227861
+"34","D1","Japan","SP_current",56.5722932142224
+"35","D1","Luxembourg","SP_current",79.1107337789849
+"36","D1","Mexico","SP_current",61.9821415283302
+"37","D1","Russian Federation","SP_current",86.8659621323496
+"38","D1","Turkiye","SP_current",44.3040922970997
+"39","D1","United States","SP_current",74.8284828467682
+"40","D1","South Africa","SP_current",99.9785093825
+"41","D1","Belgium","SP_covid",100
+"42","D1","Brazil","SP_covid",98.656855622005
+"43","D1","China","SP_covid",100
+"44","D1","Germany","SP_covid",100
+"45","D1","Denmark","SP_covid",100
+"46","D1","Spain","SP_covid",100
+"47","D1","Finland","SP_covid",100
+"48","D1","France","SP_covid",100
+"49","D1","United Kingdom","SP_covid",100
+"50","D1","Indonesia","SP_covid",100
+"51","D1","India","SP_covid",100
+"52","D1","Ireland","SP_covid",100
+"53","D1","Italy","SP_covid",100
+"54","D1","Japan","SP_covid",86.9869097440312
+"55","D1","Luxembourg","SP_covid",100
+"56","D1","Mexico","SP_covid",84.295715863395
+"57","D1","Russian Federation","SP_covid",100
+"58","D1","Turkiye","SP_covid",100
+"59","D1","United States","SP_covid",100
+"60","D1","South Africa","SP_covid",100
+"61","D2","Belgium","Cash",24.6667856073019
+"62","D2","Brazil","Cash",56.4958135627605
+"63","D2","China","Cash",19.849263248636
+"64","D2","Germany","Cash",33.3227067367396
+"65","D2","Denmark","Cash",54.7244662760205
+"66","D2","Spain","Cash",42.9095930028406
+"67","D2","Finland","Cash",53.4516182772063
+"68","D2","France","Cash",78.051299791511
+"69","D2","United Kingdom","Cash",69.6858431498103
+"70","D2","Indonesia","Cash",27.0190060034304
+"71","D2","India","Cash",34.2721836615652
+"72","D2","Ireland","Cash",73.5395969110642
+"73","D2","Italy","Cash",47.8570814277009
+"74","D2","Japan","Cash",47.8551727560302
+"75","D2","Luxembourg","Cash",38.7901266236354
+"76","D2","Mexico","Cash",48.0240576786884
+"77","D2","Russian Federation","Cash",75.2549656107972
+"78","D2","Turkiye","Cash",16.6284331705421
+"79","D2","United States","Cash",79.699521073833
+"80","D2","South Africa","Cash",82.5764276961032
+"81","D2","Belgium","SP_current",60.7893885690651
+"82","D2","Brazil","SP_current",58.0333715701061
+"83","D2","China","SP_current",59.5164265487599
+"84","D2","Germany","SP_current",57.4146481849024
+"85","D2","Denmark","SP_current",99.921458709131
+"86","D2","Spain","SP_current",55.4771605480289
+"87","D2","Finland","SP_current",72.5713156782444
+"88","D2","France","SP_current",80.9591351779598
+"89","D2","United Kingdom","SP_current",88.269355444178
+"90","D2","Indonesia","SP_current",47.4875281680235
+"91","D2","India","SP_current",87.1383215114027
+"92","D2","Ireland","SP_current",93.7745760162261
+"93","D2","Italy","SP_current",85.0833964469657
+"94","D2","Japan","SP_current",47.8551727560302
+"95","D2","Luxembourg","SP_current",75.4864726820904
+"96","D2","Mexico","SP_current",51.2173461619931
+"97","D2","Russian Federation","SP_current",82.3836863083548
+"98","D2","Turkiye","SP_current",34.0147230766665
+"99","D2","United States","SP_current",79.699521073833
+"100","D2","South Africa","SP_current",98.6176321227625
+"101","D2","Belgium","SP_covid",100
+"102","D2","Brazil","SP_covid",78.9253858157651
+"103","D2","China","SP_covid",100
+"104","D2","Germany","SP_covid",100
+"105","D2","Denmark","SP_covid",100
+"106","D2","Spain","SP_covid",100
+"107","D2","Finland","SP_covid",100
+"108","D2","France","SP_covid",100
+"109","D2","United Kingdom","SP_covid",100
+"110","D2","Indonesia","SP_covid",100
+"111","D2","India","SP_covid",100
+"112","D2","Ireland","SP_covid",100
+"113","D2","Italy","SP_covid",100
+"114","D2","Japan","SP_covid",97.275798971399
+"115","D2","Luxembourg","SP_covid",100
+"116","D2","Mexico","SP_covid",69.6555918606608
+"117","D2","Russian Federation","SP_covid",100
+"118","D2","Turkiye","SP_covid",87.9880462672998
+"119","D2","United States","SP_covid",100
+"120","D2","South Africa","SP_covid",100
+"121","D3","Belgium","Cash",15.9141052432959
+"122","D3","Brazil","Cash",38.2342493697277
+"123","D3","China","Cash",16.6732183055481
+"124","D3","Germany","Cash",18.8760348328494
+"125","D3","Denmark","Cash",50.4479048483822
+"126","D3","Spain","Cash",34.5781043487125
+"127","D3","Finland","Cash",37.8081443168542
+"128","D3","France","Cash",66.4919615350334
+"129","D3","United Kingdom","Cash",64.5149570541125
+"130","D3","Indonesia","Cash",22.2651085674078
+"131","D3","India","Cash",32.0513420734706
+"132","D3","Ireland","Cash",71.4139539509584
+"133","D3","Italy","Cash",39.0981019290213
+"134","D3","Japan","Cash",39.0626005143886
+"135","D3","Luxembourg","Cash",25.7154838276483
+"136","D3","Mexico","Cash",37.6564115956293
+"137","D3","Russian Federation","Cash",69.6822025468159
+"138","D3","Turkiye","Cash",10.5393864802307
+"139","D3","United States","Cash",78.0948682012123
+"140","D3","South Africa","Cash",79.6268815073055
+"141","D3","Belgium","SP_current",58.1728627686407
+"142","D3","Brazil","SP_current",39.4023288583624
+"143","D3","China","SP_current",56.2763515126004
+"144","D3","Germany","SP_current",52.0347445637121
+"145","D3","Denmark","SP_current",99.9456089147714
+"146","D3","Spain","SP_current",49.8139032200989
+"147","D3","Finland","SP_current",67.1027213355759
+"148","D3","France","SP_current",71.9367715779482
+"149","D3","United Kingdom","SP_current",87.7073706159211
+"150","D3","Indonesia","SP_current",41.5086226929397
+"151","D3","India","SP_current",86.9771713882692
+"152","D3","Ireland","SP_current",94.1775849250899
+"153","D3","Italy","SP_current",89.3705897097518
+"154","D3","Japan","SP_current",39.0626005143886
+"155","D3","Luxembourg","SP_current",72.9788073117651
+"156","D3","Mexico","SP_current",40.4858020746346
+"157","D3","Russian Federation","SP_current",77.9261312645415
+"158","D3","Turkiye","SP_current",23.7265062419992
+"159","D3","United States","SP_current",78.0948682012123
+"160","D3","South Africa","SP_current",96.394835153652
+"161","D3","Belgium","SP_covid",100
+"162","D3","Brazil","SP_covid",53.5871665131657
+"163","D3","China","SP_covid",100
+"164","D3","Germany","SP_covid",100
+"165","D3","Denmark","SP_covid",100
+"166","D3","Spain","SP_covid",100
+"167","D3","Finland","SP_covid",100
+"168","D3","France","SP_covid",100
+"169","D3","United Kingdom","SP_covid",100
+"170","D3","Indonesia","SP_covid",100
+"171","D3","India","SP_covid",100
+"172","D3","Ireland","SP_covid",100
+"173","D3","Italy","SP_covid",100
+"174","D3","Japan","SP_covid",93.8184606009817
+"175","D3","Luxembourg","SP_covid",100
+"176","D3","Mexico","SP_covid",55.0606902226521
+"177","D3","Russian Federation","SP_covid",100
+"178","D3","Turkiye","SP_covid",61.544866361721
+"179","D3","United States","SP_covid",100
+"180","D3","South Africa","SP_covid",100
+"181","D4","Belgium","Cash",10.6854314065633
+"182","D4","Brazil","Cash",24.0905247356701
+"183","D4","China","Cash",14.1552357709499
+"184","D4","Germany","Cash",11.0463430775523
+"185","D4","Denmark","Cash",34.0019833851291
+"186","D4","Spain","Cash",29.5188104781593
+"187","D4","Finland","Cash",20.3722605474225
+"188","D4","France","Cash",60.945406749389
+"189","D4","United Kingdom","Cash",54.2637465599251
+"190","D4","Indonesia","Cash",18.3823224231085
+"191","D4","India","Cash",29.8199811306129
+"192","D4","Ireland","Cash",58.739248067078
+"193","D4","Italy","Cash",31.5635480563167
+"194","D4","Japan","Cash",31.5442312022773
+"195","D4","Luxembourg","Cash",26.04462230415
+"196","D4","Mexico","Cash",29.5422192998444
+"197","D4","Russian Federation","Cash",64.4089735694894
+"198","D4","Turkiye","Cash",6.17669280777525
+"199","D4","United States","Cash",75.0791960327387
+"200","D4","South Africa","Cash",73.5293161067861
+"201","D4","Belgium","SP_current",59.2062915804142
+"202","D4","Brazil","SP_current",24.9640976967694
+"203","D4","China","SP_current",51.7378767526358
+"204","D4","Germany","SP_current",54.9207882992406
+"205","D4","Denmark","SP_current",99.9302666351931
+"206","D4","Spain","SP_current",47.8129929804563
+"207","D4","Finland","SP_current",66.4620809363514
+"208","D4","France","SP_current",68.4326808745657
+"209","D4","United Kingdom","SP_current",85.0036798219806
+"210","D4","Indonesia","SP_current",36.4003206904771
+"211","D4","India","SP_current",86.3154961494676
+"212","D4","Ireland","SP_current",93.3525679247486
+"213","D4","Italy","SP_current",88.7465545832991
+"214","D4","Japan","SP_current",32.3878691937425
+"215","D4","Luxembourg","SP_current",72.7255838229017
+"216","D4","Mexico","SP_current",32.166547757994
+"217","D4","Russian Federation","SP_current",73.2815207207258
+"218","D4","Turkiye","SP_current",15.8639373568901
+"219","D4","United States","SP_current",75.0791960327387
+"220","D4","South Africa","SP_current",92.9644762394364
+"221","D4","Belgium","SP_covid",100
+"222","D4","Brazil","SP_covid",33.9511731060269
+"223","D4","China","SP_covid",100
+"224","D4","Germany","SP_covid",100
+"225","D4","Denmark","SP_covid",100
+"226","D4","Spain","SP_covid",100
+"227","D4","Finland","SP_covid",100
+"228","D4","France","SP_covid",100
+"229","D4","United Kingdom","SP_covid",100
+"230","D4","Indonesia","SP_covid",100
+"231","D4","India","SP_covid",100
+"232","D4","Ireland","SP_covid",100
+"233","D4","Italy","SP_covid",100
+"234","D4","Japan","SP_covid",98.6464567128389
+"235","D4","Luxembourg","SP_covid",100
+"236","D4","Mexico","SP_covid",43.7465040339242
+"237","D4","Russian Federation","SP_covid",100
+"238","D4","Turkiye","SP_covid",41.245045961442
+"239","D4","United States","SP_covid",100
+"240","D4","South Africa","SP_covid",100
+"241","D5","Belgium","Cash",7.39601003490908
+"242","D5","Brazil","Cash",14.9712104591009
+"243","D5","China","Cash",12.3656499055978
+"244","D5","Germany","Cash",7.03297626280152
+"245","D5","Denmark","Cash",21.4710229851945
+"246","D5","Spain","Cash",23.7833421958517
+"247","D5","Finland","Cash",13.8936066692977
+"248","D5","France","Cash",56.867282805515
+"249","D5","United Kingdom","Cash",42.9233684995346
+"250","D5","Indonesia","Cash",15.4347804718665
+"251","D5","India","Cash",27.603878419833
+"252","D5","Ireland","Cash",46.2253012951862
+"253","D5","Italy","Cash",25.6386530748362
+"254","D5","Japan","Cash",25.6571054253225
+"255","D5","Luxembourg","Cash",22.1984401088355
+"256","D5","Mexico","Cash",24.364589403942
+"257","D5","Russian Federation","Cash",59.6244024638818
+"258","D5","Turkiye","Cash",3.92210035095398
+"259","D5","United States","Cash",72.4726299078129
+"260","D5","South Africa","Cash",63.65612838666
+"261","D5","Belgium","SP_current",63.8689793178073
+"262","D5","Brazil","SP_current",15.6418571999803
+"263","D5","China","SP_current",45.5319951297171
+"264","D5","Germany","SP_current",59.2585955717578
+"265","D5","Denmark","SP_current",99.8696663332063
+"266","D5","Spain","SP_current",45.6741373181304
+"267","D5","Finland","SP_current",65.2998813949893
+"268","D5","France","SP_current",65.768745289397
+"269","D5","United Kingdom","SP_current",79.6199736401628
+"270","D5","Indonesia","SP_current",32.2043775299539
+"271","D5","India","SP_current",85.1059904485524
+"272","D5","Ireland","SP_current",91.983758487559
+"273","D5","Italy","SP_current",86.2257979673969
+"274","D5","Japan","SP_current",31.0081681450073
+"275","D5","Luxembourg","SP_current",65.44895231321
+"276","D5","Mexico","SP_current",26.979011760089
+"277","D5","Russian Federation","SP_current",68.5237176588102
+"278","D5","Turkiye","SP_current",11.0114686756378
+"279","D5","United States","SP_current",72.4726299078129
+"280","D5","South Africa","SP_current",88.0725418428315
+"281","D5","Belgium","SP_covid",100
+"282","D5","Brazil","SP_covid",21.2729262105312
+"283","D5","China","SP_covid",99.9917654862132
+"284","D5","Germany","SP_covid",100
+"285","D5","Denmark","SP_covid",100
+"286","D5","Spain","SP_covid",100
+"287","D5","Finland","SP_covid",100
+"288","D5","France","SP_covid",100
+"289","D5","United Kingdom","SP_covid",100
+"290","D5","Indonesia","SP_covid",99.9819889690068
+"291","D5","India","SP_covid",100
+"292","D5","Ireland","SP_covid",100
+"293","D5","Italy","SP_covid",100
+"294","D5","Japan","SP_covid",100
+"295","D5","Luxembourg","SP_covid",100
+"296","D5","Mexico","SP_covid",36.6914561911535
+"297","D5","Russian Federation","SP_covid",100
+"298","D5","Turkiye","SP_covid",28.6298205639768
+"299","D5","United States","SP_covid",100
+"300","D5","South Africa","SP_covid",100
+"301","D6","Belgium","Cash",6.65769396033818
+"302","D6","Brazil","Cash",8.40991665174649
+"303","D6","China","Cash",10.1977052172841
+"304","D6","Germany","Cash",6.43508561043781
+"305","D6","Denmark","Cash",14.0060621111984
+"306","D6","Spain","Cash",19.5113380743517
+"307","D6","Finland","Cash",10.9924556120599
+"308","D6","France","Cash",51.1016230309733
+"309","D6","United Kingdom","Cash",30.6321494579681
+"310","D6","Indonesia","Cash",12.3802804245824
+"311","D6","India","Cash",24.6266010643464
+"312","D6","Ireland","Cash",32.6758910953266
+"313","D6","Italy","Cash",21.9707933271794
+"314","D6","Japan","Cash",21.959402532865
+"315","D6","Luxembourg","Cash",26.1886623699618
+"316","D6","Mexico","Cash",19.4737365513819
+"317","D6","Russian Federation","Cash",55.096580641597
+"318","D6","Turkiye","Cash",2.42834160335567
+"319","D6","United States","Cash",69.715263099089
+"320","D6","South Africa","Cash",52.9299755750167
+"321","D6","Belgium","SP_current",67.6637063011134
+"322","D6","Brazil","SP_current",8.90104719287243
+"323","D6","China","SP_current",40.0428632088811
+"324","D6","Germany","SP_current",59.4929408053188
+"325","D6","Denmark","SP_current",99.8501651651987
+"326","D6","Spain","SP_current",42.2557819170725
+"327","D6","Finland","SP_current",68.0486133726715
+"328","D6","France","SP_current",60.3628083781332
+"329","D6","United Kingdom","SP_current",73.0939591195781
+"330","D6","Indonesia","SP_current",27.6278910779533
+"331","D6","India","SP_current",83.3550413668524
+"332","D6","Ireland","SP_current",88.8630830017761
+"333","D6","Italy","SP_current",83.4709150818844
+"334","D6","Japan","SP_current",31.8801174491691
+"335","D6","Luxembourg","SP_current",65.7615386663932
+"336","D6","Mexico","SP_current",22.1094731170284
+"337","D6","Russian Federation","SP_current",64.0842489621526
+"338","D6","Turkiye","SP_current",7.55751147003698
+"339","D6","United States","SP_current",70.0590089198432
+"340","D6","South Africa","SP_current",81.7672440825078
+"341","D6","Belgium","SP_covid",100
+"342","D6","Brazil","SP_covid",12.1054242360536
+"343","D6","China","SP_covid",96.6635448040662
+"344","D6","Germany","SP_covid",100
+"345","D6","Denmark","SP_covid",100
+"346","D6","Spain","SP_covid",100
+"347","D6","Finland","SP_covid",100
+"348","D6","France","SP_covid",100
+"349","D6","United Kingdom","SP_covid",100
+"350","D6","Indonesia","SP_covid",93.6336941211406
+"351","D6","India","SP_covid",100
+"352","D6","Ireland","SP_covid",100
+"353","D6","Italy","SP_covid",100
+"354","D6","Japan","SP_covid",100
+"355","D6","Luxembourg","SP_covid",100
+"356","D6","Mexico","SP_covid",30.0688837228844
+"357","D6","Russian Federation","SP_covid",100
+"358","D6","Turkiye","SP_covid",19.6495309001441
+"359","D6","United States","SP_covid",100
+"360","D6","South Africa","SP_covid",100
+"361","D7","Belgium","Cash",4.10043819641367
+"362","D7","Brazil","Cash",4.80012561114124
+"363","D7","China","Cash",7.52176451695627
+"364","D7","Germany","Cash",4.10334496874901
+"365","D7","Denmark","Cash",9.6408630646243
+"366","D7","Spain","Cash",13.5277434393092
+"367","D7","Finland","Cash",7.18725805725405
+"368","D7","France","Cash",45.3039473485972
+"369","D7","United Kingdom","Cash",20.2580321736977
+"370","D7","Indonesia","Cash",9.32305987247834
+"371","D7","India","Cash",20.7470914109171
+"372","D7","Ireland","Cash",22.0157088657948
+"373","D7","Italy","Cash",17.9683797407286
+"374","D7","Japan","Cash",17.9835592666758
+"375","D7","Luxembourg","Cash",21.1104461383023
+"376","D7","Mexico","Cash",15.1122908606541
+"377","D7","Russian Federation","Cash",50.8420934442134
+"378","D7","Turkiye","Cash",1.9655704592123
+"379","D7","United States","Cash",64.9287332932688
+"380","D7","South Africa","Cash",41.3505432434503
+"381","D7","Belgium","SP_current",69.0791870686888
+"382","D7","Brazil","SP_current",5.13821969690442
+"383","D7","China","SP_current",35.3408218750108
+"384","D7","Germany","SP_current",54.4443519921481
+"385","D7","Denmark","SP_current",99.0635363735512
+"386","D7","Spain","SP_current",38.5827717493794
+"387","D7","Finland","SP_current",65.7697414386295
+"388","D7","France","SP_current",55.3084476705033
+"389","D7","United Kingdom","SP_current",63.9475650326278
+"390","D7","Indonesia","SP_current",22.789899264205
+"391","D7","India","SP_current",80.966404979439
+"392","D7","Ireland","SP_current",87.9410087054648
+"393","D7","Italy","SP_current",80.6768906074758
+"394","D7","Japan","SP_current",31.0013598300264
+"395","D7","Luxembourg","SP_current",63.1105540918227
+"396","D7","Mexico","SP_current",17.8044342250423
+"397","D7","Russian Federation","SP_current",60.0036636269238
+"398","D7","Turkiye","SP_current",6.06652940773489
+"399","D7","United States","SP_current",65.612250205157
+"400","D7","South Africa","SP_current",73.848511244795
+"401","D7","Belgium","SP_covid",100
+"402","D7","Brazil","SP_covid",6.98797877074602
+"403","D7","China","SP_covid",89.2583782763445
+"404","D7","Germany","SP_covid",100
+"405","D7","Denmark","SP_covid",100
+"406","D7","Spain","SP_covid",100
+"407","D7","Finland","SP_covid",100
+"408","D7","France","SP_covid",100
+"409","D7","United Kingdom","SP_covid",100
+"410","D7","Indonesia","SP_covid",79.9471156697461
+"411","D7","India","SP_covid",100
+"412","D7","Ireland","SP_covid",100
+"413","D7","Italy","SP_covid",100
+"414","D7","Japan","SP_covid",98.1523184421407
+"415","D7","Luxembourg","SP_covid",100
+"416","D7","Mexico","SP_covid",24.2140315214164
+"417","D7","Russian Federation","SP_covid",100
+"418","D7","Turkiye","SP_covid",15.7729770068643
+"419","D7","United States","SP_covid",100
+"420","D7","South Africa","SP_covid",99.9999028198527
+"421","D8","Belgium","Cash",1.66732327879492
+"422","D8","Brazil","Cash",2.30531592019561
+"423","D8","China","Cash",5.54694476030383
+"424","D8","Germany","Cash",2.94743779175525
+"425","D8","Denmark","Cash",7.61582119330249
+"426","D8","Spain","Cash",10.580277612456
+"427","D8","Finland","Cash",7.51217031147371
+"428","D8","France","Cash",39.233893311528
+"429","D8","United Kingdom","Cash",14.0726482095068
+"430","D8","Indonesia","Cash",6.36543017231729
+"431","D8","India","Cash",16.7477257812348
+"432","D8","Ireland","Cash",14.3690674499668
+"433","D8","Italy","Cash",14.8904401673489
+"434","D8","Japan","Cash",14.8933906918882
+"435","D8","Luxembourg","Cash",19.5337902363725
+"436","D8","Mexico","Cash",11.0617971990719
+"437","D8","Russian Federation","Cash",45.6875053928617
+"438","D8","Turkiye","Cash",1.53092255870672
+"439","D8","United States","Cash",59.5462259200815
+"440","D8","South Africa","Cash",30.7494480086995
+"441","D8","Belgium","SP_current",65.919021222767
+"442","D8","Brazil","SP_current",2.53767528493857
+"443","D8","China","SP_current",31.86936762833
+"444","D8","Germany","SP_current",52.8335017285712
+"445","D8","Denmark","SP_current",94.8906077152321
+"446","D8","Spain","SP_current",31.6606349307866
+"447","D8","Finland","SP_current",62.3920262636347
+"448","D8","France","SP_current",50.8211402957095
+"449","D8","United Kingdom","SP_current",54.6645368553521
+"450","D8","Indonesia","SP_current",17.2417586970988
+"451","D8","India","SP_current",76.0619365306141
+"452","D8","Ireland","SP_current",85.7912435315072
+"453","D8","Italy","SP_current",76.9012890579812
+"454","D8","Japan","SP_current",24.2572221538321
+"455","D8","Luxembourg","SP_current",58.0285580839228
+"456","D8","Mexico","SP_current",13.6097927792956
+"457","D8","Russian Federation","SP_current",55.0521235622837
+"458","D8","Turkiye","SP_current",4.51710259631107
+"459","D8","United States","SP_current",60.7171398012521
+"460","D8","South Africa","SP_current",63.6604843688969
+"461","D8","Belgium","SP_covid",100
+"462","D8","Brazil","SP_covid",3.451238280984
+"463","D8","China","SP_covid",82.8398933387495
+"464","D8","Germany","SP_covid",100
+"465","D8","Denmark","SP_covid",100
+"466","D8","Spain","SP_covid",100
+"467","D8","Finland","SP_covid",100
+"468","D8","France","SP_covid",100
+"469","D8","United Kingdom","SP_covid",100
+"470","D8","Indonesia","SP_covid",62.0516132856104
+"471","D8","India","SP_covid",100
+"472","D8","Ireland","SP_covid",100
+"473","D8","Italy","SP_covid",100
+"474","D8","Japan","SP_covid",84.8858491685447
+"475","D8","Luxembourg","SP_covid",100
+"476","D8","Mexico","SP_covid",18.5093186921385
+"477","D8","Russian Federation","SP_covid",100
+"478","D8","Turkiye","SP_covid",11.7444669506437
+"479","D8","United States","SP_covid",100
+"480","D8","South Africa","SP_covid",99.3079917949697
+"481","D9","Belgium","Cash",1.52158609153506
+"482","D9","Brazil","Cash",1.21436302462574
+"483","D9","China","Cash",4.37212592365509
+"484","D9","Germany","Cash",2.05689952987083
+"485","D9","Denmark","Cash",5.37073727624218
+"486","D9","Spain","Cash",8.31019347184103
+"487","D9","Finland","Cash",4.49626481603331
+"488","D9","France","Cash",30.2870280694586
+"489","D9","United Kingdom","Cash",12.5918806141776
+"490","D9","Indonesia","Cash",3.568641756058
+"491","D9","India","Cash",12.5218012190592
+"492","D9","Ireland","Cash",9.5832115780944
+"493","D9","Italy","Cash",12.2881092596306
+"494","D9","Japan","Cash",12.3088678989821
+"495","D9","Luxembourg","Cash",17.0986587441917
+"496","D9","Mexico","Cash",7.40692667891467
+"497","D9","Russian Federation","Cash",39.3871447505856
+"498","D9","Turkiye","Cash",1.14666000568173
+"499","D9","United States","Cash",49.209337088633
+"500","D9","South Africa","Cash",21.432974735335
+"501","D9","Belgium","SP_current",62.2700240575819
+"502","D9","Brazil","SP_current",1.40169795995012
+"503","D9","China","SP_current",29.796166173289
+"504","D9","Germany","SP_current",46.294229211754
+"505","D9","Denmark","SP_current",91.109837438251
+"506","D9","Spain","SP_current",27.5759997840612
+"507","D9","Finland","SP_current",57.16543256293
+"508","D9","France","SP_current",44.4321402938877
+"509","D9","United Kingdom","SP_current",45.3202761317804
+"510","D9","Indonesia","SP_current",10.8815676122721
+"511","D9","India","SP_current",68.0606790016725
+"512","D9","Ireland","SP_current",80.4461984078584
+"513","D9","Italy","SP_current",72.0214084813693
+"514","D9","Japan","SP_current",19.5948171103416
+"515","D9","Luxembourg","SP_current",55.8978004115046
+"516","D9","Mexico","SP_current",9.57115632533962
+"517","D9","Russian Federation","SP_current",48.991665694211
+"518","D9","Turkiye","SP_current",2.94969738014585
+"519","D9","United States","SP_current",50.3159083897949
+"520","D9","South Africa","SP_current",50.7619079951592
+"521","D9","Belgium","SP_covid",100
+"522","D9","Brazil","SP_covid",1.90630923171409
+"523","D9","China","SP_covid",77.470030182044
+"524","D9","Germany","SP_covid",100
+"525","D9","Denmark","SP_covid",100
+"526","D9","Spain","SP_covid",97.1754869895845
+"527","D9","Finland","SP_covid",100
+"528","D9","France","SP_covid",100
+"529","D9","United Kingdom","SP_covid",100
+"530","D9","Indonesia","SP_covid",39.1736423997157
+"531","D9","India","SP_covid",100
+"532","D9","Ireland","SP_covid",100
+"533","D9","Italy","SP_covid",100
+"534","D9","Japan","SP_covid",70.5413435852358
+"535","D9","Luxembourg","SP_covid",100
+"536","D9","Mexico","SP_covid",13.0167728788859
+"537","D9","Russian Federation","SP_covid",100
+"538","D9","Turkiye","SP_covid",7.66921315179205
+"539","D9","United States","SP_covid",100
+"540","D9","South Africa","SP_covid",97.769668821639
+"541","D10","Belgium","Cash",0.583215472146692
+"542","D10","Brazil","Cash",0.202439408825119
+"543","D10","China","Cash",3.20676587234058
+"544","D10","Germany","Cash",1.58066922751256
+"545","D10","Denmark","Cash",3.1839488504849
+"546","D10","Spain","Cash",4.08402578321806
+"547","D10","Finland","Cash",2.74965700479566
+"548","D10","France","Cash",16.884727487685
+"549","D10","United Kingdom","Cash",8.74197720480874
+"550","D10","Indonesia","Cash",0.854481355170511
+"551","D10","India","Cash",8.32453465167639
+"552","D10","Ireland","Cash",8.22566249325032
+"553","D10","Italy","Cash",9.74870040042282
+"554","D10","Japan","Cash",9.74164312815718
+"555","D10","Luxembourg","Cash",17.6244946041465
+"556","D10","Mexico","Cash",3.76027934320176
+"557","D10","Russian Federation","Cash",33.0628002848246
+"558","D10","Turkiye","Cash",0.76110520722719
+"559","D10","United States","Cash",43.5828363118527
+"560","D10","South Africa","Cash",12.1250478911621
+"561","D10","Belgium","SP_current",50.5183457314181
+"562","D10","Brazil","SP_current",0.301854559392564
+"563","D10","China","SP_current",27.7395500456702
+"564","D10","Germany","SP_current",47.3546461437876
+"565","D10","Denmark","SP_current",79.0597219954763
+"566","D10","Spain","SP_current",20.3546683310315
+"567","D10","Finland","SP_current",50.9290458373839
+"568","D10","France","SP_current",40.1793537177778
+"569","D10","United Kingdom","SP_current",30.8901556576135
+"570","D10","Indonesia","SP_current",4.54639096496317
+"571","D10","India","SP_current",60.0708820398503
+"572","D10","Ireland","SP_current",73.3870492990842
+"573","D10","Italy","SP_current",67.0130629881586
+"574","D10","Japan","SP_current",12.5454415170096
+"575","D10","Luxembourg","SP_current",46.8615058402374
+"576","D10","Mexico","SP_current",5.53810881927688
+"577","D10","Russian Federation","SP_current",42.9081043513857
+"578","D10","Turkiye","SP_current",1.37567983727322
+"579","D10","United States","SP_current",44.8787734343475
+"580","D10","South Africa","SP_current",37.8691882695124
+"581","D10","Belgium","SP_covid",100
+"582","D10","Brazil","SP_covid",0.410522254008322
+"583","D10","China","SP_covid",72.1228320379787
+"584","D10","Germany","SP_covid",100
+"585","D10","Denmark","SP_covid",100
+"586","D10","Spain","SP_covid",73.2402543641142
+"587","D10","Finland","SP_covid",100
+"588","D10","France","SP_covid",100
+"589","D10","United Kingdom","SP_covid",100
+"590","D10","Indonesia","SP_covid",16.3670069922618
+"591","D10","India","SP_covid",100
+"592","D10","Ireland","SP_covid",100
+"593","D10","Italy","SP_covid",100
+"594","D10","Japan","SP_covid",45.1635889031386
+"595","D10","Luxembourg","SP_covid",100
+"596","D10","Mexico","SP_covid",7.53182823112932
+"597","D10","Russian Federation","SP_covid",100
+"598","D10","Turkiye","SP_covid",3.57676729765938
+"599","D10","United States","SP_covid",100
+"600","D10","South Africa","SP_covid",96.23135079383
+"601","D1","Other HICs","Cash",50.7325590829772
+"602","D1","Other HICs","SP_covid",97.0346256448748
+"603","D1","Other HICs","SP_current",68.7286587356102
+"604","D1","Other LICs","Cash",10.4398685549931
+"605","D1","Other LICs","SP_covid",43.0342145970924
+"606","D1","Other LICs","SP_current",19.5798036309033
+"607","D1","Other LMICs","Cash",27.3057942471194
+"608","D1","Other LMICs","SP_covid",76.4376894201287
+"609","D1","Other LMICs","SP_current",45.9083767288484
+"610","D1","Other UMICs","Cash",51.2439493653575
+"611","D1","Other UMICs","SP_covid",86.8808696110975
+"612","D1","Other UMICs","SP_current",70.9353636701213
+"613","D10","Other HICs","Cash",13.8735652037508
+"614","D10","Other HICs","SP_covid",81.4136250844502
+"615","D10","Other HICs","SP_current",40.5343097652104
+"616","D10","Other LICs","Cash",5.83513684066818
+"617","D10","Other LICs","SP_covid",24.6234602067094
+"618","D10","Other LICs","SP_current",11.3760079473059
+"619","D10","Other LMICs","Cash",8.92580167924809
+"620","D10","Other LMICs","SP_covid",33.933128429276
+"621","D10","Other LMICs","SP_current",19.5626383981046
+"622","D10","Other UMICs","Cash",12.2082382224301
+"623","D10","Other UMICs","SP_covid",45.4343984522374
+"624","D10","Other UMICs","SP_current",22.6713862440078
+"625","D2","Other HICs","Cash",43.3256961606718
+"626","D2","Other HICs","SP_covid",97.0167622519205
+"627","D2","Other HICs","SP_current",64.0933856154754
+"628","D2","Other LICs","Cash",9.84530453603595
+"629","D2","Other LICs","SP_covid",39.8678174325356
+"630","D2","Other LICs","SP_current",18.2320739728967
+"631","D2","Other LMICs","Cash",23.9872532672297
+"632","D2","Other LMICs","SP_covid",72.8776756779336
+"633","D2","Other LMICs","SP_current",42.1162895655171
+"634","D2","Other UMICs","Cash",44.7857424540409
+"635","D2","Other UMICs","SP_covid",82.262976941572
+"636","D2","Other UMICs","SP_current",65.4760796132655
+"637","D3","Other HICs","Cash",37.0721775623373
+"638","D3","Other HICs","SP_covid",96.9743577104494
+"639","D3","Other HICs","SP_current",60.7287820699962
+"640","D3","Other LICs","Cash",9.25240616167183
+"641","D3","Other LICs","SP_covid",36.6944071229344
+"642","D3","Other LICs","SP_current",16.8877096888583
+"643","D3","Other LMICs","Cash",20.6695301040569
+"644","D3","Other LMICs","SP_covid",68.372538528347
+"645","D3","Other LMICs","SP_current",38.3270963100094
+"646","D3","Other UMICs","Cash",38.3475031056554
+"647","D3","Other UMICs","SP_covid",77.1420699018423
+"648","D3","Other UMICs","SP_current",60.0050084011236
+"649","D4","Other HICs","Cash",31.9090363450619
+"650","D4","Other HICs","SP_covid",96.4207171630162
+"651","D4","Other HICs","SP_current",58.9223913837508
+"652","D4","Other LICs","Cash",8.71839125886484
+"653","D4","Other LICs","SP_covid",34.010146078074
+"654","D4","Other LICs","SP_current",15.7473749208494
+"655","D4","Other LMICs","Cash",18.034563677235
+"656","D4","Other LMICs","SP_covid",64.1164873905246
+"657","D4","Other LMICs","SP_current",35.0641000148713
+"658","D4","Other UMICs","Cash",33.0288126880999
+"659","D4","Other UMICs","SP_covid",72.5475615006369
+"660","D4","Other UMICs","SP_current",54.9211336457426
+"661","D5","Other HICs","Cash",27.4909185718253
+"662","D5","Other HICs","SP_covid",95.2623234116836
+"663","D5","Other HICs","SP_current",57.5557820477687
+"664","D5","Other LICs","Cash",8.26756471253415
+"665","D5","Other LICs","SP_covid",32.0075065256127
+"666","D5","Other LICs","SP_current",14.8920500716088
+"667","D5","Other LMICs","Cash",16.1943536688612
+"668","D5","Other LMICs","SP_covid",60.0780075061424
+"669","D5","Other LMICs","SP_current",32.4079449959471
+"670","D5","Other UMICs","Cash",29.0618619815584
+"671","D5","Other UMICs","SP_covid",68.5875077804052
+"672","D5","Other UMICs","SP_current",50.3172119466667
+"673","D6","Other HICs","Cash",24.5970109525156
+"674","D6","Other HICs","SP_covid",93.9700171796451
+"675","D6","Other HICs","SP_current",55.4614158280545
+"676","D6","Other LICs","Cash",7.80241397472342
+"677","D6","Other LICs","SP_covid",30.2674288560649
+"678","D6","Other LICs","SP_current",14.1246565499986
+"679","D6","Other LMICs","Cash",14.5344468628023
+"680","D6","Other LMICs","SP_covid",55.5317409702494
+"681","D6","Other LMICs","SP_current",29.9302224219783
+"682","D6","Other UMICs","Cash",25.3686826861841
+"683","D6","Other UMICs","SP_covid",64.6916226701282
+"684","D6","Other UMICs","SP_current",45.5424986346177
+"685","D7","Other HICs","Cash",21.959439800558
+"686","D7","Other HICs","SP_covid",92.4690068453582
+"687","D7","Other HICs","SP_current",52.6411218160283
+"688","D7","Other LICs","Cash",7.32359145871361
+"689","D7","Other LICs","SP_covid",28.9048477669934
+"690","D7","Other LICs","SP_current",13.4881213773305
+"691","D7","Other LMICs","Cash",13.1031166200987
+"692","D7","Other LMICs","SP_covid",50.4383155607677
+"693","D7","Other LMICs","SP_current",27.6827692242091
+"694","D7","Other UMICs","Cash",21.9964208748434
+"695","D7","Other UMICs","SP_covid",60.9006596662287
+"696","D7","Other UMICs","SP_current",40.5829978755828
+"697","D8","Other HICs","Cash",19.2348681373895
+"698","D8","Other HICs","SP_covid",90.1102930129
+"699","D8","Other HICs","SP_current",49.7559738760845
+"700","D8","Other LICs","Cash",6.8364980289188
+"701","D8","Other LICs","SP_covid",27.5108207846213
+"702","D8","Other LICs","SP_current",12.8156680143026
+"703","D8","Other LMICs","Cash",11.682983052387
+"704","D8","Other LMICs","SP_covid",45.1062223620287
+"705","D8","Other LMICs","SP_current",25.1796371607302
+"706","D8","Other UMICs","Cash",18.6949580683474
+"707","D8","Other UMICs","SP_covid",56.3468721380882
+"708","D8","Other UMICs","SP_current",35.0764615689881
+"709","D9","Other HICs","Cash",16.798634501208
+"710","D9","Other HICs","SP_covid",86.0459017097021
+"711","D9","Other HICs","SP_current",45.7636700405094
+"712","D9","Other LICs","Cash",6.33507652502404
+"713","D9","Other LICs","SP_covid",26.0644461482271
+"714","D9","Other LICs","SP_current",12.0956381469167
+"715","D9","Other LMICs","Cash",10.2935439736015
+"716","D9","Other LMICs","SP_covid",39.5170264156654
+"717","D9","Other LMICs","SP_current",22.3728434779107
+"718","D9","Other UMICs","Cash",15.4193549328261
+"719","D9","Other UMICs","SP_covid",50.8829729612783
+"720","D9","Other UMICs","SP_current",28.8643791567734
