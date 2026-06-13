@@ -1,0 +1,1561 @@
+"","Sec","Description","WBGDPreg","PriceChg"
+"1","pdr","Paddy rice","Belgium",0
+"2","pdr","Paddy rice","Brazil",0
+"3","pdr","Paddy rice","China",0
+"4","pdr","Paddy rice","Germany",0
+"5","pdr","Paddy rice","Denmark",0
+"6","pdr","Paddy rice","Spain",0
+"7","pdr","Paddy rice","Finland",0
+"8","pdr","Paddy rice","France",0
+"9","pdr","Paddy rice","United Kingdom",0
+"10","pdr","Paddy rice","Indonesia",0
+"11","pdr","Paddy rice","India",0
+"12","pdr","Paddy rice","Ireland",0
+"13","pdr","Paddy rice","Italy",0
+"14","pdr","Paddy rice","Japan",0
+"15","pdr","Paddy rice","Luxembourg",0
+"16","pdr","Paddy rice","Mexico",0
+"17","pdr","Paddy rice","Russian Federation",0
+"18","pdr","Paddy rice","Turkiye",0
+"19","pdr","Paddy rice","United States",0
+"20","pdr","Paddy rice","South Africa",0
+"21","wht","Wheat","Belgium",0
+"22","wht","Wheat","Brazil",0
+"23","wht","Wheat","China",0
+"24","wht","Wheat","Germany",0
+"25","wht","Wheat","Denmark",0
+"26","wht","Wheat","Spain",0
+"27","wht","Wheat","Finland",0
+"28","wht","Wheat","France",0
+"29","wht","Wheat","United Kingdom",0
+"30","wht","Wheat","Indonesia",0
+"31","wht","Wheat","India",0
+"32","wht","Wheat","Ireland",0
+"33","wht","Wheat","Italy",0
+"34","wht","Wheat","Japan",0
+"35","wht","Wheat","Luxembourg",0
+"36","wht","Wheat","Mexico",0
+"37","wht","Wheat","Russian Federation",0
+"38","wht","Wheat","Turkiye",0
+"39","wht","Wheat","United States",0
+"40","wht","Wheat","South Africa",0
+"41","gro","Cereal grains nec","Belgium",0
+"42","gro","Cereal grains nec","Brazil",0
+"43","gro","Cereal grains nec","China",0
+"44","gro","Cereal grains nec","Germany",0
+"45","gro","Cereal grains nec","Denmark",0
+"46","gro","Cereal grains nec","Spain",0
+"47","gro","Cereal grains nec","Finland",0
+"48","gro","Cereal grains nec","France",0
+"49","gro","Cereal grains nec","United Kingdom",0
+"50","gro","Cereal grains nec","Indonesia",0
+"51","gro","Cereal grains nec","India",0
+"52","gro","Cereal grains nec","Ireland",0
+"53","gro","Cereal grains nec","Italy",0
+"54","gro","Cereal grains nec","Japan",0
+"55","gro","Cereal grains nec","Luxembourg",0
+"56","gro","Cereal grains nec","Mexico",0
+"57","gro","Cereal grains nec","Russian Federation",0
+"58","gro","Cereal grains nec","Turkiye",0
+"59","gro","Cereal grains nec","United States",0
+"60","gro","Cereal grains nec","South Africa",0
+"61","v_f","Vegetables, fruit, nuts","Belgium",0
+"62","v_f","Vegetables, fruit, nuts","Brazil",0
+"63","v_f","Vegetables, fruit, nuts","China",0
+"64","v_f","Vegetables, fruit, nuts","Germany",0
+"65","v_f","Vegetables, fruit, nuts","Denmark",0
+"66","v_f","Vegetables, fruit, nuts","Spain",0
+"67","v_f","Vegetables, fruit, nuts","Finland",0
+"68","v_f","Vegetables, fruit, nuts","France",0
+"69","v_f","Vegetables, fruit, nuts","United Kingdom",0
+"70","v_f","Vegetables, fruit, nuts","Indonesia",0
+"71","v_f","Vegetables, fruit, nuts","India",0
+"72","v_f","Vegetables, fruit, nuts","Ireland",0
+"73","v_f","Vegetables, fruit, nuts","Italy",0
+"74","v_f","Vegetables, fruit, nuts","Japan",0
+"75","v_f","Vegetables, fruit, nuts","Luxembourg",0
+"76","v_f","Vegetables, fruit, nuts","Mexico",0
+"77","v_f","Vegetables, fruit, nuts","Russian Federation",0
+"78","v_f","Vegetables, fruit, nuts","Turkiye",0
+"79","v_f","Vegetables, fruit, nuts","United States",0
+"80","v_f","Vegetables, fruit, nuts","South Africa",0
+"81","osd","Oil seeds","Belgium",0
+"82","osd","Oil seeds","Brazil",0
+"83","osd","Oil seeds","China",0
+"84","osd","Oil seeds","Germany",0
+"85","osd","Oil seeds","Denmark",0
+"86","osd","Oil seeds","Spain",0
+"87","osd","Oil seeds","Finland",0
+"88","osd","Oil seeds","France",0
+"89","osd","Oil seeds","United Kingdom",0
+"90","osd","Oil seeds","Indonesia",0
+"91","osd","Oil seeds","India",0
+"92","osd","Oil seeds","Ireland",0
+"93","osd","Oil seeds","Italy",0
+"94","osd","Oil seeds","Japan",0
+"95","osd","Oil seeds","Luxembourg",0
+"96","osd","Oil seeds","Mexico",0
+"97","osd","Oil seeds","Russian Federation",0
+"98","osd","Oil seeds","Turkiye",0
+"99","osd","Oil seeds","United States",0
+"100","osd","Oil seeds","South Africa",0
+"101","c_b","Sugar cane, sugar beet","Belgium",0
+"102","c_b","Sugar cane, sugar beet","Brazil",0
+"103","c_b","Sugar cane, sugar beet","China",0
+"104","c_b","Sugar cane, sugar beet","Germany",0
+"105","c_b","Sugar cane, sugar beet","Denmark",0
+"106","c_b","Sugar cane, sugar beet","Spain",0
+"107","c_b","Sugar cane, sugar beet","Finland",0
+"108","c_b","Sugar cane, sugar beet","France",0
+"109","c_b","Sugar cane, sugar beet","United Kingdom",0
+"110","c_b","Sugar cane, sugar beet","Indonesia",0
+"111","c_b","Sugar cane, sugar beet","India",0
+"112","c_b","Sugar cane, sugar beet","Ireland",0
+"113","c_b","Sugar cane, sugar beet","Italy",0
+"114","c_b","Sugar cane, sugar beet","Japan",0
+"115","c_b","Sugar cane, sugar beet","Luxembourg",0
+"116","c_b","Sugar cane, sugar beet","Mexico",0
+"117","c_b","Sugar cane, sugar beet","Russian Federation",0
+"118","c_b","Sugar cane, sugar beet","Turkiye",0
+"119","c_b","Sugar cane, sugar beet","United States",0
+"120","c_b","Sugar cane, sugar beet","South Africa",0
+"121","pfb","Plant-based fibers","Belgium",0
+"122","pfb","Plant-based fibers","Brazil",0
+"123","pfb","Plant-based fibers","China",0
+"124","pfb","Plant-based fibers","Germany",0
+"125","pfb","Plant-based fibers","Denmark",0
+"126","pfb","Plant-based fibers","Spain",0
+"127","pfb","Plant-based fibers","Finland",0
+"128","pfb","Plant-based fibers","France",0
+"129","pfb","Plant-based fibers","United Kingdom",0
+"130","pfb","Plant-based fibers","Indonesia",0
+"131","pfb","Plant-based fibers","India",0
+"132","pfb","Plant-based fibers","Ireland",0
+"133","pfb","Plant-based fibers","Italy",0
+"134","pfb","Plant-based fibers","Japan",0
+"135","pfb","Plant-based fibers","Luxembourg",0
+"136","pfb","Plant-based fibers","Mexico",0
+"137","pfb","Plant-based fibers","Russian Federation",0
+"138","pfb","Plant-based fibers","Turkiye",0
+"139","pfb","Plant-based fibers","United States",0
+"140","pfb","Plant-based fibers","South Africa",0
+"141","ocr","Crops nec","Belgium",0
+"142","ocr","Crops nec","Brazil",0
+"143","ocr","Crops nec","China",0
+"144","ocr","Crops nec","Germany",0
+"145","ocr","Crops nec","Denmark",0
+"146","ocr","Crops nec","Spain",0
+"147","ocr","Crops nec","Finland",0
+"148","ocr","Crops nec","France",0
+"149","ocr","Crops nec","United Kingdom",0
+"150","ocr","Crops nec","Indonesia",0
+"151","ocr","Crops nec","India",0
+"152","ocr","Crops nec","Ireland",0
+"153","ocr","Crops nec","Italy",0
+"154","ocr","Crops nec","Japan",0
+"155","ocr","Crops nec","Luxembourg",0
+"156","ocr","Crops nec","Mexico",0
+"157","ocr","Crops nec","Russian Federation",0
+"158","ocr","Crops nec","Turkiye",0
+"159","ocr","Crops nec","United States",0
+"160","ocr","Crops nec","South Africa",0
+"161","ctl","Bovine cattle, sheep and goats, horses","Belgium",0
+"162","ctl","Bovine cattle, sheep and goats, horses","Brazil",0
+"163","ctl","Bovine cattle, sheep and goats, horses","China",0
+"164","ctl","Bovine cattle, sheep and goats, horses","Germany",0
+"165","ctl","Bovine cattle, sheep and goats, horses","Denmark",0
+"166","ctl","Bovine cattle, sheep and goats, horses","Spain",0
+"167","ctl","Bovine cattle, sheep and goats, horses","Finland",0
+"168","ctl","Bovine cattle, sheep and goats, horses","France",0
+"169","ctl","Bovine cattle, sheep and goats, horses","United Kingdom",0
+"170","ctl","Bovine cattle, sheep and goats, horses","Indonesia",0
+"171","ctl","Bovine cattle, sheep and goats, horses","India",0
+"172","ctl","Bovine cattle, sheep and goats, horses","Ireland",0
+"173","ctl","Bovine cattle, sheep and goats, horses","Italy",0
+"174","ctl","Bovine cattle, sheep and goats, horses","Japan",0
+"175","ctl","Bovine cattle, sheep and goats, horses","Luxembourg",0
+"176","ctl","Bovine cattle, sheep and goats, horses","Mexico",0
+"177","ctl","Bovine cattle, sheep and goats, horses","Russian Federation",0
+"178","ctl","Bovine cattle, sheep and goats, horses","Turkiye",0
+"179","ctl","Bovine cattle, sheep and goats, horses","United States",0
+"180","ctl","Bovine cattle, sheep and goats, horses","South Africa",0
+"181","oap","Animal products nec","Belgium",0
+"182","oap","Animal products nec","Brazil",0
+"183","oap","Animal products nec","China",0
+"184","oap","Animal products nec","Germany",0
+"185","oap","Animal products nec","Denmark",0
+"186","oap","Animal products nec","Spain",0
+"187","oap","Animal products nec","Finland",0
+"188","oap","Animal products nec","France",0
+"189","oap","Animal products nec","United Kingdom",0
+"190","oap","Animal products nec","Indonesia",0
+"191","oap","Animal products nec","India",0
+"192","oap","Animal products nec","Ireland",0
+"193","oap","Animal products nec","Italy",0
+"194","oap","Animal products nec","Japan",0
+"195","oap","Animal products nec","Luxembourg",0
+"196","oap","Animal products nec","Mexico",0
+"197","oap","Animal products nec","Russian Federation",0
+"198","oap","Animal products nec","Turkiye",0
+"199","oap","Animal products nec","United States",0
+"200","oap","Animal products nec","South Africa",0
+"201","rmk","Raw milk","Belgium",0
+"202","rmk","Raw milk","Brazil",0
+"203","rmk","Raw milk","China",0
+"204","rmk","Raw milk","Germany",0
+"205","rmk","Raw milk","Denmark",0
+"206","rmk","Raw milk","Spain",0
+"207","rmk","Raw milk","Finland",0
+"208","rmk","Raw milk","France",0
+"209","rmk","Raw milk","United Kingdom",0
+"210","rmk","Raw milk","Indonesia",0
+"211","rmk","Raw milk","India",0
+"212","rmk","Raw milk","Ireland",0
+"213","rmk","Raw milk","Italy",0
+"214","rmk","Raw milk","Japan",0
+"215","rmk","Raw milk","Luxembourg",0
+"216","rmk","Raw milk","Mexico",0
+"217","rmk","Raw milk","Russian Federation",0
+"218","rmk","Raw milk","Turkiye",0
+"219","rmk","Raw milk","United States",0
+"220","rmk","Raw milk","South Africa",0
+"221","wol","Wool, silk-worm cocoons","Belgium",0
+"222","wol","Wool, silk-worm cocoons","Brazil",0
+"223","wol","Wool, silk-worm cocoons","China",0
+"224","wol","Wool, silk-worm cocoons","Germany",0
+"225","wol","Wool, silk-worm cocoons","Denmark",0
+"226","wol","Wool, silk-worm cocoons","Spain",0
+"227","wol","Wool, silk-worm cocoons","Finland",0
+"228","wol","Wool, silk-worm cocoons","France",0
+"229","wol","Wool, silk-worm cocoons","United Kingdom",0
+"230","wol","Wool, silk-worm cocoons","Indonesia",0
+"231","wol","Wool, silk-worm cocoons","India",0
+"232","wol","Wool, silk-worm cocoons","Ireland",0
+"233","wol","Wool, silk-worm cocoons","Italy",0
+"234","wol","Wool, silk-worm cocoons","Japan",0
+"235","wol","Wool, silk-worm cocoons","Luxembourg",0
+"236","wol","Wool, silk-worm cocoons","Mexico",0
+"237","wol","Wool, silk-worm cocoons","Russian Federation",0
+"238","wol","Wool, silk-worm cocoons","Turkiye",0
+"239","wol","Wool, silk-worm cocoons","United States",0
+"240","wol","Wool, silk-worm cocoons","South Africa",0
+"241","frs","Forestry","Belgium",0
+"242","frs","Forestry","Brazil",0
+"243","frs","Forestry","China",0
+"244","frs","Forestry","Germany",0
+"245","frs","Forestry","Denmark",0
+"246","frs","Forestry","Spain",0
+"247","frs","Forestry","Finland",0
+"248","frs","Forestry","France",0
+"249","frs","Forestry","United Kingdom",0
+"250","frs","Forestry","Indonesia",0
+"251","frs","Forestry","India",0
+"252","frs","Forestry","Ireland",0
+"253","frs","Forestry","Italy",0
+"254","frs","Forestry","Japan",0
+"255","frs","Forestry","Luxembourg",0
+"256","frs","Forestry","Mexico",0
+"257","frs","Forestry","Russian Federation",0
+"258","frs","Forestry","Turkiye",0
+"259","frs","Forestry","United States",0
+"260","frs","Forestry","South Africa",0
+"261","fsh","Fishing","Belgium",0
+"262","fsh","Fishing","Brazil",0
+"263","fsh","Fishing","China",0
+"264","fsh","Fishing","Germany",0
+"265","fsh","Fishing","Denmark",0
+"266","fsh","Fishing","Spain",0
+"267","fsh","Fishing","Finland",0
+"268","fsh","Fishing","France",0
+"269","fsh","Fishing","United Kingdom",0
+"270","fsh","Fishing","Indonesia",0
+"271","fsh","Fishing","India",0
+"272","fsh","Fishing","Ireland",0
+"273","fsh","Fishing","Italy",0
+"274","fsh","Fishing","Japan",0
+"275","fsh","Fishing","Luxembourg",0
+"276","fsh","Fishing","Mexico",0
+"277","fsh","Fishing","Russian Federation",0
+"278","fsh","Fishing","Turkiye",0
+"279","fsh","Fishing","United States",0
+"280","fsh","Fishing","South Africa",0
+"281","coa","Coal","Belgium",0
+"282","coa","Coal","Brazil",0.000437853305186309
+"283","coa","Coal","China",0
+"284","coa","Coal","Germany",0
+"285","coa","Coal","Denmark",0
+"286","coa","Coal","Spain",0
+"287","coa","Coal","Finland",0
+"288","coa","Coal","France",0
+"289","coa","Coal","United Kingdom",0
+"290","coa","Coal","Indonesia",0.0929940440535688
+"291","coa","Coal","India",0
+"292","coa","Coal","Ireland",0
+"293","coa","Coal","Italy",0
+"294","coa","Coal","Japan",0
+"295","coa","Coal","Luxembourg",0
+"296","coa","Coal","Mexico",0
+"297","coa","Coal","Russian Federation",0
+"298","coa","Coal","Turkiye",8.07608457266622
+"299","coa","Coal","United States",0
+"300","coa","Coal","South Africa",0
+"301","oil","Oil","Belgium",0
+"302","oil","Oil","Brazil",0
+"303","oil","Oil","China",0
+"304","oil","Oil","Germany",0
+"305","oil","Oil","Denmark",0
+"306","oil","Oil","Spain",0
+"307","oil","Oil","Finland",0
+"308","oil","Oil","France",0
+"309","oil","Oil","United Kingdom",0
+"310","oil","Oil","Indonesia",0
+"311","oil","Oil","India",0
+"312","oil","Oil","Ireland",0
+"313","oil","Oil","Italy",0
+"314","oil","Oil","Japan",0
+"315","oil","Oil","Luxembourg",0
+"316","oil","Oil","Mexico",0
+"317","oil","Oil","Russian Federation",0
+"318","oil","Oil","Turkiye",0
+"319","oil","Oil","United States",0
+"320","oil","Oil","South Africa",0
+"321","gas","Gas","Belgium",0
+"322","gas","Gas","Brazil",0
+"323","gas","Gas","China",36.858970449041
+"324","gas","Gas","Germany",0
+"325","gas","Gas","Denmark",0
+"326","gas","Gas","Spain",0
+"327","gas","Gas","Finland",0
+"328","gas","Gas","France",0
+"329","gas","Gas","United Kingdom",39.5140573415505
+"330","gas","Gas","Indonesia",0
+"331","gas","Gas","India",16.5829558633292
+"332","gas","Gas","Ireland",0
+"333","gas","Gas","Italy",0
+"334","gas","Gas","Japan",4.24367535971861
+"335","gas","Gas","Luxembourg",3.13025717464951
+"336","gas","Gas","Mexico",0.00106595447103075
+"337","gas","Gas","Russian Federation",17.7033273054517
+"338","gas","Gas","Turkiye",33.2715235645292
+"339","gas","Gas","United States",6.70719265715806
+"340","gas","Gas","South Africa",0
+"341","oxt","Other Extraction","Belgium",0
+"342","oxt","Other Extraction","Brazil",0
+"343","oxt","Other Extraction","China",0
+"344","oxt","Other Extraction","Germany",0
+"345","oxt","Other Extraction","Denmark",0
+"346","oxt","Other Extraction","Spain",0
+"347","oxt","Other Extraction","Finland",0
+"348","oxt","Other Extraction","France",0
+"349","oxt","Other Extraction","United Kingdom",0
+"350","oxt","Other Extraction","Indonesia",0
+"351","oxt","Other Extraction","India",0
+"352","oxt","Other Extraction","Ireland",0
+"353","oxt","Other Extraction","Italy",0
+"354","oxt","Other Extraction","Japan",0
+"355","oxt","Other Extraction","Luxembourg",0
+"356","oxt","Other Extraction","Mexico",0
+"357","oxt","Other Extraction","Russian Federation",0
+"358","oxt","Other Extraction","Turkiye",0
+"359","oxt","Other Extraction","United States",0
+"360","oxt","Other Extraction","South Africa",0
+"361","cmt","Bovine meat products","Belgium",0
+"362","cmt","Bovine meat products","Brazil",0
+"363","cmt","Bovine meat products","China",0
+"364","cmt","Bovine meat products","Germany",0
+"365","cmt","Bovine meat products","Denmark",0
+"366","cmt","Bovine meat products","Spain",0
+"367","cmt","Bovine meat products","Finland",0
+"368","cmt","Bovine meat products","France",0
+"369","cmt","Bovine meat products","United Kingdom",0
+"370","cmt","Bovine meat products","Indonesia",0
+"371","cmt","Bovine meat products","India",0
+"372","cmt","Bovine meat products","Ireland",0
+"373","cmt","Bovine meat products","Italy",0
+"374","cmt","Bovine meat products","Japan",0
+"375","cmt","Bovine meat products","Luxembourg",0
+"376","cmt","Bovine meat products","Mexico",0
+"377","cmt","Bovine meat products","Russian Federation",0
+"378","cmt","Bovine meat products","Turkiye",0
+"379","cmt","Bovine meat products","United States",0
+"380","cmt","Bovine meat products","South Africa",0
+"381","omt","Meat products nec","Belgium",0
+"382","omt","Meat products nec","Brazil",0
+"383","omt","Meat products nec","China",0
+"384","omt","Meat products nec","Germany",0
+"385","omt","Meat products nec","Denmark",0
+"386","omt","Meat products nec","Spain",0
+"387","omt","Meat products nec","Finland",0
+"388","omt","Meat products nec","France",0
+"389","omt","Meat products nec","United Kingdom",0
+"390","omt","Meat products nec","Indonesia",0
+"391","omt","Meat products nec","India",0
+"392","omt","Meat products nec","Ireland",0
+"393","omt","Meat products nec","Italy",0
+"394","omt","Meat products nec","Japan",0
+"395","omt","Meat products nec","Luxembourg",0
+"396","omt","Meat products nec","Mexico",0
+"397","omt","Meat products nec","Russian Federation",0
+"398","omt","Meat products nec","Turkiye",0
+"399","omt","Meat products nec","United States",0
+"400","omt","Meat products nec","South Africa",0
+"401","vol","Vegetable oils and fats","Belgium",0
+"402","vol","Vegetable oils and fats","Brazil",0
+"403","vol","Vegetable oils and fats","China",0
+"404","vol","Vegetable oils and fats","Germany",0
+"405","vol","Vegetable oils and fats","Denmark",0
+"406","vol","Vegetable oils and fats","Spain",0
+"407","vol","Vegetable oils and fats","Finland",0
+"408","vol","Vegetable oils and fats","France",0
+"409","vol","Vegetable oils and fats","United Kingdom",0
+"410","vol","Vegetable oils and fats","Indonesia",0
+"411","vol","Vegetable oils and fats","India",0
+"412","vol","Vegetable oils and fats","Ireland",0
+"413","vol","Vegetable oils and fats","Italy",0
+"414","vol","Vegetable oils and fats","Japan",0
+"415","vol","Vegetable oils and fats","Luxembourg",0
+"416","vol","Vegetable oils and fats","Mexico",0
+"417","vol","Vegetable oils and fats","Russian Federation",0
+"418","vol","Vegetable oils and fats","Turkiye",0
+"419","vol","Vegetable oils and fats","United States",0
+"420","vol","Vegetable oils and fats","South Africa",0
+"421","mil","Dairy products","Belgium",0
+"422","mil","Dairy products","Brazil",0
+"423","mil","Dairy products","China",0
+"424","mil","Dairy products","Germany",0
+"425","mil","Dairy products","Denmark",0
+"426","mil","Dairy products","Spain",0
+"427","mil","Dairy products","Finland",0
+"428","mil","Dairy products","France",0
+"429","mil","Dairy products","United Kingdom",0
+"430","mil","Dairy products","Indonesia",0
+"431","mil","Dairy products","India",0
+"432","mil","Dairy products","Ireland",0
+"433","mil","Dairy products","Italy",0
+"434","mil","Dairy products","Japan",0
+"435","mil","Dairy products","Luxembourg",0
+"436","mil","Dairy products","Mexico",0
+"437","mil","Dairy products","Russian Federation",0
+"438","mil","Dairy products","Turkiye",0
+"439","mil","Dairy products","United States",0
+"440","mil","Dairy products","South Africa",0
+"441","pcr","Processed rice","Belgium",0
+"442","pcr","Processed rice","Brazil",0
+"443","pcr","Processed rice","China",0
+"444","pcr","Processed rice","Germany",0
+"445","pcr","Processed rice","Denmark",0
+"446","pcr","Processed rice","Spain",0
+"447","pcr","Processed rice","Finland",0
+"448","pcr","Processed rice","France",0
+"449","pcr","Processed rice","United Kingdom",0
+"450","pcr","Processed rice","Indonesia",0
+"451","pcr","Processed rice","India",0
+"452","pcr","Processed rice","Ireland",0
+"453","pcr","Processed rice","Italy",0
+"454","pcr","Processed rice","Japan",0
+"455","pcr","Processed rice","Luxembourg",0
+"456","pcr","Processed rice","Mexico",0
+"457","pcr","Processed rice","Russian Federation",0
+"458","pcr","Processed rice","Turkiye",0
+"459","pcr","Processed rice","United States",0
+"460","pcr","Processed rice","South Africa",0
+"461","sgr","Sugar","Belgium",0
+"462","sgr","Sugar","Brazil",0
+"463","sgr","Sugar","China",0
+"464","sgr","Sugar","Germany",0
+"465","sgr","Sugar","Denmark",0
+"466","sgr","Sugar","Spain",0
+"467","sgr","Sugar","Finland",0
+"468","sgr","Sugar","France",0
+"469","sgr","Sugar","United Kingdom",0
+"470","sgr","Sugar","Indonesia",0
+"471","sgr","Sugar","India",0
+"472","sgr","Sugar","Ireland",0
+"473","sgr","Sugar","Italy",0
+"474","sgr","Sugar","Japan",0
+"475","sgr","Sugar","Luxembourg",0
+"476","sgr","Sugar","Mexico",0
+"477","sgr","Sugar","Russian Federation",0
+"478","sgr","Sugar","Turkiye",0
+"479","sgr","Sugar","United States",0
+"480","sgr","Sugar","South Africa",0
+"481","ofd","Food products nec","Belgium",0
+"482","ofd","Food products nec","Brazil",0
+"483","ofd","Food products nec","China",0
+"484","ofd","Food products nec","Germany",0
+"485","ofd","Food products nec","Denmark",0
+"486","ofd","Food products nec","Spain",0
+"487","ofd","Food products nec","Finland",0
+"488","ofd","Food products nec","France",0
+"489","ofd","Food products nec","United Kingdom",0
+"490","ofd","Food products nec","Indonesia",0
+"491","ofd","Food products nec","India",0
+"492","ofd","Food products nec","Ireland",0
+"493","ofd","Food products nec","Italy",0
+"494","ofd","Food products nec","Japan",0
+"495","ofd","Food products nec","Luxembourg",0
+"496","ofd","Food products nec","Mexico",0
+"497","ofd","Food products nec","Russian Federation",0
+"498","ofd","Food products nec","Turkiye",0
+"499","ofd","Food products nec","United States",0
+"500","ofd","Food products nec","South Africa",0
+"501","b_t","Beverages and tobacco products","Belgium",0
+"502","b_t","Beverages and tobacco products","Brazil",0
+"503","b_t","Beverages and tobacco products","China",0
+"504","b_t","Beverages and tobacco products","Germany",0
+"505","b_t","Beverages and tobacco products","Denmark",0
+"506","b_t","Beverages and tobacco products","Spain",0
+"507","b_t","Beverages and tobacco products","Finland",0
+"508","b_t","Beverages and tobacco products","France",0
+"509","b_t","Beverages and tobacco products","United Kingdom",0
+"510","b_t","Beverages and tobacco products","Indonesia",0
+"511","b_t","Beverages and tobacco products","India",0
+"512","b_t","Beverages and tobacco products","Ireland",0
+"513","b_t","Beverages and tobacco products","Italy",0
+"514","b_t","Beverages and tobacco products","Japan",0
+"515","b_t","Beverages and tobacco products","Luxembourg",0
+"516","b_t","Beverages and tobacco products","Mexico",0
+"517","b_t","Beverages and tobacco products","Russian Federation",0
+"518","b_t","Beverages and tobacco products","Turkiye",0
+"519","b_t","Beverages and tobacco products","United States",0
+"520","b_t","Beverages and tobacco products","South Africa",0
+"521","tex","Textiles","Belgium",0
+"522","tex","Textiles","Brazil",0
+"523","tex","Textiles","China",0
+"524","tex","Textiles","Germany",0
+"525","tex","Textiles","Denmark",0
+"526","tex","Textiles","Spain",0
+"527","tex","Textiles","Finland",0
+"528","tex","Textiles","France",0
+"529","tex","Textiles","United Kingdom",0
+"530","tex","Textiles","Indonesia",0
+"531","tex","Textiles","India",0
+"532","tex","Textiles","Ireland",0
+"533","tex","Textiles","Italy",0
+"534","tex","Textiles","Japan",0
+"535","tex","Textiles","Luxembourg",0
+"536","tex","Textiles","Mexico",0
+"537","tex","Textiles","Russian Federation",0
+"538","tex","Textiles","Turkiye",0
+"539","tex","Textiles","United States",0
+"540","tex","Textiles","South Africa",0
+"541","wap","Wearing apparel","Belgium",0
+"542","wap","Wearing apparel","Brazil",0
+"543","wap","Wearing apparel","China",0
+"544","wap","Wearing apparel","Germany",0
+"545","wap","Wearing apparel","Denmark",0
+"546","wap","Wearing apparel","Spain",0
+"547","wap","Wearing apparel","Finland",0
+"548","wap","Wearing apparel","France",0
+"549","wap","Wearing apparel","United Kingdom",0
+"550","wap","Wearing apparel","Indonesia",0
+"551","wap","Wearing apparel","India",0
+"552","wap","Wearing apparel","Ireland",0
+"553","wap","Wearing apparel","Italy",0
+"554","wap","Wearing apparel","Japan",0
+"555","wap","Wearing apparel","Luxembourg",0
+"556","wap","Wearing apparel","Mexico",0
+"557","wap","Wearing apparel","Russian Federation",0
+"558","wap","Wearing apparel","Turkiye",0
+"559","wap","Wearing apparel","United States",0
+"560","wap","Wearing apparel","South Africa",0
+"561","lea","Leather products","Belgium",0
+"562","lea","Leather products","Brazil",0
+"563","lea","Leather products","China",0
+"564","lea","Leather products","Germany",0
+"565","lea","Leather products","Denmark",0
+"566","lea","Leather products","Spain",0
+"567","lea","Leather products","Finland",0
+"568","lea","Leather products","France",0
+"569","lea","Leather products","United Kingdom",0
+"570","lea","Leather products","Indonesia",0
+"571","lea","Leather products","India",0
+"572","lea","Leather products","Ireland",0
+"573","lea","Leather products","Italy",0
+"574","lea","Leather products","Japan",0
+"575","lea","Leather products","Luxembourg",0
+"576","lea","Leather products","Mexico",0
+"577","lea","Leather products","Russian Federation",0
+"578","lea","Leather products","Turkiye",0
+"579","lea","Leather products","United States",0
+"580","lea","Leather products","South Africa",0
+"581","lum","Wood products","Belgium",0
+"582","lum","Wood products","Brazil",0
+"583","lum","Wood products","China",0
+"584","lum","Wood products","Germany",0
+"585","lum","Wood products","Denmark",0
+"586","lum","Wood products","Spain",0
+"587","lum","Wood products","Finland",0
+"588","lum","Wood products","France",0
+"589","lum","Wood products","United Kingdom",0
+"590","lum","Wood products","Indonesia",0
+"591","lum","Wood products","India",0
+"592","lum","Wood products","Ireland",0
+"593","lum","Wood products","Italy",0
+"594","lum","Wood products","Japan",0
+"595","lum","Wood products","Luxembourg",0
+"596","lum","Wood products","Mexico",0
+"597","lum","Wood products","Russian Federation",0
+"598","lum","Wood products","Turkiye",0
+"599","lum","Wood products","United States",0
+"600","lum","Wood products","South Africa",0
+"601","ppp","Paper products, publishing","Belgium",0
+"602","ppp","Paper products, publishing","Brazil",0
+"603","ppp","Paper products, publishing","China",0
+"604","ppp","Paper products, publishing","Germany",0
+"605","ppp","Paper products, publishing","Denmark",0
+"606","ppp","Paper products, publishing","Spain",0
+"607","ppp","Paper products, publishing","Finland",0
+"608","ppp","Paper products, publishing","France",0
+"609","ppp","Paper products, publishing","United Kingdom",0
+"610","ppp","Paper products, publishing","Indonesia",0
+"611","ppp","Paper products, publishing","India",0
+"612","ppp","Paper products, publishing","Ireland",0
+"613","ppp","Paper products, publishing","Italy",0
+"614","ppp","Paper products, publishing","Japan",0
+"615","ppp","Paper products, publishing","Luxembourg",0
+"616","ppp","Paper products, publishing","Mexico",0
+"617","ppp","Paper products, publishing","Russian Federation",0
+"618","ppp","Paper products, publishing","Turkiye",0
+"619","ppp","Paper products, publishing","United States",0
+"620","ppp","Paper products, publishing","South Africa",0
+"621","p_c","Petroleum, coal products","Belgium",0
+"622","p_c","Petroleum, coal products","Brazil",0
+"623","p_c","Petroleum, coal products","China",0
+"624","p_c","Petroleum, coal products","Germany",0
+"625","p_c","Petroleum, coal products","Denmark",0
+"626","p_c","Petroleum, coal products","Spain",0
+"627","p_c","Petroleum, coal products","Finland",0
+"628","p_c","Petroleum, coal products","France",0
+"629","p_c","Petroleum, coal products","United Kingdom",0
+"630","p_c","Petroleum, coal products","Indonesia",29.0728065467542
+"631","p_c","Petroleum, coal products","India",0
+"632","p_c","Petroleum, coal products","Ireland",0
+"633","p_c","Petroleum, coal products","Italy",0
+"634","p_c","Petroleum, coal products","Japan",0.047092918399855
+"635","p_c","Petroleum, coal products","Luxembourg",0
+"636","p_c","Petroleum, coal products","Mexico",0.781071841925993
+"637","p_c","Petroleum, coal products","Russian Federation",3.02537262334444
+"638","p_c","Petroleum, coal products","Turkiye",0
+"639","p_c","Petroleum, coal products","United States",0
+"640","p_c","Petroleum, coal products","South Africa",0
+"641","chm","Chemical products","Belgium",0
+"642","chm","Chemical products","Brazil",0
+"643","chm","Chemical products","China",0
+"644","chm","Chemical products","Germany",0
+"645","chm","Chemical products","Denmark",0
+"646","chm","Chemical products","Spain",0
+"647","chm","Chemical products","Finland",0
+"648","chm","Chemical products","France",0
+"649","chm","Chemical products","United Kingdom",0
+"650","chm","Chemical products","Indonesia",0
+"651","chm","Chemical products","India",0
+"652","chm","Chemical products","Ireland",0
+"653","chm","Chemical products","Italy",0
+"654","chm","Chemical products","Japan",0
+"655","chm","Chemical products","Luxembourg",0
+"656","chm","Chemical products","Mexico",0
+"657","chm","Chemical products","Russian Federation",0
+"658","chm","Chemical products","Turkiye",0
+"659","chm","Chemical products","United States",0
+"660","chm","Chemical products","South Africa",0
+"661","bph","Basic pharmaceutical products","Belgium",0
+"662","bph","Basic pharmaceutical products","Brazil",0
+"663","bph","Basic pharmaceutical products","China",0
+"664","bph","Basic pharmaceutical products","Germany",0
+"665","bph","Basic pharmaceutical products","Denmark",0
+"666","bph","Basic pharmaceutical products","Spain",0
+"667","bph","Basic pharmaceutical products","Finland",0
+"668","bph","Basic pharmaceutical products","France",0
+"669","bph","Basic pharmaceutical products","United Kingdom",0
+"670","bph","Basic pharmaceutical products","Indonesia",0
+"671","bph","Basic pharmaceutical products","India",0
+"672","bph","Basic pharmaceutical products","Ireland",0
+"673","bph","Basic pharmaceutical products","Italy",0
+"674","bph","Basic pharmaceutical products","Japan",0
+"675","bph","Basic pharmaceutical products","Luxembourg",0
+"676","bph","Basic pharmaceutical products","Mexico",0
+"677","bph","Basic pharmaceutical products","Russian Federation",0
+"678","bph","Basic pharmaceutical products","Turkiye",0
+"679","bph","Basic pharmaceutical products","United States",0
+"680","bph","Basic pharmaceutical products","South Africa",0
+"681","rpp","Rubber and plastic products","Belgium",0
+"682","rpp","Rubber and plastic products","Brazil",0
+"683","rpp","Rubber and plastic products","China",0
+"684","rpp","Rubber and plastic products","Germany",0
+"685","rpp","Rubber and plastic products","Denmark",0
+"686","rpp","Rubber and plastic products","Spain",0
+"687","rpp","Rubber and plastic products","Finland",0
+"688","rpp","Rubber and plastic products","France",0
+"689","rpp","Rubber and plastic products","United Kingdom",0
+"690","rpp","Rubber and plastic products","Indonesia",0
+"691","rpp","Rubber and plastic products","India",0
+"692","rpp","Rubber and plastic products","Ireland",0
+"693","rpp","Rubber and plastic products","Italy",0
+"694","rpp","Rubber and plastic products","Japan",0
+"695","rpp","Rubber and plastic products","Luxembourg",0
+"696","rpp","Rubber and plastic products","Mexico",0
+"697","rpp","Rubber and plastic products","Russian Federation",0
+"698","rpp","Rubber and plastic products","Turkiye",0
+"699","rpp","Rubber and plastic products","United States",0
+"700","rpp","Rubber and plastic products","South Africa",0
+"701","nmm","Mineral products nec","Belgium",0
+"702","nmm","Mineral products nec","Brazil",0
+"703","nmm","Mineral products nec","China",0
+"704","nmm","Mineral products nec","Germany",0
+"705","nmm","Mineral products nec","Denmark",0
+"706","nmm","Mineral products nec","Spain",0
+"707","nmm","Mineral products nec","Finland",0
+"708","nmm","Mineral products nec","France",0
+"709","nmm","Mineral products nec","United Kingdom",0
+"710","nmm","Mineral products nec","Indonesia",0
+"711","nmm","Mineral products nec","India",0
+"712","nmm","Mineral products nec","Ireland",0
+"713","nmm","Mineral products nec","Italy",0
+"714","nmm","Mineral products nec","Japan",0
+"715","nmm","Mineral products nec","Luxembourg",0
+"716","nmm","Mineral products nec","Mexico",0
+"717","nmm","Mineral products nec","Russian Federation",0
+"718","nmm","Mineral products nec","Turkiye",0
+"719","nmm","Mineral products nec","United States",0
+"720","nmm","Mineral products nec","South Africa",0
+"721","i_s","Ferrous metals","Belgium",0
+"722","i_s","Ferrous metals","Brazil",0
+"723","i_s","Ferrous metals","China",0
+"724","i_s","Ferrous metals","Germany",0
+"725","i_s","Ferrous metals","Denmark",0
+"726","i_s","Ferrous metals","Spain",0
+"727","i_s","Ferrous metals","Finland",0
+"728","i_s","Ferrous metals","France",0
+"729","i_s","Ferrous metals","United Kingdom",0
+"730","i_s","Ferrous metals","Indonesia",0
+"731","i_s","Ferrous metals","India",0
+"732","i_s","Ferrous metals","Ireland",0
+"733","i_s","Ferrous metals","Italy",0
+"734","i_s","Ferrous metals","Japan",0
+"735","i_s","Ferrous metals","Luxembourg",0
+"736","i_s","Ferrous metals","Mexico",0
+"737","i_s","Ferrous metals","Russian Federation",0
+"738","i_s","Ferrous metals","Turkiye",0
+"739","i_s","Ferrous metals","United States",0
+"740","i_s","Ferrous metals","South Africa",0
+"741","nfm","Metals nec","Belgium",0
+"742","nfm","Metals nec","Brazil",0
+"743","nfm","Metals nec","China",0
+"744","nfm","Metals nec","Germany",0
+"745","nfm","Metals nec","Denmark",0
+"746","nfm","Metals nec","Spain",0
+"747","nfm","Metals nec","Finland",0
+"748","nfm","Metals nec","France",0
+"749","nfm","Metals nec","United Kingdom",0
+"750","nfm","Metals nec","Indonesia",0
+"751","nfm","Metals nec","India",0
+"752","nfm","Metals nec","Ireland",0
+"753","nfm","Metals nec","Italy",0
+"754","nfm","Metals nec","Japan",0
+"755","nfm","Metals nec","Luxembourg",0
+"756","nfm","Metals nec","Mexico",0
+"757","nfm","Metals nec","Russian Federation",0
+"758","nfm","Metals nec","Turkiye",0
+"759","nfm","Metals nec","United States",0
+"760","nfm","Metals nec","South Africa",0
+"761","fmp","Metal products","Belgium",0
+"762","fmp","Metal products","Brazil",0
+"763","fmp","Metal products","China",0
+"764","fmp","Metal products","Germany",0
+"765","fmp","Metal products","Denmark",0
+"766","fmp","Metal products","Spain",0
+"767","fmp","Metal products","Finland",0
+"768","fmp","Metal products","France",0
+"769","fmp","Metal products","United Kingdom",0
+"770","fmp","Metal products","Indonesia",0
+"771","fmp","Metal products","India",0
+"772","fmp","Metal products","Ireland",0
+"773","fmp","Metal products","Italy",0
+"774","fmp","Metal products","Japan",0
+"775","fmp","Metal products","Luxembourg",0
+"776","fmp","Metal products","Mexico",0
+"777","fmp","Metal products","Russian Federation",0
+"778","fmp","Metal products","Turkiye",0
+"779","fmp","Metal products","United States",0
+"780","fmp","Metal products","South Africa",0
+"781","ele","Computer, electronic and optical products","Belgium",0
+"782","ele","Computer, electronic and optical products","Brazil",0
+"783","ele","Computer, electronic and optical products","China",0
+"784","ele","Computer, electronic and optical products","Germany",0
+"785","ele","Computer, electronic and optical products","Denmark",0
+"786","ele","Computer, electronic and optical products","Spain",0
+"787","ele","Computer, electronic and optical products","Finland",0
+"788","ele","Computer, electronic and optical products","France",0
+"789","ele","Computer, electronic and optical products","United Kingdom",0
+"790","ele","Computer, electronic and optical products","Indonesia",0
+"791","ele","Computer, electronic and optical products","India",0
+"792","ele","Computer, electronic and optical products","Ireland",0
+"793","ele","Computer, electronic and optical products","Italy",0
+"794","ele","Computer, electronic and optical products","Japan",0
+"795","ele","Computer, electronic and optical products","Luxembourg",0
+"796","ele","Computer, electronic and optical products","Mexico",0
+"797","ele","Computer, electronic and optical products","Russian Federation",0
+"798","ele","Computer, electronic and optical products","Turkiye",0
+"799","ele","Computer, electronic and optical products","United States",0
+"800","ele","Computer, electronic and optical products","South Africa",0
+"801","eeq","Electrical equipment","Belgium",0
+"802","eeq","Electrical equipment","Brazil",0
+"803","eeq","Electrical equipment","China",0
+"804","eeq","Electrical equipment","Germany",0
+"805","eeq","Electrical equipment","Denmark",0
+"806","eeq","Electrical equipment","Spain",0
+"807","eeq","Electrical equipment","Finland",0
+"808","eeq","Electrical equipment","France",0
+"809","eeq","Electrical equipment","United Kingdom",0
+"810","eeq","Electrical equipment","Indonesia",0
+"811","eeq","Electrical equipment","India",0
+"812","eeq","Electrical equipment","Ireland",0
+"813","eeq","Electrical equipment","Italy",0
+"814","eeq","Electrical equipment","Japan",0
+"815","eeq","Electrical equipment","Luxembourg",0
+"816","eeq","Electrical equipment","Mexico",0
+"817","eeq","Electrical equipment","Russian Federation",0
+"818","eeq","Electrical equipment","Turkiye",0
+"819","eeq","Electrical equipment","United States",0
+"820","eeq","Electrical equipment","South Africa",0
+"821","ome","Machinery and equipment nec","Belgium",0
+"822","ome","Machinery and equipment nec","Brazil",0
+"823","ome","Machinery and equipment nec","China",0
+"824","ome","Machinery and equipment nec","Germany",0
+"825","ome","Machinery and equipment nec","Denmark",0
+"826","ome","Machinery and equipment nec","Spain",0
+"827","ome","Machinery and equipment nec","Finland",0
+"828","ome","Machinery and equipment nec","France",0
+"829","ome","Machinery and equipment nec","United Kingdom",0
+"830","ome","Machinery and equipment nec","Indonesia",0
+"831","ome","Machinery and equipment nec","India",0
+"832","ome","Machinery and equipment nec","Ireland",0
+"833","ome","Machinery and equipment nec","Italy",0
+"834","ome","Machinery and equipment nec","Japan",0
+"835","ome","Machinery and equipment nec","Luxembourg",0
+"836","ome","Machinery and equipment nec","Mexico",0
+"837","ome","Machinery and equipment nec","Russian Federation",0
+"838","ome","Machinery and equipment nec","Turkiye",0
+"839","ome","Machinery and equipment nec","United States",0
+"840","ome","Machinery and equipment nec","South Africa",0
+"841","mvh","Motor vehicles and parts","Belgium",0
+"842","mvh","Motor vehicles and parts","Brazil",0
+"843","mvh","Motor vehicles and parts","China",0
+"844","mvh","Motor vehicles and parts","Germany",0
+"845","mvh","Motor vehicles and parts","Denmark",0
+"846","mvh","Motor vehicles and parts","Spain",0
+"847","mvh","Motor vehicles and parts","Finland",0
+"848","mvh","Motor vehicles and parts","France",0
+"849","mvh","Motor vehicles and parts","United Kingdom",0
+"850","mvh","Motor vehicles and parts","Indonesia",0
+"851","mvh","Motor vehicles and parts","India",0
+"852","mvh","Motor vehicles and parts","Ireland",0
+"853","mvh","Motor vehicles and parts","Italy",0
+"854","mvh","Motor vehicles and parts","Japan",0
+"855","mvh","Motor vehicles and parts","Luxembourg",0
+"856","mvh","Motor vehicles and parts","Mexico",0
+"857","mvh","Motor vehicles and parts","Russian Federation",0
+"858","mvh","Motor vehicles and parts","Turkiye",0
+"859","mvh","Motor vehicles and parts","United States",0
+"860","mvh","Motor vehicles and parts","South Africa",0
+"861","otn","Transport equipment nec","Belgium",0
+"862","otn","Transport equipment nec","Brazil",0
+"863","otn","Transport equipment nec","China",0
+"864","otn","Transport equipment nec","Germany",0
+"865","otn","Transport equipment nec","Denmark",0
+"866","otn","Transport equipment nec","Spain",0
+"867","otn","Transport equipment nec","Finland",0
+"868","otn","Transport equipment nec","France",0
+"869","otn","Transport equipment nec","United Kingdom",0
+"870","otn","Transport equipment nec","Indonesia",0
+"871","otn","Transport equipment nec","India",0
+"872","otn","Transport equipment nec","Ireland",0
+"873","otn","Transport equipment nec","Italy",0
+"874","otn","Transport equipment nec","Japan",0
+"875","otn","Transport equipment nec","Luxembourg",0
+"876","otn","Transport equipment nec","Mexico",0
+"877","otn","Transport equipment nec","Russian Federation",0
+"878","otn","Transport equipment nec","Turkiye",0
+"879","otn","Transport equipment nec","United States",0
+"880","otn","Transport equipment nec","South Africa",0
+"881","omf","Manufactures nec","Belgium",0
+"882","omf","Manufactures nec","Brazil",0
+"883","omf","Manufactures nec","China",0
+"884","omf","Manufactures nec","Germany",0
+"885","omf","Manufactures nec","Denmark",0
+"886","omf","Manufactures nec","Spain",0
+"887","omf","Manufactures nec","Finland",0
+"888","omf","Manufactures nec","France",0
+"889","omf","Manufactures nec","United Kingdom",0
+"890","omf","Manufactures nec","Indonesia",0
+"891","omf","Manufactures nec","India",0
+"892","omf","Manufactures nec","Ireland",0
+"893","omf","Manufactures nec","Italy",0
+"894","omf","Manufactures nec","Japan",0
+"895","omf","Manufactures nec","Luxembourg",0
+"896","omf","Manufactures nec","Mexico",0
+"897","omf","Manufactures nec","Russian Federation",0
+"898","omf","Manufactures nec","Turkiye",0
+"899","omf","Manufactures nec","United States",0
+"900","omf","Manufactures nec","South Africa",0
+"901","ely","Electricity","Belgium",0
+"902","ely","Electricity","Brazil",0.561286888515511
+"903","ely","Electricity","China",1.42207544100276
+"904","ely","Electricity","Germany",0
+"905","ely","Electricity","Denmark",0
+"906","ely","Electricity","Spain",0
+"907","ely","Electricity","Finland",0
+"908","ely","Electricity","France",0
+"909","ely","Electricity","United Kingdom",0
+"910","ely","Electricity","Indonesia",4.37641946670742
+"911","ely","Electricity","India",6.04229537588982
+"912","ely","Electricity","Ireland",8.5472481220373
+"913","ely","Electricity","Italy",0
+"914","ely","Electricity","Japan",0
+"915","ely","Electricity","Luxembourg",9.05354116253976
+"916","ely","Electricity","Mexico",0
+"917","ely","Electricity","Russian Federation",6.95677305701143
+"918","ely","Electricity","Turkiye",0
+"919","ely","Electricity","United States",0.992907844172535
+"920","ely","Electricity","South Africa",0
+"921","gdt","Gas manufacture, distribution","Belgium",0
+"922","gdt","Gas manufacture, distribution","Brazil",0
+"923","gdt","Gas manufacture, distribution","China",36.858970449041
+"924","gdt","Gas manufacture, distribution","Germany",0
+"925","gdt","Gas manufacture, distribution","Denmark",0
+"926","gdt","Gas manufacture, distribution","Spain",0
+"927","gdt","Gas manufacture, distribution","Finland",0
+"928","gdt","Gas manufacture, distribution","France",0
+"929","gdt","Gas manufacture, distribution","United Kingdom",39.5140573415505
+"930","gdt","Gas manufacture, distribution","Indonesia",0
+"931","gdt","Gas manufacture, distribution","India",16.5829558633292
+"932","gdt","Gas manufacture, distribution","Ireland",0
+"933","gdt","Gas manufacture, distribution","Italy",0
+"934","gdt","Gas manufacture, distribution","Japan",4.24367535971861
+"935","gdt","Gas manufacture, distribution","Luxembourg",3.13025717464951
+"936","gdt","Gas manufacture, distribution","Mexico",0.00106595447103075
+"937","gdt","Gas manufacture, distribution","Russian Federation",17.7033273054517
+"938","gdt","Gas manufacture, distribution","Turkiye",33.2715235645292
+"939","gdt","Gas manufacture, distribution","United States",6.70719265715806
+"940","gdt","Gas manufacture, distribution","South Africa",0
+"941","wtr","Water","Belgium",0
+"942","wtr","Water","Brazil",0
+"943","wtr","Water","China",0
+"944","wtr","Water","Germany",0
+"945","wtr","Water","Denmark",0
+"946","wtr","Water","Spain",0
+"947","wtr","Water","Finland",0
+"948","wtr","Water","France",0
+"949","wtr","Water","United Kingdom",0
+"950","wtr","Water","Indonesia",0
+"951","wtr","Water","India",0
+"952","wtr","Water","Ireland",0
+"953","wtr","Water","Italy",0
+"954","wtr","Water","Japan",0
+"955","wtr","Water","Luxembourg",0
+"956","wtr","Water","Mexico",0
+"957","wtr","Water","Russian Federation",0
+"958","wtr","Water","Turkiye",0
+"959","wtr","Water","United States",0
+"960","wtr","Water","South Africa",0
+"961","cns","Construction","Belgium",0
+"962","cns","Construction","Brazil",0
+"963","cns","Construction","China",0
+"964","cns","Construction","Germany",0
+"965","cns","Construction","Denmark",0
+"966","cns","Construction","Spain",0
+"967","cns","Construction","Finland",0
+"968","cns","Construction","France",0
+"969","cns","Construction","United Kingdom",0
+"970","cns","Construction","Indonesia",0
+"971","cns","Construction","India",0
+"972","cns","Construction","Ireland",0
+"973","cns","Construction","Italy",0
+"974","cns","Construction","Japan",0
+"975","cns","Construction","Luxembourg",0
+"976","cns","Construction","Mexico",0
+"977","cns","Construction","Russian Federation",0
+"978","cns","Construction","Turkiye",0
+"979","cns","Construction","United States",0
+"980","cns","Construction","South Africa",0
+"981","trd","Trade","Belgium",0
+"982","trd","Trade","Brazil",0
+"983","trd","Trade","China",0
+"984","trd","Trade","Germany",0
+"985","trd","Trade","Denmark",0
+"986","trd","Trade","Spain",0
+"987","trd","Trade","Finland",0
+"988","trd","Trade","France",0
+"989","trd","Trade","United Kingdom",0
+"990","trd","Trade","Indonesia",0
+"991","trd","Trade","India",0
+"992","trd","Trade","Ireland",0
+"993","trd","Trade","Italy",0
+"994","trd","Trade","Japan",0
+"995","trd","Trade","Luxembourg",0
+"996","trd","Trade","Mexico",0
+"997","trd","Trade","Russian Federation",0
+"998","trd","Trade","Turkiye",0
+"999","trd","Trade","United States",0
+"1000","trd","Trade","South Africa",0
+"1001","afs","Accommodation, Food and service activities","Belgium",0
+"1002","afs","Accommodation, Food and service activities","Brazil",0
+"1003","afs","Accommodation, Food and service activities","China",0
+"1004","afs","Accommodation, Food and service activities","Germany",0
+"1005","afs","Accommodation, Food and service activities","Denmark",0
+"1006","afs","Accommodation, Food and service activities","Spain",0
+"1007","afs","Accommodation, Food and service activities","Finland",0
+"1008","afs","Accommodation, Food and service activities","France",0
+"1009","afs","Accommodation, Food and service activities","United Kingdom",0
+"1010","afs","Accommodation, Food and service activities","Indonesia",0
+"1011","afs","Accommodation, Food and service activities","India",0
+"1012","afs","Accommodation, Food and service activities","Ireland",0
+"1013","afs","Accommodation, Food and service activities","Italy",0
+"1014","afs","Accommodation, Food and service activities","Japan",0
+"1015","afs","Accommodation, Food and service activities","Luxembourg",0
+"1016","afs","Accommodation, Food and service activities","Mexico",0
+"1017","afs","Accommodation, Food and service activities","Russian Federation",0
+"1018","afs","Accommodation, Food and service activities","Turkiye",0
+"1019","afs","Accommodation, Food and service activities","United States",0
+"1020","afs","Accommodation, Food and service activities","South Africa",0
+"1021","otp","Transport nec","Belgium",0
+"1022","otp","Transport nec","Brazil",0
+"1023","otp","Transport nec","China",0
+"1024","otp","Transport nec","Germany",0
+"1025","otp","Transport nec","Denmark",0
+"1026","otp","Transport nec","Spain",0
+"1027","otp","Transport nec","Finland",0
+"1028","otp","Transport nec","France",0
+"1029","otp","Transport nec","United Kingdom",0
+"1030","otp","Transport nec","Indonesia",0
+"1031","otp","Transport nec","India",0
+"1032","otp","Transport nec","Ireland",0
+"1033","otp","Transport nec","Italy",0
+"1034","otp","Transport nec","Japan",0
+"1035","otp","Transport nec","Luxembourg",0
+"1036","otp","Transport nec","Mexico",0
+"1037","otp","Transport nec","Russian Federation",0
+"1038","otp","Transport nec","Turkiye",0
+"1039","otp","Transport nec","United States",0
+"1040","otp","Transport nec","South Africa",0
+"1041","wtp","Water transport","Belgium",0
+"1042","wtp","Water transport","Brazil",0
+"1043","wtp","Water transport","China",0
+"1044","wtp","Water transport","Germany",0
+"1045","wtp","Water transport","Denmark",0
+"1046","wtp","Water transport","Spain",0
+"1047","wtp","Water transport","Finland",0
+"1048","wtp","Water transport","France",0
+"1049","wtp","Water transport","United Kingdom",0
+"1050","wtp","Water transport","Indonesia",0
+"1051","wtp","Water transport","India",0
+"1052","wtp","Water transport","Ireland",0
+"1053","wtp","Water transport","Italy",0
+"1054","wtp","Water transport","Japan",0
+"1055","wtp","Water transport","Luxembourg",0
+"1056","wtp","Water transport","Mexico",0
+"1057","wtp","Water transport","Russian Federation",0
+"1058","wtp","Water transport","Turkiye",0
+"1059","wtp","Water transport","United States",0
+"1060","wtp","Water transport","South Africa",0
+"1061","atp","Air transport","Belgium",0
+"1062","atp","Air transport","Brazil",0
+"1063","atp","Air transport","China",0
+"1064","atp","Air transport","Germany",0
+"1065","atp","Air transport","Denmark",0
+"1066","atp","Air transport","Spain",0
+"1067","atp","Air transport","Finland",0
+"1068","atp","Air transport","France",0
+"1069","atp","Air transport","United Kingdom",0
+"1070","atp","Air transport","Indonesia",0
+"1071","atp","Air transport","India",0
+"1072","atp","Air transport","Ireland",0
+"1073","atp","Air transport","Italy",0
+"1074","atp","Air transport","Japan",0
+"1075","atp","Air transport","Luxembourg",0
+"1076","atp","Air transport","Mexico",0
+"1077","atp","Air transport","Russian Federation",0
+"1078","atp","Air transport","Turkiye",0
+"1079","atp","Air transport","United States",0
+"1080","atp","Air transport","South Africa",0
+"1081","whs","Warehousing and support activities","Belgium",0
+"1082","whs","Warehousing and support activities","Brazil",0
+"1083","whs","Warehousing and support activities","China",0
+"1084","whs","Warehousing and support activities","Germany",0
+"1085","whs","Warehousing and support activities","Denmark",0
+"1086","whs","Warehousing and support activities","Spain",0
+"1087","whs","Warehousing and support activities","Finland",0
+"1088","whs","Warehousing and support activities","France",0
+"1089","whs","Warehousing and support activities","United Kingdom",0
+"1090","whs","Warehousing and support activities","Indonesia",0
+"1091","whs","Warehousing and support activities","India",0
+"1092","whs","Warehousing and support activities","Ireland",0
+"1093","whs","Warehousing and support activities","Italy",0
+"1094","whs","Warehousing and support activities","Japan",0
+"1095","whs","Warehousing and support activities","Luxembourg",0
+"1096","whs","Warehousing and support activities","Mexico",0
+"1097","whs","Warehousing and support activities","Russian Federation",0
+"1098","whs","Warehousing and support activities","Turkiye",0
+"1099","whs","Warehousing and support activities","United States",0
+"1100","whs","Warehousing and support activities","South Africa",0
+"1101","cmn","Communication","Belgium",0
+"1102","cmn","Communication","Brazil",0
+"1103","cmn","Communication","China",0
+"1104","cmn","Communication","Germany",0
+"1105","cmn","Communication","Denmark",0
+"1106","cmn","Communication","Spain",0
+"1107","cmn","Communication","Finland",0
+"1108","cmn","Communication","France",0
+"1109","cmn","Communication","United Kingdom",0
+"1110","cmn","Communication","Indonesia",0
+"1111","cmn","Communication","India",0
+"1112","cmn","Communication","Ireland",0
+"1113","cmn","Communication","Italy",0
+"1114","cmn","Communication","Japan",0
+"1115","cmn","Communication","Luxembourg",0
+"1116","cmn","Communication","Mexico",0
+"1117","cmn","Communication","Russian Federation",0
+"1118","cmn","Communication","Turkiye",0
+"1119","cmn","Communication","United States",0
+"1120","cmn","Communication","South Africa",0
+"1121","ofi","Financial services nec","Belgium",0
+"1122","ofi","Financial services nec","Brazil",0
+"1123","ofi","Financial services nec","China",0
+"1124","ofi","Financial services nec","Germany",0
+"1125","ofi","Financial services nec","Denmark",0
+"1126","ofi","Financial services nec","Spain",0
+"1127","ofi","Financial services nec","Finland",0
+"1128","ofi","Financial services nec","France",0
+"1129","ofi","Financial services nec","United Kingdom",0
+"1130","ofi","Financial services nec","Indonesia",0
+"1131","ofi","Financial services nec","India",0
+"1132","ofi","Financial services nec","Ireland",0
+"1133","ofi","Financial services nec","Italy",0
+"1134","ofi","Financial services nec","Japan",0
+"1135","ofi","Financial services nec","Luxembourg",0
+"1136","ofi","Financial services nec","Mexico",0
+"1137","ofi","Financial services nec","Russian Federation",0
+"1138","ofi","Financial services nec","Turkiye",0
+"1139","ofi","Financial services nec","United States",0
+"1140","ofi","Financial services nec","South Africa",0
+"1141","ins","Insurance","Belgium",0
+"1142","ins","Insurance","Brazil",0
+"1143","ins","Insurance","China",0
+"1144","ins","Insurance","Germany",0
+"1145","ins","Insurance","Denmark",0
+"1146","ins","Insurance","Spain",0
+"1147","ins","Insurance","Finland",0
+"1148","ins","Insurance","France",0
+"1149","ins","Insurance","United Kingdom",0
+"1150","ins","Insurance","Indonesia",0
+"1151","ins","Insurance","India",0
+"1152","ins","Insurance","Ireland",0
+"1153","ins","Insurance","Italy",0
+"1154","ins","Insurance","Japan",0
+"1155","ins","Insurance","Luxembourg",0
+"1156","ins","Insurance","Mexico",0
+"1157","ins","Insurance","Russian Federation",0
+"1158","ins","Insurance","Turkiye",0
+"1159","ins","Insurance","United States",0
+"1160","ins","Insurance","South Africa",0
+"1161","rsa","Real estate activities","Belgium",0
+"1162","rsa","Real estate activities","Brazil",0
+"1163","rsa","Real estate activities","China",0
+"1164","rsa","Real estate activities","Germany",0
+"1165","rsa","Real estate activities","Denmark",0
+"1166","rsa","Real estate activities","Spain",0
+"1167","rsa","Real estate activities","Finland",0
+"1168","rsa","Real estate activities","France",0
+"1169","rsa","Real estate activities","United Kingdom",0
+"1170","rsa","Real estate activities","Indonesia",0
+"1171","rsa","Real estate activities","India",0
+"1172","rsa","Real estate activities","Ireland",0
+"1173","rsa","Real estate activities","Italy",0
+"1174","rsa","Real estate activities","Japan",0
+"1175","rsa","Real estate activities","Luxembourg",0
+"1176","rsa","Real estate activities","Mexico",0
+"1177","rsa","Real estate activities","Russian Federation",0
+"1178","rsa","Real estate activities","Turkiye",0
+"1179","rsa","Real estate activities","United States",0
+"1180","rsa","Real estate activities","South Africa",0
+"1181","obs","Business services nec","Belgium",0
+"1182","obs","Business services nec","Brazil",0
+"1183","obs","Business services nec","China",0
+"1184","obs","Business services nec","Germany",0
+"1185","obs","Business services nec","Denmark",0
+"1186","obs","Business services nec","Spain",0
+"1187","obs","Business services nec","Finland",0
+"1188","obs","Business services nec","France",0
+"1189","obs","Business services nec","United Kingdom",0
+"1190","obs","Business services nec","Indonesia",0
+"1191","obs","Business services nec","India",0
+"1192","obs","Business services nec","Ireland",0
+"1193","obs","Business services nec","Italy",0
+"1194","obs","Business services nec","Japan",0
+"1195","obs","Business services nec","Luxembourg",0
+"1196","obs","Business services nec","Mexico",0
+"1197","obs","Business services nec","Russian Federation",0
+"1198","obs","Business services nec","Turkiye",0
+"1199","obs","Business services nec","United States",0
+"1200","obs","Business services nec","South Africa",0
+"1201","ros","Recreational and other services","Belgium",0
+"1202","ros","Recreational and other services","Brazil",0
+"1203","ros","Recreational and other services","China",0
+"1204","ros","Recreational and other services","Germany",0
+"1205","ros","Recreational and other services","Denmark",0
+"1206","ros","Recreational and other services","Spain",0
+"1207","ros","Recreational and other services","Finland",0
+"1208","ros","Recreational and other services","France",0
+"1209","ros","Recreational and other services","United Kingdom",0
+"1210","ros","Recreational and other services","Indonesia",0
+"1211","ros","Recreational and other services","India",0
+"1212","ros","Recreational and other services","Ireland",0
+"1213","ros","Recreational and other services","Italy",0
+"1214","ros","Recreational and other services","Japan",0
+"1215","ros","Recreational and other services","Luxembourg",0
+"1216","ros","Recreational and other services","Mexico",0
+"1217","ros","Recreational and other services","Russian Federation",0
+"1218","ros","Recreational and other services","Turkiye",0
+"1219","ros","Recreational and other services","United States",0
+"1220","ros","Recreational and other services","South Africa",0
+"1221","osg","Public Administration and defense","Belgium",0
+"1222","osg","Public Administration and defense","Brazil",0
+"1223","osg","Public Administration and defense","China",0
+"1224","osg","Public Administration and defense","Germany",0
+"1225","osg","Public Administration and defense","Denmark",0
+"1226","osg","Public Administration and defense","Spain",0
+"1227","osg","Public Administration and defense","Finland",0
+"1228","osg","Public Administration and defense","France",0
+"1229","osg","Public Administration and defense","United Kingdom",0
+"1230","osg","Public Administration and defense","Indonesia",0
+"1231","osg","Public Administration and defense","India",0
+"1232","osg","Public Administration and defense","Ireland",0
+"1233","osg","Public Administration and defense","Italy",0
+"1234","osg","Public Administration and defense","Japan",0
+"1235","osg","Public Administration and defense","Luxembourg",0
+"1236","osg","Public Administration and defense","Mexico",0
+"1237","osg","Public Administration and defense","Russian Federation",0
+"1238","osg","Public Administration and defense","Turkiye",0
+"1239","osg","Public Administration and defense","United States",0
+"1240","osg","Public Administration and defense","South Africa",0
+"1241","edu","Education","Belgium",0
+"1242","edu","Education","Brazil",0
+"1243","edu","Education","China",0
+"1244","edu","Education","Germany",0
+"1245","edu","Education","Denmark",0
+"1246","edu","Education","Spain",0
+"1247","edu","Education","Finland",0
+"1248","edu","Education","France",0
+"1249","edu","Education","United Kingdom",0
+"1250","edu","Education","Indonesia",0
+"1251","edu","Education","India",0
+"1252","edu","Education","Ireland",0
+"1253","edu","Education","Italy",0
+"1254","edu","Education","Japan",0
+"1255","edu","Education","Luxembourg",0
+"1256","edu","Education","Mexico",0
+"1257","edu","Education","Russian Federation",0
+"1258","edu","Education","Turkiye",0
+"1259","edu","Education","United States",0
+"1260","edu","Education","South Africa",0
+"1261","hht","Human health and social work activities","Belgium",0
+"1262","hht","Human health and social work activities","Brazil",0
+"1263","hht","Human health and social work activities","China",0
+"1264","hht","Human health and social work activities","Germany",0
+"1265","hht","Human health and social work activities","Denmark",0
+"1266","hht","Human health and social work activities","Spain",0
+"1267","hht","Human health and social work activities","Finland",0
+"1268","hht","Human health and social work activities","France",0
+"1269","hht","Human health and social work activities","United Kingdom",0
+"1270","hht","Human health and social work activities","Indonesia",0
+"1271","hht","Human health and social work activities","India",0
+"1272","hht","Human health and social work activities","Ireland",0
+"1273","hht","Human health and social work activities","Italy",0
+"1274","hht","Human health and social work activities","Japan",0
+"1275","hht","Human health and social work activities","Luxembourg",0
+"1276","hht","Human health and social work activities","Mexico",0
+"1277","hht","Human health and social work activities","Russian Federation",0
+"1278","hht","Human health and social work activities","Turkiye",0
+"1279","hht","Human health and social work activities","United States",0
+"1280","hht","Human health and social work activities","South Africa",0
+"1281","dwe","Dwellings","Belgium",0
+"1282","dwe","Dwellings","Brazil",0
+"1283","dwe","Dwellings","China",0
+"1284","dwe","Dwellings","Germany",0
+"1285","dwe","Dwellings","Denmark",0
+"1286","dwe","Dwellings","Spain",0
+"1287","dwe","Dwellings","Finland",0
+"1288","dwe","Dwellings","France",0
+"1289","dwe","Dwellings","United Kingdom",0
+"1290","dwe","Dwellings","Indonesia",0
+"1291","dwe","Dwellings","India",0
+"1292","dwe","Dwellings","Ireland",0
+"1293","dwe","Dwellings","Italy",0
+"1294","dwe","Dwellings","Japan",0
+"1295","dwe","Dwellings","Luxembourg",0
+"1296","dwe","Dwellings","Mexico",0
+"1297","dwe","Dwellings","Russian Federation",0
+"1298","dwe","Dwellings","Turkiye",0
+"1299","dwe","Dwellings","United States",0
+"1300","dwe","Dwellings","South Africa",0
+"1301","afs","Accommodation, Food and service activities","Other HICs",0
+"1302","afs","Accommodation, Food and service activities","Other LICs",0
+"1303","afs","Accommodation, Food and service activities","Other LMICs",0
+"1304","afs","Accommodation, Food and service activities","Other UMICs",0
+"1305","atp","Air transport","Other HICs",0
+"1306","atp","Air transport","Other LICs",0
+"1307","atp","Air transport","Other LMICs",0
+"1308","atp","Air transport","Other UMICs",0
+"1309","b_t","Beverages and tobacco products","Other HICs",0
+"1310","b_t","Beverages and tobacco products","Other LICs",0
+"1311","b_t","Beverages and tobacco products","Other LMICs",0
+"1312","b_t","Beverages and tobacco products","Other UMICs",0
+"1313","bph","Basic pharmaceutical products","Other HICs",0
+"1314","bph","Basic pharmaceutical products","Other LICs",0
+"1315","bph","Basic pharmaceutical products","Other LMICs",0
+"1316","bph","Basic pharmaceutical products","Other UMICs",0
+"1317","c_b","Sugar cane, sugar beet","Other HICs",0
+"1318","c_b","Sugar cane, sugar beet","Other LICs",0
+"1319","c_b","Sugar cane, sugar beet","Other LMICs",0
+"1320","c_b","Sugar cane, sugar beet","Other UMICs",0
+"1321","chm","Chemical products","Other HICs",0
+"1322","chm","Chemical products","Other LICs",0
+"1323","chm","Chemical products","Other LMICs",0
+"1324","chm","Chemical products","Other UMICs",0
+"1325","cmn","Communication","Other HICs",0
+"1326","cmn","Communication","Other LICs",0
+"1327","cmn","Communication","Other LMICs",0
+"1328","cmn","Communication","Other UMICs",0
+"1329","cmt","Bovine meat products","Other HICs",0
+"1330","cmt","Bovine meat products","Other LICs",0
+"1331","cmt","Bovine meat products","Other LMICs",0
+"1332","cmt","Bovine meat products","Other UMICs",0
+"1333","cns","Construction","Other HICs",0
+"1334","cns","Construction","Other LICs",0
+"1335","cns","Construction","Other LMICs",0
+"1336","cns","Construction","Other UMICs",0
+"1337","coa","Coal","Other HICs",0.243831612002832
+"1338","coa","Coal","Other LICs",7.12897870802258
+"1339","coa","Coal","Other LMICs",0.0895700335366774
+"1340","coa","Coal","Other UMICs",0.658959395437163
+"1341","ctl","Bovine cattle, sheep and goats, horses","Other HICs",0
+"1342","ctl","Bovine cattle, sheep and goats, horses","Other LICs",0
+"1343","ctl","Bovine cattle, sheep and goats, horses","Other LMICs",0
+"1344","ctl","Bovine cattle, sheep and goats, horses","Other UMICs",0
+"1345","dwe","Dwellings","Other HICs",0
+"1346","dwe","Dwellings","Other LICs",0
+"1347","dwe","Dwellings","Other LMICs",0
+"1348","dwe","Dwellings","Other UMICs",0
+"1349","edu","Education","Other HICs",0
+"1350","edu","Education","Other LICs",0
+"1351","edu","Education","Other LMICs",0
+"1352","edu","Education","Other UMICs",0
+"1353","eeq","Electrical equipment","Other HICs",0
+"1354","eeq","Electrical equipment","Other LICs",0
+"1355","eeq","Electrical equipment","Other LMICs",0
+"1356","eeq","Electrical equipment","Other UMICs",0
+"1357","ele","Computer, electronic and optical products","Other HICs",0
+"1358","ele","Computer, electronic and optical products","Other LICs",0
+"1359","ele","Computer, electronic and optical products","Other LMICs",0
+"1360","ele","Computer, electronic and optical products","Other UMICs",0
+"1361","ely","Electricity","Other HICs",0.39300697857184
+"1362","ely","Electricity","Other LICs",13.4280085132729
+"1363","ely","Electricity","Other LMICs",11.836405334525
+"1364","ely","Electricity","Other UMICs",8.23087437719797
+"1365","fmp","Metal products","Other HICs",0
+"1366","fmp","Metal products","Other LICs",0
+"1367","fmp","Metal products","Other LMICs",0
+"1368","fmp","Metal products","Other UMICs",0
+"1369","frs","Forestry","Other HICs",0
+"1370","frs","Forestry","Other LICs",0
+"1371","frs","Forestry","Other LMICs",0
+"1372","frs","Forestry","Other UMICs",0
+"1373","fsh","Fishing","Other HICs",0
+"1374","fsh","Fishing","Other LICs",0
+"1375","fsh","Fishing","Other LMICs",0
+"1376","fsh","Fishing","Other UMICs",0
+"1377","gas","Gas","Other HICs",11.2974305061017
+"1378","gas","Gas","Other LICs",8.04063496479178
+"1379","gas","Gas","Other LMICs",5.47575054654539
+"1380","gas","Gas","Other UMICs",10.249032021089
+"1381","gdt","Gas manufacture, distribution","Other HICs",11.2974305061017
+"1382","gdt","Gas manufacture, distribution","Other LICs",8.04063496479178
+"1383","gdt","Gas manufacture, distribution","Other LMICs",5.47575054654539
+"1384","gdt","Gas manufacture, distribution","Other UMICs",10.249032021089
+"1385","gro","Cereal grains nec","Other HICs",0
+"1386","gro","Cereal grains nec","Other LICs",0
+"1387","gro","Cereal grains nec","Other LMICs",0
+"1388","gro","Cereal grains nec","Other UMICs",0
+"1389","hht","Human health and social work activities","Other HICs",0
+"1390","hht","Human health and social work activities","Other LICs",0
+"1391","hht","Human health and social work activities","Other LMICs",0
+"1392","hht","Human health and social work activities","Other UMICs",0
+"1393","i_s","Ferrous metals","Other HICs",0
+"1394","i_s","Ferrous metals","Other LICs",0
+"1395","i_s","Ferrous metals","Other LMICs",0
+"1396","i_s","Ferrous metals","Other UMICs",0
+"1397","ins","Insurance","Other HICs",0
+"1398","ins","Insurance","Other LICs",0
+"1399","ins","Insurance","Other LMICs",0
+"1400","ins","Insurance","Other UMICs",0
+"1401","lea","Leather products","Other HICs",0
+"1402","lea","Leather products","Other LICs",0
+"1403","lea","Leather products","Other LMICs",0
+"1404","lea","Leather products","Other UMICs",0
+"1405","lum","Wood products","Other HICs",0
+"1406","lum","Wood products","Other LICs",0
+"1407","lum","Wood products","Other LMICs",0
+"1408","lum","Wood products","Other UMICs",0
+"1409","mil","Dairy products","Other HICs",0
+"1410","mil","Dairy products","Other LICs",0
+"1411","mil","Dairy products","Other LMICs",0
+"1412","mil","Dairy products","Other UMICs",0
+"1413","mvh","Motor vehicles and parts","Other HICs",0
+"1414","mvh","Motor vehicles and parts","Other LICs",0
+"1415","mvh","Motor vehicles and parts","Other LMICs",0
+"1416","mvh","Motor vehicles and parts","Other UMICs",0
+"1417","nfm","Metals nec","Other HICs",0
+"1418","nfm","Metals nec","Other LICs",0
+"1419","nfm","Metals nec","Other LMICs",0
+"1420","nfm","Metals nec","Other UMICs",0
+"1421","nmm","Mineral products nec","Other HICs",0
+"1422","nmm","Mineral products nec","Other LICs",0
+"1423","nmm","Mineral products nec","Other LMICs",0
+"1424","nmm","Mineral products nec","Other UMICs",0
+"1425","oap","Animal products nec","Other HICs",0
+"1426","oap","Animal products nec","Other LICs",0
+"1427","oap","Animal products nec","Other LMICs",0
+"1428","oap","Animal products nec","Other UMICs",0
+"1429","obs","Business services nec","Other HICs",0
+"1430","obs","Business services nec","Other LICs",0
+"1431","obs","Business services nec","Other LMICs",0
+"1432","obs","Business services nec","Other UMICs",0
+"1433","ocr","Crops nec","Other HICs",0
+"1434","ocr","Crops nec","Other LICs",0
+"1435","ocr","Crops nec","Other LMICs",0
+"1436","ocr","Crops nec","Other UMICs",0
+"1437","ofd","Food products nec","Other HICs",0
+"1438","ofd","Food products nec","Other LICs",0
+"1439","ofd","Food products nec","Other LMICs",0
+"1440","ofd","Food products nec","Other UMICs",0
+"1441","ofi","Financial services nec","Other HICs",0
+"1442","ofi","Financial services nec","Other LICs",0
+"1443","ofi","Financial services nec","Other LMICs",0
+"1444","ofi","Financial services nec","Other UMICs",0
+"1445","oil","Oil","Other HICs",0
+"1446","oil","Oil","Other LICs",0
+"1447","oil","Oil","Other LMICs",0
+"1448","oil","Oil","Other UMICs",0
+"1449","ome","Machinery and equipment nec","Other HICs",0
+"1450","ome","Machinery and equipment nec","Other LICs",0
+"1451","ome","Machinery and equipment nec","Other LMICs",0
+"1452","ome","Machinery and equipment nec","Other UMICs",0
+"1453","omf","Manufactures nec","Other HICs",0
+"1454","omf","Manufactures nec","Other LICs",0
+"1455","omf","Manufactures nec","Other LMICs",0
+"1456","omf","Manufactures nec","Other UMICs",0
+"1457","omt","Meat products nec","Other HICs",0
+"1458","omt","Meat products nec","Other LICs",0
+"1459","omt","Meat products nec","Other LMICs",0
+"1460","omt","Meat products nec","Other UMICs",0
+"1461","osd","Oil seeds","Other HICs",0
+"1462","osd","Oil seeds","Other LICs",0
+"1463","osd","Oil seeds","Other LMICs",0
+"1464","osd","Oil seeds","Other UMICs",0
+"1465","osg","Public Administration and defense","Other HICs",0
+"1466","osg","Public Administration and defense","Other LICs",0
+"1467","osg","Public Administration and defense","Other LMICs",0
+"1468","osg","Public Administration and defense","Other UMICs",0
+"1469","otn","Transport equipment nec","Other HICs",0
+"1470","otn","Transport equipment nec","Other LICs",0
+"1471","otn","Transport equipment nec","Other LMICs",0
+"1472","otn","Transport equipment nec","Other UMICs",0
+"1473","otp","Transport nec","Other HICs",0
+"1474","otp","Transport nec","Other LICs",0
+"1475","otp","Transport nec","Other LMICs",0
+"1476","otp","Transport nec","Other UMICs",0
+"1477","oxt","Other Extraction","Other HICs",0
+"1478","oxt","Other Extraction","Other LICs",0
+"1479","oxt","Other Extraction","Other LMICs",0
+"1480","oxt","Other Extraction","Other UMICs",0
+"1481","p_c","Petroleum, coal products","Other HICs",0.0126783439954776
+"1482","p_c","Petroleum, coal products","Other LICs",0.788588566040125
+"1483","p_c","Petroleum, coal products","Other LMICs",5.24714934299955
+"1484","p_c","Petroleum, coal products","Other UMICs",4.29623814026188
+"1485","pcr","Processed rice","Other HICs",0
+"1486","pcr","Processed rice","Other LICs",0
+"1487","pcr","Processed rice","Other LMICs",0
+"1488","pcr","Processed rice","Other UMICs",0
+"1489","pdr","Paddy rice","Other HICs",0
+"1490","pdr","Paddy rice","Other LICs",0
+"1491","pdr","Paddy rice","Other LMICs",0
+"1492","pdr","Paddy rice","Other UMICs",0
+"1493","pfb","Plant-based fibers","Other HICs",0
+"1494","pfb","Plant-based fibers","Other LICs",0
+"1495","pfb","Plant-based fibers","Other LMICs",0
+"1496","pfb","Plant-based fibers","Other UMICs",0
+"1497","ppp","Paper products, publishing","Other HICs",0
+"1498","ppp","Paper products, publishing","Other LICs",0
+"1499","ppp","Paper products, publishing","Other LMICs",0
+"1500","ppp","Paper products, publishing","Other UMICs",0
+"1501","rmk","Raw milk","Other HICs",0
+"1502","rmk","Raw milk","Other LICs",0
+"1503","rmk","Raw milk","Other LMICs",0
+"1504","rmk","Raw milk","Other UMICs",0
+"1505","ros","Recreational and other services","Other HICs",0
+"1506","ros","Recreational and other services","Other LICs",0
+"1507","ros","Recreational and other services","Other LMICs",0
+"1508","ros","Recreational and other services","Other UMICs",0
+"1509","rpp","Rubber and plastic products","Other HICs",0
+"1510","rpp","Rubber and plastic products","Other LICs",0
+"1511","rpp","Rubber and plastic products","Other LMICs",0
+"1512","rpp","Rubber and plastic products","Other UMICs",0
+"1513","rsa","Real estate activities","Other HICs",0
+"1514","rsa","Real estate activities","Other LICs",0
+"1515","rsa","Real estate activities","Other LMICs",0
+"1516","rsa","Real estate activities","Other UMICs",0
+"1517","sgr","Sugar","Other HICs",0
+"1518","sgr","Sugar","Other LICs",0
+"1519","sgr","Sugar","Other LMICs",0
+"1520","sgr","Sugar","Other UMICs",0
+"1521","tex","Textiles","Other HICs",0
+"1522","tex","Textiles","Other LICs",0
+"1523","tex","Textiles","Other LMICs",0
+"1524","tex","Textiles","Other UMICs",0
+"1525","trd","Trade","Other HICs",0
+"1526","trd","Trade","Other LICs",0
+"1527","trd","Trade","Other LMICs",0
+"1528","trd","Trade","Other UMICs",0
+"1529","v_f","Vegetables, fruit, nuts","Other HICs",0
+"1530","v_f","Vegetables, fruit, nuts","Other LICs",0
+"1531","v_f","Vegetables, fruit, nuts","Other LMICs",0
+"1532","v_f","Vegetables, fruit, nuts","Other UMICs",0
+"1533","vol","Vegetable oils and fats","Other HICs",0
+"1534","vol","Vegetable oils and fats","Other LICs",0
+"1535","vol","Vegetable oils and fats","Other LMICs",0
+"1536","vol","Vegetable oils and fats","Other UMICs",0
+"1537","wap","Wearing apparel","Other HICs",0
+"1538","wap","Wearing apparel","Other LICs",0
+"1539","wap","Wearing apparel","Other LMICs",0
+"1540","wap","Wearing apparel","Other UMICs",0
+"1541","whs","Warehousing and support activities","Other HICs",0
+"1542","whs","Warehousing and support activities","Other LICs",0
+"1543","whs","Warehousing and support activities","Other LMICs",0
+"1544","whs","Warehousing and support activities","Other UMICs",0
+"1545","wht","Wheat","Other HICs",0
+"1546","wht","Wheat","Other LICs",0
+"1547","wht","Wheat","Other LMICs",0
+"1548","wht","Wheat","Other UMICs",0
+"1549","wol","Wool, silk-worm cocoons","Other HICs",0
+"1550","wol","Wool, silk-worm cocoons","Other LICs",0
+"1551","wol","Wool, silk-worm cocoons","Other LMICs",0
+"1552","wol","Wool, silk-worm cocoons","Other UMICs",0
+"1553","wtp","Water transport","Other HICs",0
+"1554","wtp","Water transport","Other LICs",0
+"1555","wtp","Water transport","Other LMICs",0
+"1556","wtp","Water transport","Other UMICs",0
+"1557","wtr","Water","Other HICs",0
+"1558","wtr","Water","Other LICs",0
+"1559","wtr","Water","Other LMICs",0
+"1560","wtr","Water","Other UMICs",0

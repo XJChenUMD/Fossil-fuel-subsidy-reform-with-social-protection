@@ -1,0 +1,289 @@
+"","Country","ReGroup","SubScenario","Amount","Share"
+"1","Belgium","Bottom 50%","Explicit",0,NA
+"2","Belgium","Bottom 50%","Implicit_cons",43.9678729429751,0.406381478537792
+"3","Belgium","Bottom 50%","Implicit_prod",27.7494565376071,0.350508433141814
+"4","Belgium","Bottom 50%","Null",NA,NA
+"5","Belgium","Next 40%","Explicit",0,NA
+"6","Belgium","Next 40%","Implicit_cons",47.1532122235225,0.435822586324657
+"7","Belgium","Next 40%","Implicit_prod",37.0599995940406,0.468111596071769
+"8","Belgium","Next 40%","Null",NA,NA
+"9","Belgium","Top 10%","Explicit",0,NA
+"10","Belgium","Top 10%","Implicit_cons",17.0725094362305,0.15779593513755
+"11","Belgium","Top 10%","Implicit_prod",14.3596990549261,0.181379970786417
+"12","Belgium","Top 10%","Null",NA,NA
+"13","Brazil","Bottom 50%","Explicit",33.0945190981713,0.267637502782358
+"14","Brazil","Bottom 50%","Implicit_cons",2086.82652545059,0.697849848009113
+"15","Brazil","Bottom 50%","Implicit_prod",3509.20030880916,0.397882036985992
+"16","Brazil","Bottom 50%","Null",NA,NA
+"17","Brazil","Next 40%","Explicit",60.8664562410771,0.492230943234153
+"18","Brazil","Next 40%","Implicit_cons",819.386109300884,0.27400862738839
+"19","Brazil","Next 40%","Implicit_prod",3483.50315783793,0.394968428792267
+"20","Brazil","Next 40%","Null",NA,NA
+"21","Brazil","Top 10%","Explicit",29.6932911746776,0.240131553983489
+"22","Brazil","Top 10%","Implicit_cons",84.1534610556276,0.0281415246024967
+"23","Brazil","Top 10%","Implicit_prod",1826.99680278907,0.207149534221741
+"24","Brazil","Top 10%","Null",NA,NA
+"25","China","Bottom 50%","Explicit",1375.70370784997,0.218852536065234
+"26","China","Bottom 50%","Implicit_cons",9615.89432277179,0.220395609612423
+"27","China","Bottom 50%","Implicit_prod",9392.84113625884,0.21460643704427
+"28","China","Bottom 50%","Null",NA,NA
+"29","China","Next 40%","Explicit",3029.2526834335,0.481905826355552
+"30","China","Next 40%","Implicit_cons",21689.4043652196,0.497119595613963
+"31","China","Next 40%","Implicit_prod",20513.6225632224,0.468692633602612
+"32","China","Next 40%","Null",NA,NA
+"33","China","Top 10%","Explicit",1881.02837537197,0.299241637579214
+"34","China","Top 10%","Implicit_cons",12324.8550146248,0.282484794773614
+"35","China","Top 10%","Implicit_prod",13861.287471567,0.316700929353118
+"36","China","Top 10%","Null",NA,NA
+"37","Denmark","Bottom 50%","Explicit",0,NA
+"38","Denmark","Bottom 50%","Implicit_cons",4.15564408616472,0.38223795998105
+"39","Denmark","Bottom 50%","Implicit_prod",6.66796792628063,0.37939015816672
+"40","Denmark","Bottom 50%","Null",NA,NA
+"41","Denmark","Next 40%","Explicit",0,NA
+"42","Denmark","Next 40%","Implicit_cons",4.76956964612696,0.438707101407637
+"43","Denmark","Next 40%","Implicit_prod",7.8174440198289,0.444792379917267
+"44","Denmark","Next 40%","Null",NA,NA
+"45","Denmark","Top 10%","Explicit",0,NA
+"46","Denmark","Top 10%","Implicit_cons",1.94666326906825,0.179054938611313
+"47","Denmark","Top 10%","Implicit_prod",3.09007804156286,0.175817461916013
+"48","Denmark","Top 10%","Null",NA,NA
+"49","Finland","Bottom 50%","Explicit",0,NA
+"50","Finland","Bottom 50%","Implicit_cons",2.50514165849141,0.355235050708125
+"51","Finland","Bottom 50%","Implicit_prod",6.25332982407685,0.358643151287584
+"52","Finland","Bottom 50%","Null",NA,NA
+"53","Finland","Next 40%","Explicit",0,NA
+"54","Finland","Next 40%","Implicit_cons",3.28531440403911,0.465865403241814
+"55","Finland","Next 40%","Implicit_prod",7.9039393404631,0.453309483490753
+"56","Finland","Next 40%","Null",NA,NA
+"57","Finland","Top 10%","Explicit",0,NA
+"58","Finland","Top 10%","Implicit_cons",1.26161172610031,0.178899546050061
+"59","Finland","Top 10%","Implicit_prod",3.27880845642237,0.188047365221663
+"60","Finland","Top 10%","Null",NA,NA
+"61","France","Bottom 50%","Explicit",0,NA
+"62","France","Bottom 50%","Implicit_cons",181.617942274836,0.380695375158965
+"63","France","Bottom 50%","Implicit_prod",240.4573639285,0.362671796936071
+"64","France","Bottom 50%","Null",NA,NA
+"65","France","Next 40%","Explicit",0,NA
+"66","France","Next 40%","Implicit_cons",219.715449065338,0.460552819079805
+"67","France","Next 40%","Implicit_prod",300.979071031521,0.453954159472566
+"68","France","Next 40%","Null",NA,NA
+"69","France","Top 10%","Explicit",0,NA
+"70","France","Top 10%","Implicit_cons",75.7355570256922,0.15875180576123
+"71","France","Top 10%","Implicit_prod",121.580005689446,0.183374043591363
+"72","France","Top 10%","Null",NA,NA
+"73","Germany","Bottom 50%","Explicit",0,NA
+"74","Germany","Bottom 50%","Implicit_cons",403.614706984789,0.350814863197504
+"75","Germany","Bottom 50%","Implicit_prod",694.758724500026,0.336668301660162
+"76","Germany","Bottom 50%","Null",NA,NA
+"77","Germany","Next 40%","Explicit",0,NA
+"78","Germany","Next 40%","Implicit_cons",540.814016867898,0.470066110227135
+"79","Germany","Next 40%","Implicit_prod",975.56236863854,0.472740987958749
+"80","Germany","Next 40%","Null",NA,NA
+"81","Germany","Top 10%","Explicit",0,NA
+"82","Germany","Top 10%","Implicit_cons",206.077566861566,0.179119026575361
+"83","Germany","Top 10%","Implicit_prod",393.308660758863,0.190590710381089
+"84","Germany","Top 10%","Null",NA,NA
+"85","India","Bottom 50%","Explicit",1346.48987752506,0.200030464089109
+"86","India","Bottom 50%","Implicit_cons",5115.38443364185,0.56576278762466
+"87","India","Bottom 50%","Implicit_prod",12504.5214263449,0.299551633660748
+"88","India","Bottom 50%","Null",NA,NA
+"89","India","Next 40%","Explicit",2948.91162695823,0.438081393068061
+"90","India","Next 40%","Implicit_cons",3587.46703765904,0.396774744511737
+"91","India","Next 40%","Implicit_prod",17392.5698779856,0.416647110502988
+"92","India","Next 40%","Null",NA,NA
+"93","India","Top 10%","Explicit",2436.02254963096,0.36188814284283
+"94","India","Top 10%","Implicit_cons",338.719564359928,0.0374624678636031
+"95","India","Top 10%","Implicit_prod",11847.0356547856,0.283801255836264
+"96","India","Top 10%","Null",NA,NA
+"97","Indonesia","Bottom 50%","Explicit",3082.12189648649,0.396543495778695
+"98","Indonesia","Bottom 50%","Implicit_cons",1419.17337229989,0.487118738718328
+"99","Indonesia","Bottom 50%","Implicit_prod",2487.75860381611,0.280188136619741
+"100","Indonesia","Bottom 50%","Null",NA,NA
+"101","Indonesia","Next 40%","Explicit",3423.76194063201,0.440498648090447
+"102","Indonesia","Next 40%","Implicit_cons",1250.34379021201,0.429169474244946
+"103","Indonesia","Next 40%","Implicit_prod",3974.48637028334,0.447633435334935
+"104","Indonesia","Next 40%","Null",NA,NA
+"105","Indonesia","Top 10%","Explicit",1266.58483100102,0.162957856130858
+"106","Indonesia","Top 10%","Implicit_cons",243.886202002293,0.0837117870367259
+"107","Indonesia","Top 10%","Implicit_prod",2416.64131219748,0.272178428045323
+"108","Indonesia","Top 10%","Null",NA,NA
+"109","Ireland","Bottom 50%","Explicit",58.2269611639895,0.463225225202844
+"110","Ireland","Bottom 50%","Implicit_cons",67.074603378386,0.363346891872157
+"111","Ireland","Bottom 50%","Implicit_prod",28.773328689227,0.349767742256018
+"112","Ireland","Bottom 50%","Null",NA,NA
+"113","Ireland","Next 40%","Explicit",52.2266853392343,0.415489965374097
+"114","Ireland","Next 40%","Implicit_cons",89.6798285243955,0.485800665479108
+"115","Ireland","Next 40%","Implicit_prod",39.2275222384937,0.476848613375512
+"116","Ireland","Next 40%","Null",NA,NA
+"117","Ireland","Top 10%","Explicit",15.2453828155966,0.121284809423058
+"118","Ireland","Top 10%","Implicit_cons",27.8476794095839,0.150852442648735
+"119","Ireland","Top 10%","Implicit_prod",14.2632495397428,0.17338364436847
+"120","Ireland","Top 10%","Null",NA,NA
+"121","Italy","Bottom 50%","Explicit",0,NA
+"122","Italy","Bottom 50%","Implicit_cons",208.407841398381,0.267206592645623
+"123","Italy","Bottom 50%","Implicit_prod",523.499217439021,0.271618795496115
+"124","Italy","Bottom 50%","Null",NA,NA
+"125","Italy","Next 40%","Explicit",0,NA
+"126","Italy","Next 40%","Implicit_cons",388.397114685475,0.497976798339909
+"127","Italy","Next 40%","Implicit_prod",932.011525429319,0.483576363617194
+"128","Italy","Next 40%","Null",NA,NA
+"129","Italy","Top 10%","Explicit",0,NA
+"130","Italy","Top 10%","Implicit_cons",183.145266457161,0.234816609014468
+"131","Italy","Top 10%","Implicit_prod",471.819862080567,0.244804840886691
+"132","Italy","Top 10%","Null",NA,NA
+"133","Japan","Bottom 50%","Explicit",94.1028917677212,0.449267784844702
+"134","Japan","Bottom 50%","Implicit_cons",1146.14723290292,0.52822234141962
+"135","Japan","Bottom 50%","Implicit_prod",2292.88399276815,0.418082616183785
+"136","Japan","Bottom 50%","Null",NA,NA
+"137","Japan","Next 40%","Explicit",89.6543858113427,0.428029644556475
+"138","Japan","Next 40%","Implicit_cons",843.514606397715,0.388748711877569
+"139","Japan","Next 40%","Implicit_prod",2416.51316879104,0.440625060333302
+"140","Japan","Next 40%","Null",NA,NA
+"141","Japan","Top 10%","Explicit",25.701078755677,0.122702570598823
+"142","Japan","Top 10%","Implicit_cons",180.157842734397,0.0830289467028111
+"143","Japan","Top 10%","Implicit_prod",774.887293263057,0.141292323482913
+"144","Japan","Top 10%","Null",NA,NA
+"145","Luxembourg","Bottom 50%","Explicit",3.79205505644199,0.405345838975532
+"146","Luxembourg","Bottom 50%","Implicit_cons",22.7133794953072,0.354933761242954
+"147","Luxembourg","Bottom 50%","Implicit_prod",0.0961033634915847,0.367012612224018
+"148","Luxembourg","Bottom 50%","Null",NA,NA
+"149","Luxembourg","Next 40%","Explicit",4.04154911996797,0.432015119614681
+"150","Luxembourg","Next 40%","Implicit_cons",28.9760830703127,0.452798763493528
+"151","Luxembourg","Next 40%","Implicit_prod",0.118264900509964,0.451646107832391
+"152","Luxembourg","Next 40%","Null",NA,NA
+"153","Luxembourg","Top 10%","Explicit",1.5215061807754,0.162639041409787
+"154","Luxembourg","Top 10%","Implicit_cons",12.3038285086541,0.192267475263518
+"155","Luxembourg","Top 10%","Implicit_prod",0.0474847630898599,0.181341279943591
+"156","Luxembourg","Top 10%","Null",NA,NA
+"157","Mexico","Bottom 50%","Explicit",125.023224322275,0.433745810499569
+"158","Mexico","Bottom 50%","Implicit_cons",1276.8541834505,0.54853314480495
+"159","Mexico","Bottom 50%","Implicit_prod",2222.10581307556,0.413242597544399
+"160","Mexico","Bottom 50%","Null",NA,NA
+"161","Mexico","Next 40%","Explicit",111.098142558778,0.385435219339231
+"162","Mexico","Next 40%","Implicit_cons",806.362321871919,0.346411098464927
+"163","Mexico","Next 40%","Implicit_prod",2117.21937624873,0.393736981139253
+"164","Mexico","Next 40%","Null",NA,NA
+"165","Mexico","Top 10%","Explicit",52.1193983226013,0.1808189701612
+"166","Mexico","Top 10%","Implicit_cons",244.544716662681,0.105055756730123
+"167","Mexico","Top 10%","Implicit_prod",1037.91768515169,0.193020421316349
+"168","Mexico","Top 10%","Null",NA,NA
+"169","Russian Federation","Bottom 50%","Explicit",4306.0075235628,0.30698754289815
+"170","Russian Federation","Bottom 50%","Implicit_cons",2107.90998665568,0.313942794542098
+"171","Russian Federation","Bottom 50%","Implicit_prod",6820.29783061254,0.298085656184706
+"172","Russian Federation","Bottom 50%","Null",NA,NA
+"173","Russian Federation","Next 40%","Explicit",6755.20016206038,0.481597463122931
+"174","Russian Federation","Next 40%","Implicit_cons",3213.83173130734,0.478653890015232
+"175","Russian Federation","Next 40%","Implicit_prod",11113.7604595633,0.485734298053525
+"176","Russian Federation","Next 40%","Null",NA,NA
+"177","Russian Federation","Top 10%","Explicit",2965.44461079075,0.211414993978919
+"178","Russian Federation","Top 10%","Implicit_cons",1392.57064499525,0.207403315442669
+"179","Russian Federation","Top 10%","Implicit_prod",4946.2705317733,0.21618004576177
+"180","Russian Federation","Top 10%","Null",NA,NA
+"181","South Africa","Bottom 50%","Explicit",0,NA
+"182","South Africa","Bottom 50%","Implicit_cons",656.743918049978,0.43117784202079
+"183","South Africa","Bottom 50%","Implicit_prod",1174.3780328702,0.230199838351163
+"184","South Africa","Bottom 50%","Null",NA,NA
+"185","South Africa","Next 40%","Explicit",0,NA
+"186","South Africa","Next 40%","Implicit_cons",615.739678007838,0.404256968832397
+"187","South Africa","Next 40%","Implicit_prod",2168.24944407152,0.425017036729117
+"188","South Africa","Next 40%","Null",NA,NA
+"189","South Africa","Top 10%","Explicit",0,NA
+"190","South Africa","Top 10%","Implicit_cons",250.655707604062,0.164565189146813
+"191","South Africa","Top 10%","Implicit_prod",1758.93141763371,0.34478312491972
+"192","South Africa","Top 10%","Null",NA,NA
+"193","Spain","Bottom 50%","Explicit",0,NA
+"194","Spain","Bottom 50%","Implicit_cons",78.3129030707548,0.370322303636868
+"195","Spain","Bottom 50%","Implicit_prod",118.616959843427,0.347561391037649
+"196","Spain","Bottom 50%","Null",NA,NA
+"197","Spain","Next 40%","Explicit",0,NA
+"198","Spain","Next 40%","Implicit_cons",96.2737843502616,0.455254858426285
+"199","Spain","Next 40%","Implicit_prod",159.160756660086,0.466359397984941
+"200","Spain","Next 40%","Null",NA,NA
+"201","Spain","Top 10%","Explicit",0,NA
+"202","Spain","Top 10%","Implicit_cons",36.8855957810973,0.174422837936847
+"203","Spain","Top 10%","Implicit_prod",63.5057600336656,0.18607921097741
+"204","Spain","Top 10%","Null",NA,NA
+"205","Turkiye","Bottom 50%","Explicit",322.623427505376,0.364664491667602
+"206","Turkiye","Bottom 50%","Implicit_cons",1291.24305568297,0.366018188505727
+"207","Turkiye","Bottom 50%","Implicit_prod",1248.46359134665,0.300868009379429
+"208","Turkiye","Bottom 50%","Null",NA,NA
+"209","Turkiye","Next 40%","Explicit",385.713553589429,0.435975893122795
+"210","Turkiye","Next 40%","Implicit_cons",1661.01605509376,0.470834739353374
+"211","Turkiye","Next 40%","Implicit_prod",1942.62963918362,0.468155512546593
+"212","Turkiye","Next 40%","Null",NA,NA
+"213","Turkiye","Top 10%","Explicit",176.376049313027,0.199359615209603
+"214","Turkiye","Top 10%","Implicit_cons",575.552064275761,0.1631470721409
+"215","Turkiye","Top 10%","Implicit_prod",958.445944211962,0.230976478073978
+"216","Turkiye","Top 10%","Null",NA,NA
+"217","United Kingdom","Bottom 50%","Explicit",1234.41658129435,0.58529365806909
+"218","United Kingdom","Bottom 50%","Implicit_cons",689.990468395043,0.479781931827129
+"219","United Kingdom","Bottom 50%","Implicit_prod",719.115339874364,0.401249010656229
+"220","United Kingdom","Bottom 50%","Null",NA,NA
+"221","United Kingdom","Next 40%","Explicit",687.279464428734,0.325870794306302
+"222","United Kingdom","Next 40%","Implicit_cons",558.239542589696,0.388169487020557
+"223","United Kingdom","Next 40%","Implicit_prod",764.731221035933,0.426701571839932
+"224","United Kingdom","Next 40%","Null",NA,NA
+"225","United Kingdom","Top 10%","Explicit",187.35906580289,0.0888355476246086
+"226","United Kingdom","Top 10%","Implicit_cons",189.903488055934,0.132048581152314
+"227","United Kingdom","Top 10%","Implicit_prod",308.34562094275,0.172049417503838
+"228","United Kingdom","Top 10%","Null",NA,NA
+"229","United States","Bottom 50%","Explicit",657.05713594658,0.265470899373285
+"230","United States","Bottom 50%","Implicit_cons",5764.71459215301,0.132081092113056
+"231","United States","Bottom 50%","Implicit_prod",32434.8125504602,0.184325419582678
+"232","United States","Bottom 50%","Null",NA,NA
+"233","United States","Next 40%","Explicit",1145.66195993555,0.462881984294556
+"234","United States","Next 40%","Implicit_cons",20328.614660585,0.465769047642088
+"235","United States","Next 40%","Implicit_prod",80474.5443926301,0.457332816023503
+"236","United States","Next 40%","Null",NA,NA
+"237","United States","Top 10%","Explicit",672.343660516928,0.271647116332159
+"238","United States","Top 10%","Implicit_cons",17551.9382108187,0.402149860244856
+"239","United States","Top 10%","Implicit_prod",63055.5893127988,0.358341764393819
+"240","United States","Top 10%","Null",NA,NA
+"241","Other HICs","Bottom 50%","Explicit",1004.20641504992,0.361348591843749
+"242","Other HICs","Bottom 50%","Implicit_cons",3962.98065467822,0.371633929349419
+"243","Other HICs","Bottom 50%","Implicit_prod",4320.77712723251,0.283902429403783
+"244","Other HICs","Bottom 50%","Null",NA,NA
+"245","Other HICs","Next 40%","Explicit",1221.35303011172,0.439485538989539
+"246","Other HICs","Next 40%","Implicit_cons",4520.97969397231,0.4239610521935
+"247","Other HICs","Next 40%","Implicit_prod",6870.7687281371,0.451453031792699
+"248","Other HICs","Next 40%","Null",NA,NA
+"249","Other HICs","Top 10%","Explicit",553.492245412398,0.199165869166712
+"250","Other HICs","Top 10%","Implicit_cons",2179.70715236531,0.20440501845708
+"251","Other HICs","Top 10%","Implicit_prod",4027.68680955148,0.264644538803518
+"252","Other HICs","Top 10%","Null",NA,NA
+"253","Other LICs","Bottom 50%","Explicit",47.8631216341822,0.146330122254822
+"254","Other LICs","Bottom 50%","Implicit_cons",179.990835127443,0.316166234269594
+"255","Other LICs","Bottom 50%","Implicit_prod",182.401609120144,0.21806708175687
+"256","Other LICs","Bottom 50%","Null",NA,NA
+"257","Other LICs","Next 40%","Explicit",113.205130178224,0.346097788302678
+"258","Other LICs","Next 40%","Implicit_cons",280.911111370863,0.49343961420995
+"259","Other LICs","Next 40%","Implicit_prod",362.566182443964,0.433459714147623
+"260","Other LICs","Next 40%","Null",NA,NA
+"261","Other LICs","Top 10%","Explicit",166.021761485283,0.5075720894425
+"262","Other LICs","Top 10%","Implicit_cons",108.389823520265,0.190394151520456
+"263","Other LICs","Top 10%","Implicit_prod",291.479450498358,0.348473204095507
+"264","Other LICs","Top 10%","Null",NA,NA
+"265","Other LMICs","Bottom 50%","Explicit",15051.4309553926,0.305251906863778
+"266","Other LMICs","Bottom 50%","Implicit_cons",10497.4859211331,0.403356062257611
+"267","Other LMICs","Bottom 50%","Implicit_prod",17851.2575743941,0.302963309470444
+"268","Other LMICs","Bottom 50%","Null",NA,NA
+"269","Other LMICs","Next 40%","Explicit",21683.1702449773,0.439747495354245
+"270","Other LMICs","Next 40%","Implicit_cons",11182.0852222049,0.429661149054509
+"271","Other LMICs","Next 40%","Implicit_prod",26082.9821266076,0.442668341600224
+"272","Other LMICs","Next 40%","Null",NA,NA
+"273","Other LMICs","Top 10%","Explicit",12573.6278948524,0.255000597781977
+"274","Other LMICs","Top 10%","Implicit_cons",4345.78685519558,0.16698278868788
+"275","Other LMICs","Top 10%","Implicit_prod",14987.9367354675,0.254368348929332
+"276","Other LMICs","Top 10%","Null",NA,NA
+"277","Other UMICs","Bottom 50%","Explicit",6062.45521157217,0.37923039726701
+"278","Other UMICs","Bottom 50%","Implicit_cons",7864.53151005583,0.495436869015409
+"279","Other UMICs","Bottom 50%","Implicit_prod",10380.4447602133,0.360493039479025
+"280","Other UMICs","Bottom 50%","Null",NA,NA
+"281","Other UMICs","Next 40%","Explicit",6856.37032326848,0.428892907371855
+"282","Other UMICs","Next 40%","Implicit_cons",6013.5465767148,0.378831553263719
+"283","Other UMICs","Next 40%","Implicit_prod",12269.0860348587,0.426081947209842
+"284","Other UMICs","Next 40%","Null",NA,NA
+"285","Other UMICs","Top 10%","Explicit",3067.38035810019,0.191876695361135
+"286","Other UMICs","Top 10%","Implicit_cons",1995.85460153567,0.125731577720872
+"287","Other UMICs","Top 10%","Implicit_prod",6145.60149157305,0.213425013311132
+"288","Other UMICs","Top 10%","Null",NA,NA

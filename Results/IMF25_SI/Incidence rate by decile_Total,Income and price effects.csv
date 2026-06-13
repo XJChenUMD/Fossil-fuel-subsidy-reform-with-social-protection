@@ -1,0 +1,2881 @@
+"","Group","Country","SubScenario","Vari","value"
+"1","D1","Belgium","Explicit","Total_Effect",0.000174599471099409
+"2","D1","Brazil","Explicit","Total_Effect",0.000269275091309337
+"3","D1","China","Explicit","Total_Effect",0.00159038943555371
+"4","D1","Germany","Explicit","Total_Effect",0.00019199557604731
+"5","D1","Denmark","Explicit","Total_Effect",0.000114007559122347
+"6","D1","Spain","Explicit","Total_Effect",0.000144396008348076
+"7","D1","Finland","Explicit","Total_Effect",0.000211152719350526
+"8","D1","France","Explicit","Total_Effect",0.00011936183086127
+"9","D1","United Kingdom","Explicit","Total_Effect",0.0046645908836353
+"10","D1","Indonesia","Explicit","Total_Effect",0.0358057858659914
+"11","D1","India","Explicit","Total_Effect",0.00502566646400005
+"12","D1","Ireland","Explicit","Total_Effect",0.00302346132747745
+"13","D1","Italy","Explicit","Total_Effect",0.000160788649616985
+"14","D1","Japan","Explicit","Total_Effect",0.000221900993718718
+"15","D1","Luxembourg","Explicit","Total_Effect",0.000594933975533731
+"16","D1","Mexico","Explicit","Total_Effect",0.00146552377625209
+"17","D1","Russian Federation","Explicit","Total_Effect",0.0301569761557078
+"18","D1","Turkiye","Explicit","Total_Effect",0.00178156300253882
+"19","D1","United States","Explicit","Total_Effect",0.000419364809877937
+"20","D1","South Africa","Explicit","Total_Effect",3.67843587521449e-05
+"21","D1","Belgium","Implicit_prod","Total_Effect",0.00101057452661715
+"22","D1","Brazil","Implicit_prod","Total_Effect",0.0417765100913807
+"23","D1","China","Implicit_prod","Total_Effect",0.0120995330049567
+"24","D1","Germany","Implicit_prod","Total_Effect",0.00242372231391114
+"25","D1","Denmark","Implicit_prod","Total_Effect",0.000674097330891195
+"26","D1","Spain","Implicit_prod","Total_Effect",0.00110346169007874
+"27","D1","Finland","Implicit_prod","Total_Effect",0.000961281840103765
+"28","D1","France","Implicit_prod","Total_Effect",0.00112554005862139
+"29","D1","United Kingdom","Implicit_prod","Total_Effect",0.00265073481199566
+"30","D1","Indonesia","Implicit_prod","Total_Effect",0.0272877379711048
+"31","D1","India","Implicit_prod","Total_Effect",0.0555374244956059
+"32","D1","Ireland","Implicit_prod","Total_Effect",0.00249111641273469
+"33","D1","Italy","Implicit_prod","Total_Effect",0.00317877503128191
+"34","D1","Japan","Implicit_prod","Total_Effect",0.00415183665233627
+"35","D1","Luxembourg","Implicit_prod","Total_Effect",0.000739980077132615
+"36","D1","Mexico","Implicit_prod","Total_Effect",0.0255685457084583
+"37","D1","Russian Federation","Implicit_prod","Total_Effect",0.0503375815387627
+"38","D1","Turkiye","Implicit_prod","Total_Effect",0.0135863433816143
+"39","D1","United States","Implicit_prod","Total_Effect",0.0204238497780882
+"40","D1","South Africa","Implicit_prod","Total_Effect",0.0567996541866332
+"41","D1","Belgium","Implicit_cons","Total_Effect",0.000583221811800402
+"42","D1","Brazil","Implicit_cons","Total_Effect",0.0309561937746008
+"43","D1","China","Implicit_cons","Total_Effect",0.00752081229600047
+"44","D1","Germany","Implicit_cons","Total_Effect",0.000987784661160384
+"45","D1","Denmark","Implicit_cons","Total_Effect",0.000232302649272347
+"46","D1","Spain","Implicit_cons","Total_Effect",0.000400969212910116
+"47","D1","Finland","Implicit_cons","Total_Effect",0.000217015951032908
+"48","D1","France","Implicit_cons","Total_Effect",0.000444013117446737
+"49","D1","United Kingdom","Implicit_cons","Total_Effect",0.00235676407468612
+"50","D1","Indonesia","Implicit_cons","Total_Effect",0.017245379893108
+"51","D1","India","Implicit_cons","Total_Effect",0.0239359471691056
+"52","D1","Ireland","Implicit_cons","Total_Effect",0.0025130401881296
+"53","D1","Italy","Implicit_cons","Total_Effect",0.00085367320172219
+"54","D1","Japan","Implicit_cons","Total_Effect",0.00164202664090121
+"55","D1","Luxembourg","Implicit_cons","Total_Effect",0.00216697142539183
+"56","D1","Mexico","Implicit_cons","Total_Effect",0.014998453716008
+"57","D1","Russian Federation","Implicit_cons","Total_Effect",0.0139518403078779
+"58","D1","Turkiye","Implicit_cons","Total_Effect",0.00998762906420834
+"59","D1","United States","Implicit_cons","Total_Effect",0.00384244194809036
+"60","D1","South Africa","Implicit_cons","Total_Effect",0.036664777452906
+"61","D1","Belgium","Null","Total_Effect",NA
+"62","D1","Brazil","Null","Total_Effect",NA
+"63","D1","China","Null","Total_Effect",NA
+"64","D1","Germany","Null","Total_Effect",NA
+"65","D1","Denmark","Null","Total_Effect",NA
+"66","D1","Spain","Null","Total_Effect",NA
+"67","D1","Finland","Null","Total_Effect",NA
+"68","D1","France","Null","Total_Effect",NA
+"69","D1","United Kingdom","Null","Total_Effect",NA
+"70","D1","Indonesia","Null","Total_Effect",NA
+"71","D1","India","Null","Total_Effect",NA
+"72","D1","Ireland","Null","Total_Effect",NA
+"73","D1","Italy","Null","Total_Effect",NA
+"74","D1","Japan","Null","Total_Effect",NA
+"75","D1","Luxembourg","Null","Total_Effect",NA
+"76","D1","Mexico","Null","Total_Effect",NA
+"77","D1","Russian Federation","Null","Total_Effect",NA
+"78","D1","Turkiye","Null","Total_Effect",NA
+"79","D1","United States","Null","Total_Effect",NA
+"80","D1","South Africa","Null","Total_Effect",NA
+"81","D2","Belgium","Explicit","Total_Effect",0.000171807425229279
+"82","D2","Brazil","Explicit","Total_Effect",0.000307826221788906
+"83","D2","China","Explicit","Total_Effect",0.00179853134972696
+"84","D2","Germany","Explicit","Total_Effect",0.000184844476001411
+"85","D2","Denmark","Explicit","Total_Effect",0.000113969248752587
+"86","D2","Spain","Explicit","Total_Effect",0.000143036320019335
+"87","D2","Finland","Explicit","Total_Effect",0.000206309201668241
+"88","D2","France","Explicit","Total_Effect",0.000117404877015899
+"89","D2","United Kingdom","Explicit","Total_Effect",0.00345399555366993
+"90","D2","Indonesia","Explicit","Total_Effect",0.031139250038079
+"91","D2","India","Explicit","Total_Effect",0.00571102438974618
+"92","D2","Ireland","Explicit","Total_Effect",0.00252830256507
+"93","D2","Italy","Explicit","Total_Effect",0.000159849834491092
+"94","D2","Japan","Explicit","Total_Effect",0.000194379521350701
+"95","D2","Luxembourg","Explicit","Total_Effect",0.000504391613275699
+"96","D2","Mexico","Explicit","Total_Effect",0.00126208781391073
+"97","D2","Russian Federation","Explicit","Total_Effect",0.0300920641762224
+"98","D2","Turkiye","Explicit","Total_Effect",0.00419931099178517
+"99","D2","United States","Explicit","Total_Effect",0.000426077560133519
+"100","D2","South Africa","Explicit","Total_Effect",8.30691613360269e-05
+"101","D2","Belgium","Implicit_prod","Total_Effect",0.00105747189018543
+"102","D2","Brazil","Implicit_prod","Total_Effect",0.0297288902485606
+"103","D2","China","Implicit_prod","Total_Effect",0.0134798473409876
+"104","D2","Germany","Implicit_prod","Total_Effect",0.00226627092097379
+"105","D2","Denmark","Implicit_prod","Total_Effect",0.000631538653859302
+"106","D2","Spain","Implicit_prod","Total_Effect",0.00117388336593773
+"107","D2","Finland","Implicit_prod","Total_Effect",0.000946114522184001
+"108","D2","France","Implicit_prod","Total_Effect",0.00118360042894147
+"109","D2","United Kingdom","Implicit_prod","Total_Effect",0.00249630149201843
+"110","D2","Indonesia","Implicit_prod","Total_Effect",0.0267669241443559
+"111","D2","India","Implicit_prod","Total_Effect",0.0543351854435513
+"112","D2","Ireland","Implicit_prod","Total_Effect",0.00248005256184052
+"113","D2","Italy","Implicit_prod","Total_Effect",0.00324645424988838
+"114","D2","Japan","Implicit_prod","Total_Effect",0.00402003034186453
+"115","D2","Luxembourg","Implicit_prod","Total_Effect",0.000712510703481254
+"116","D2","Mexico","Implicit_prod","Total_Effect",0.0223779572045169
+"117","D2","Russian Federation","Implicit_prod","Total_Effect",0.0506235551219372
+"118","D2","Turkiye","Implicit_prod","Total_Effect",0.0153038076924723
+"119","D2","United States","Implicit_prod","Total_Effect",0.0189849790608351
+"120","D2","South Africa","Implicit_prod","Total_Effect",0.0521646419279126
+"121","D2","Belgium","Implicit_cons","Total_Effect",0.000675583567151227
+"122","D2","Brazil","Implicit_cons","Total_Effect",0.0187534839267171
+"123","D2","China","Implicit_cons","Total_Effect",0.00863396365552573
+"124","D2","Germany","Implicit_cons","Total_Effect",0.000857042063218912
+"125","D2","Denmark","Implicit_cons","Total_Effect",0.00019888965021038
+"126","D2","Spain","Implicit_cons","Total_Effect",0.000493641510319237
+"127","D2","Finland","Implicit_cons","Total_Effect",0.000209917773995502
+"128","D2","France","Implicit_cons","Total_Effect",0.000571238274185282
+"129","D2","United Kingdom","Implicit_cons","Total_Effect",0.00190174515962245
+"130","D2","Indonesia","Implicit_cons","Total_Effect",0.0142365049644255
+"131","D2","India","Implicit_cons","Total_Effect",0.0202452910349491
+"132","D2","Ireland","Implicit_cons","Total_Effect",0.00215025946495509
+"133","D2","Italy","Implicit_cons","Total_Effect",0.000943001152465781
+"134","D2","Japan","Implicit_cons","Total_Effect",0.00142321948477425
+"135","D2","Luxembourg","Implicit_cons","Total_Effect",0.00184953719073319
+"136","D2","Mexico","Implicit_cons","Total_Effect",0.0123453282605525
+"137","D2","Russian Federation","Implicit_cons","Total_Effect",0.0142833753581095
+"138","D2","Turkiye","Implicit_cons","Total_Effect",0.0130014117318359
+"139","D2","United States","Implicit_cons","Total_Effect",0.00199532822177623
+"140","D2","South Africa","Implicit_cons","Total_Effect",0.0294835606496829
+"141","D2","Belgium","Null","Total_Effect",NA
+"142","D2","Brazil","Null","Total_Effect",NA
+"143","D2","China","Null","Total_Effect",NA
+"144","D2","Germany","Null","Total_Effect",NA
+"145","D2","Denmark","Null","Total_Effect",NA
+"146","D2","Spain","Null","Total_Effect",NA
+"147","D2","Finland","Null","Total_Effect",NA
+"148","D2","France","Null","Total_Effect",NA
+"149","D2","United Kingdom","Null","Total_Effect",NA
+"150","D2","Indonesia","Null","Total_Effect",NA
+"151","D2","India","Null","Total_Effect",NA
+"152","D2","Ireland","Null","Total_Effect",NA
+"153","D2","Italy","Null","Total_Effect",NA
+"154","D2","Japan","Null","Total_Effect",NA
+"155","D2","Luxembourg","Null","Total_Effect",NA
+"156","D2","Mexico","Null","Total_Effect",NA
+"157","D2","Russian Federation","Null","Total_Effect",NA
+"158","D2","Turkiye","Null","Total_Effect",NA
+"159","D2","United States","Null","Total_Effect",NA
+"160","D2","South Africa","Null","Total_Effect",NA
+"161","D3","Belgium","Explicit","Total_Effect",0.000175352548691536
+"162","D3","Brazil","Explicit","Total_Effect",0.000308577719118928
+"163","D3","China","Explicit","Total_Effect",0.00198942955853769
+"164","D3","Germany","Explicit","Total_Effect",0.000188730905732779
+"165","D3","Denmark","Explicit","Total_Effect",0.000113969266295694
+"166","D3","Spain","Explicit","Total_Effect",0.000143554976222585
+"167","D3","Finland","Explicit","Total_Effect",0.000207006080273355
+"168","D3","France","Explicit","Total_Effect",0.000117798112764539
+"169","D3","United Kingdom","Explicit","Total_Effect",0.0024252079502017
+"170","D3","Indonesia","Explicit","Total_Effect",0.0276238297329068
+"171","D3","India","Explicit","Total_Effect",0.00614013070375431
+"172","D3","Ireland","Explicit","Total_Effect",0.0023822909905403
+"173","D3","Italy","Explicit","Total_Effect",0.000159950146149688
+"174","D3","Japan","Explicit","Total_Effect",0.00019574207866917
+"175","D3","Luxembourg","Explicit","Total_Effect",0.000496786756629681
+"176","D3","Mexico","Explicit","Total_Effect",0.00104060851098518
+"177","D3","Russian Federation","Explicit","Total_Effect",0.029977991999166
+"178","D3","Turkiye","Explicit","Total_Effect",0.00259488415369565
+"179","D3","United States","Explicit","Total_Effect",0.000406281200660819
+"180","D3","South Africa","Explicit","Total_Effect",0.000217357063579679
+"181","D3","Belgium","Implicit_prod","Total_Effect",0.00102700774589208
+"182","D3","Brazil","Implicit_prod","Total_Effect",0.0214899321863226
+"183","D3","China","Implicit_prod","Total_Effect",0.0148032397769054
+"184","D3","Germany","Implicit_prod","Total_Effect",0.00232528606373084
+"185","D3","Denmark","Implicit_prod","Total_Effect",0.000625405723484844
+"186","D3","Spain","Implicit_prod","Total_Effect",0.00112332668254123
+"187","D3","Finland","Implicit_prod","Total_Effect",0.000935807000104805
+"188","D3","France","Implicit_prod","Total_Effect",0.00117059627158119
+"189","D3","United Kingdom","Implicit_prod","Total_Effect",0.00219912706637426
+"190","D3","Indonesia","Implicit_prod","Total_Effect",0.0267225502323332
+"191","D3","India","Implicit_prod","Total_Effect",0.0528330861809785
+"192","D3","Ireland","Implicit_prod","Total_Effect",0.00266158620784413
+"193","D3","Italy","Implicit_prod","Total_Effect",0.00348825300241728
+"194","D3","Japan","Implicit_prod","Total_Effect",0.00398907096804355
+"195","D3","Luxembourg","Implicit_prod","Total_Effect",0.000702461893429845
+"196","D3","Mexico","Implicit_prod","Total_Effect",0.0188346805386233
+"197","D3","Russian Federation","Implicit_prod","Total_Effect",0.0507195167342945
+"198","D3","Turkiye","Implicit_prod","Total_Effect",0.015172660028213
+"199","D3","United States","Implicit_prod","Total_Effect",0.0200640931136617
+"200","D3","South Africa","Implicit_prod","Total_Effect",0.0510980743576063
+"201","D3","Belgium","Implicit_cons","Total_Effect",0.000532686452828703
+"202","D3","Brazil","Implicit_cons","Total_Effect",0.010989353473997
+"203","D3","China","Implicit_cons","Total_Effect",0.00949559977125904
+"204","D3","Germany","Implicit_cons","Total_Effect",0.000887988154194315
+"205","D3","Denmark","Implicit_cons","Total_Effect",0.000189672360461894
+"206","D3","Spain","Implicit_cons","Total_Effect",0.000404182333025463
+"207","D3","Finland","Implicit_cons","Total_Effect",0.000201979867481115
+"208","D3","France","Implicit_cons","Total_Effect",0.000495725213892263
+"209","D3","United Kingdom","Implicit_cons","Total_Effect",0.001446491847869
+"210","D3","Indonesia","Implicit_cons","Total_Effect",0.0118720209519333
+"211","D3","India","Implicit_cons","Total_Effect",0.0175701362132387
+"212","D3","Ireland","Implicit_cons","Total_Effect",0.00249165381288388
+"213","D3","Italy","Implicit_cons","Total_Effect",0.00107390435458176
+"214","D3","Japan","Implicit_cons","Total_Effect",0.00133552004166736
+"215","D3","Luxembourg","Implicit_cons","Total_Effect",0.00221016880984046
+"216","D3","Mexico","Implicit_cons","Total_Effect",0.00945859923626742
+"217","D3","Russian Federation","Implicit_cons","Total_Effect",0.01439649135167
+"218","D3","Turkiye","Implicit_cons","Total_Effect",0.0102290773910882
+"219","D3","United States","Implicit_cons","Total_Effect",0.0033355584769725
+"220","D3","South Africa","Implicit_cons","Total_Effect",0.0247507206933178
+"221","D3","Belgium","Null","Total_Effect",NA
+"222","D3","Brazil","Null","Total_Effect",NA
+"223","D3","China","Null","Total_Effect",NA
+"224","D3","Germany","Null","Total_Effect",NA
+"225","D3","Denmark","Null","Total_Effect",NA
+"226","D3","Spain","Null","Total_Effect",NA
+"227","D3","Finland","Null","Total_Effect",NA
+"228","D3","France","Null","Total_Effect",NA
+"229","D3","United Kingdom","Null","Total_Effect",NA
+"230","D3","Indonesia","Null","Total_Effect",NA
+"231","D3","India","Null","Total_Effect",NA
+"232","D3","Ireland","Null","Total_Effect",NA
+"233","D3","Italy","Null","Total_Effect",NA
+"234","D3","Japan","Null","Total_Effect",NA
+"235","D3","Luxembourg","Null","Total_Effect",NA
+"236","D3","Mexico","Null","Total_Effect",NA
+"237","D3","Russian Federation","Null","Total_Effect",NA
+"238","D3","Turkiye","Null","Total_Effect",NA
+"239","D3","United States","Null","Total_Effect",NA
+"240","D3","South Africa","Null","Total_Effect",NA
+"241","D4","Belgium","Explicit","Total_Effect",0.000169495555749076
+"242","D4","Brazil","Explicit","Total_Effect",0.00032031457569579
+"243","D4","China","Explicit","Total_Effect",0.00219026867268416
+"244","D4","Germany","Explicit","Total_Effect",0.000190867502526226
+"245","D4","Denmark","Explicit","Total_Effect",0.000113969283858976
+"246","D4","Spain","Explicit","Total_Effect",0.000143572889428423
+"247","D4","Finland","Explicit","Total_Effect",0.000203218998920748
+"248","D4","France","Explicit","Total_Effect",0.000118138298151164
+"249","D4","United Kingdom","Explicit","Total_Effect",0.00230011437779408
+"250","D4","Indonesia","Explicit","Total_Effect",0.0252685184771284
+"251","D4","India","Explicit","Total_Effect",0.00661862202554358
+"252","D4","Ireland","Explicit","Total_Effect",0.00226879208214831
+"253","D4","Italy","Explicit","Total_Effect",0.000159903658892765
+"254","D4","Japan","Explicit","Total_Effect",0.000182520798825932
+"255","D4","Luxembourg","Explicit","Total_Effect",0.00045157670607171
+"256","D4","Mexico","Explicit","Total_Effect",0.0011602095024472
+"257","D4","Russian Federation","Explicit","Total_Effect",0.0299586226079236
+"258","D4","Turkiye","Explicit","Total_Effect",0.00284373183899579
+"259","D4","United States","Explicit","Total_Effect",0.000390380564880378
+"260","D4","South Africa","Explicit","Total_Effect",0.000192212823218202
+"261","D4","Belgium","Implicit_prod","Total_Effect",0.00102741916559265
+"262","D4","Brazil","Implicit_prod","Total_Effect",0.0197896377472766
+"263","D4","China","Implicit_prod","Total_Effect",0.0161843384658573
+"264","D4","Germany","Implicit_prod","Total_Effect",0.00238146983233363
+"265","D4","Denmark","Implicit_prod","Total_Effect",0.000629241350423694
+"266","D4","Spain","Implicit_prod","Total_Effect",0.00115106091979696
+"267","D4","Finland","Implicit_prod","Total_Effect",0.000928184232858142
+"268","D4","France","Implicit_prod","Total_Effect",0.00110369768777577
+"269","D4","United Kingdom","Implicit_prod","Total_Effect",0.00227248323659149
+"270","D4","Indonesia","Implicit_prod","Total_Effect",0.0261239701989998
+"271","D4","India","Implicit_prod","Total_Effect",0.0532608816169043
+"272","D4","Ireland","Implicit_prod","Total_Effect",0.00266369638538838
+"273","D4","Italy","Implicit_prod","Total_Effect",0.0033025328120997
+"274","D4","Japan","Implicit_prod","Total_Effect",0.00393193289376359
+"275","D4","Luxembourg","Implicit_prod","Total_Effect",0.000663718363605833
+"276","D4","Mexico","Implicit_prod","Total_Effect",0.0207019157974907
+"277","D4","Russian Federation","Implicit_prod","Total_Effect",0.0508127111764641
+"278","D4","Turkiye","Implicit_prod","Total_Effect",0.0150033056992715
+"279","D4","United States","Implicit_prod","Total_Effect",0.0196566882032358
+"280","D4","South Africa","Implicit_prod","Total_Effect",0.0495286479703827
+"281","D4","Belgium","Implicit_cons","Total_Effect",0.000574326538541663
+"282","D4","Brazil","Implicit_cons","Total_Effect",0.00913416513593441
+"283","D4","China","Implicit_cons","Total_Effect",0.0104728379983229
+"284","D4","Germany","Implicit_cons","Total_Effect",0.000867967113998055
+"285","D4","Denmark","Implicit_cons","Total_Effect",0.000193352815215179
+"286","D4","Spain","Implicit_cons","Total_Effect",0.000446953976500668
+"287","D4","Finland","Implicit_cons","Total_Effect",0.000191977702438951
+"288","D4","France","Implicit_cons","Total_Effect",0.000443868642280608
+"289","D4","United Kingdom","Implicit_cons","Total_Effect",0.00151195164573519
+"290","D4","Indonesia","Implicit_cons","Total_Effect",0.0104732653501427
+"291","D4","India","Implicit_cons","Total_Effect",0.0161784217347912
+"292","D4","Ireland","Implicit_cons","Total_Effect",0.00227374623484186
+"293","D4","Italy","Implicit_cons","Total_Effect",0.00101546256901451
+"294","D4","Japan","Implicit_cons","Total_Effect",0.00134179677739679
+"295","D4","Luxembourg","Implicit_cons","Total_Effect",0.00202961477588103
+"296","D4","Mexico","Implicit_cons","Total_Effect",0.0109816080264749
+"297","D4","Russian Federation","Implicit_cons","Total_Effect",0.0144607068240226
+"298","D4","Turkiye","Implicit_cons","Total_Effect",0.00916603927789949
+"299","D4","United States","Implicit_cons","Total_Effect",0.00298404907342335
+"300","D4","South Africa","Implicit_cons","Total_Effect",0.0240673724038439
+"301","D4","Belgium","Null","Total_Effect",NA
+"302","D4","Brazil","Null","Total_Effect",NA
+"303","D4","China","Null","Total_Effect",NA
+"304","D4","Germany","Null","Total_Effect",NA
+"305","D4","Denmark","Null","Total_Effect",NA
+"306","D4","Spain","Null","Total_Effect",NA
+"307","D4","Finland","Null","Total_Effect",NA
+"308","D4","France","Null","Total_Effect",NA
+"309","D4","United Kingdom","Null","Total_Effect",NA
+"310","D4","Indonesia","Null","Total_Effect",NA
+"311","D4","India","Null","Total_Effect",NA
+"312","D4","Ireland","Null","Total_Effect",NA
+"313","D4","Italy","Null","Total_Effect",NA
+"314","D4","Japan","Null","Total_Effect",NA
+"315","D4","Luxembourg","Null","Total_Effect",NA
+"316","D4","Mexico","Null","Total_Effect",NA
+"317","D4","Russian Federation","Null","Total_Effect",NA
+"318","D4","Turkiye","Null","Total_Effect",NA
+"319","D4","United States","Null","Total_Effect",NA
+"320","D4","South Africa","Null","Total_Effect",NA
+"321","D5","Belgium","Explicit","Total_Effect",0.000169092590326325
+"322","D5","Brazil","Explicit","Total_Effect",0.000316890283438647
+"323","D5","China","Explicit","Total_Effect",0.00234558142073765
+"324","D5","Germany","Explicit","Total_Effect",0.000191778695899015
+"325","D5","Denmark","Explicit","Total_Effect",0.000113969288197738
+"326","D5","Spain","Explicit","Total_Effect",0.000143801903274368
+"327","D5","Finland","Explicit","Total_Effect",0.000203964152149116
+"328","D5","France","Explicit","Total_Effect",0.000118374187077173
+"329","D5","United Kingdom","Explicit","Total_Effect",0.00173377521128247
+"330","D5","Indonesia","Explicit","Total_Effect",0.0233998496634433
+"331","D5","India","Explicit","Total_Effect",0.00698529017487839
+"332","D5","Ireland","Explicit","Total_Effect",0.00215594701495983
+"333","D5","Italy","Explicit","Total_Effect",0.000160410620751264
+"334","D5","Japan","Explicit","Total_Effect",0.000178370241251709
+"335","D5","Luxembourg","Explicit","Total_Effect",0.000476918698043603
+"336","D5","Mexico","Explicit","Total_Effect",0.000800876065462205
+"337","D5","Russian Federation","Explicit","Total_Effect",0.0297107871871387
+"338","D5","Turkiye","Explicit","Total_Effect",0.00229286791652058
+"339","D5","United States","Explicit","Total_Effect",0.000374351874044526
+"340","D5","South Africa","Explicit","Total_Effect",0.000326817162726379
+"341","D5","Belgium","Implicit_prod","Total_Effect",0.00103413558863137
+"342","D5","Brazil","Implicit_prod","Total_Effect",0.0147198255659605
+"343","D5","China","Implicit_prod","Total_Effect",0.0172398987681882
+"344","D5","Germany","Implicit_prod","Total_Effect",0.00237098839892824
+"345","D5","Denmark","Implicit_prod","Total_Effect",0.000621393046854974
+"346","D5","Spain","Implicit_prod","Total_Effect",0.00114249710076183
+"347","D5","Finland","Implicit_prod","Total_Effect",0.000927685028459673
+"348","D5","France","Implicit_prod","Total_Effect",0.00110392797630206
+"349","D5","United Kingdom","Implicit_prod","Total_Effect",0.00211216917299756
+"350","D5","Indonesia","Implicit_prod","Total_Effect",0.0262326130485837
+"351","D5","India","Implicit_prod","Total_Effect",0.0512428992396267
+"352","D5","Ireland","Implicit_prod","Total_Effect",0.00264599176984931
+"353","D5","Italy","Implicit_prod","Total_Effect",0.00328854804351959
+"354","D5","Japan","Implicit_prod","Total_Effect",0.00384714517940944
+"355","D5","Luxembourg","Implicit_prod","Total_Effect",0.000710661139197765
+"356","D5","Mexico","Implicit_prod","Total_Effect",0.0148403549403382
+"357","D5","Russian Federation","Implicit_prod","Total_Effect",0.0507513330105169
+"358","D5","Turkiye","Implicit_prod","Total_Effect",0.0148084050828809
+"359","D5","United States","Implicit_prod","Total_Effect",0.0198692684770156
+"360","D5","South Africa","Implicit_prod","Total_Effect",0.0513790610858592
+"361","D5","Belgium","Implicit_cons","Total_Effect",0.000564896938061747
+"362","D5","Brazil","Implicit_cons","Total_Effect",0.0046801485367805
+"363","D5","China","Implicit_cons","Total_Effect",0.0113281435122216
+"364","D5","Germany","Implicit_cons","Total_Effect",0.000854566928965069
+"365","D5","Denmark","Implicit_cons","Total_Effect",0.000186124489640701
+"366","D5","Spain","Implicit_cons","Total_Effect",0.000427030799487959
+"367","D5","Finland","Implicit_cons","Total_Effect",0.000193629949758307
+"368","D5","France","Implicit_cons","Total_Effect",0.00043062342299417
+"369","D5","United Kingdom","Implicit_cons","Total_Effect",0.00118114931578024
+"370","D5","Indonesia","Implicit_cons","Total_Effect",0.0091380337177305
+"371","D5","India","Implicit_cons","Total_Effect",0.0133279401779322
+"372","D5","Ireland","Implicit_cons","Total_Effect",0.00218137705005235
+"373","D5","Italy","Implicit_cons","Total_Effect",0.000921570761491507
+"374","D5","Japan","Implicit_cons","Total_Effect",0.00120588488156079
+"375","D5","Luxembourg","Implicit_cons","Total_Effect",0.00233934332978778
+"376","D5","Mexico","Implicit_cons","Total_Effect",0.00637626365539565
+"377","D5","Russian Federation","Implicit_cons","Total_Effect",0.0144666662728767
+"378","D5","Turkiye","Implicit_cons","Total_Effect",0.009243073058445
+"379","D5","United States","Implicit_cons","Total_Effect",0.00304209292635612
+"380","D5","South Africa","Implicit_cons","Total_Effect",0.0222968567667487
+"381","D5","Belgium","Null","Total_Effect",NA
+"382","D5","Brazil","Null","Total_Effect",NA
+"383","D5","China","Null","Total_Effect",NA
+"384","D5","Germany","Null","Total_Effect",NA
+"385","D5","Denmark","Null","Total_Effect",NA
+"386","D5","Spain","Null","Total_Effect",NA
+"387","D5","Finland","Null","Total_Effect",NA
+"388","D5","France","Null","Total_Effect",NA
+"389","D5","United Kingdom","Null","Total_Effect",NA
+"390","D5","Indonesia","Null","Total_Effect",NA
+"391","D5","India","Null","Total_Effect",NA
+"392","D5","Ireland","Null","Total_Effect",NA
+"393","D5","Italy","Null","Total_Effect",NA
+"394","D5","Japan","Null","Total_Effect",NA
+"395","D5","Luxembourg","Null","Total_Effect",NA
+"396","D5","Mexico","Null","Total_Effect",NA
+"397","D5","Russian Federation","Null","Total_Effect",NA
+"398","D5","Turkiye","Null","Total_Effect",NA
+"399","D5","United States","Null","Total_Effect",NA
+"400","D5","South Africa","Null","Total_Effect",NA
+"401","D6","Belgium","Explicit","Total_Effect",0.000171743362122266
+"402","D6","Brazil","Explicit","Total_Effect",0.000240637929143485
+"403","D6","China","Explicit","Total_Effect",0.00248684117252241
+"404","D6","Germany","Explicit","Total_Effect",0.000190327742949493
+"405","D6","Denmark","Explicit","Total_Effect",0.000113969074394919
+"406","D6","Spain","Explicit","Total_Effect",0.000143829698539724
+"407","D6","Finland","Explicit","Total_Effect",0.000204956943119062
+"408","D6","France","Explicit","Total_Effect",0.000118571781732046
+"409","D6","United Kingdom","Explicit","Total_Effect",0.00149879918545934
+"410","D6","Indonesia","Explicit","Total_Effect",0.0215885966482171
+"411","D6","India","Explicit","Total_Effect",0.00732966347463405
+"412","D6","Ireland","Explicit","Total_Effect",0.00206354682137967
+"413","D6","Italy","Explicit","Total_Effect",0.000160330917135777
+"414","D6","Japan","Explicit","Total_Effect",0.000174243854004051
+"415","D6","Luxembourg","Explicit","Total_Effect",0.0004702453093126
+"416","D6","Mexico","Explicit","Total_Effect",0.000883074546511175
+"417","D6","Russian Federation","Explicit","Total_Effect",0.029405998789974
+"418","D6","Turkiye","Explicit","Total_Effect",0.00261480274483004
+"419","D6","United States","Explicit","Total_Effect",0.000363019712273857
+"420","D6","South Africa","Explicit","Total_Effect",0.000337319032244462
+"421","D6","Belgium","Implicit_prod","Total_Effect",0.00105008025565111
+"422","D6","Brazil","Implicit_prod","Total_Effect",0.0120481350023418
+"423","D6","China","Implicit_prod","Total_Effect",0.0182376198717855
+"424","D6","Germany","Implicit_prod","Total_Effect",0.00234806379591708
+"425","D6","Denmark","Implicit_prod","Total_Effect",0.000626748741567547
+"426","D6","Spain","Implicit_prod","Total_Effect",0.00111949919899089
+"427","D6","Finland","Implicit_prod","Total_Effect",0.000926985893898677
+"428","D6","France","Implicit_prod","Total_Effect",0.00116155661934441
+"429","D6","United Kingdom","Implicit_prod","Total_Effect",0.0019467329342537
+"430","D6","Indonesia","Implicit_prod","Total_Effect",0.025574937281832
+"431","D6","India","Implicit_prod","Total_Effect",0.0498645056580563
+"432","D6","Ireland","Implicit_prod","Total_Effect",0.00263942623607158
+"433","D6","Italy","Implicit_prod","Total_Effect",0.00326542531504022
+"434","D6","Japan","Implicit_prod","Total_Effect",0.00359357171836305
+"435","D6","Luxembourg","Implicit_prod","Total_Effect",0.000710519634287968
+"436","D6","Mexico","Implicit_prod","Total_Effect",0.0161450424015794
+"437","D6","Russian Federation","Implicit_prod","Total_Effect",0.0504821801916282
+"438","D6","Turkiye","Implicit_prod","Total_Effect",0.0149019616925637
+"439","D6","United States","Implicit_prod","Total_Effect",0.0210796710586429
+"440","D6","South Africa","Implicit_prod","Total_Effect",0.0473458327746439
+"441","D6","Belgium","Implicit_cons","Total_Effect",0.000555491004550853
+"442","D6","Brazil","Implicit_cons","Total_Effect",0.00378053335154134
+"443","D6","China","Implicit_cons","Total_Effect",0.0120038449093801
+"444","D6","Germany","Implicit_cons","Total_Effect",0.00085886892231367
+"445","D6","Denmark","Implicit_cons","Total_Effect",0.000190824127010229
+"446","D6","Spain","Implicit_cons","Total_Effect",0.000404362259327833
+"447","D6","Finland","Implicit_cons","Total_Effect",0.000195578602314236
+"448","D6","France","Implicit_cons","Total_Effect",0.000484616772438799
+"449","D6","United Kingdom","Implicit_cons","Total_Effect",0.00110638766267378
+"450","D6","Indonesia","Implicit_cons","Total_Effect",0.00817096733033354
+"451","D6","India","Implicit_cons","Total_Effect",0.0113128188723333
+"452","D6","Ireland","Implicit_cons","Total_Effect",0.0024709846881688
+"453","D6","Italy","Implicit_cons","Total_Effect",0.000974318844954228
+"454","D6","Japan","Implicit_cons","Total_Effect",0.000951854542281842
+"455","D6","Luxembourg","Implicit_cons","Total_Effect",0.00213741776090689
+"456","D6","Mexico","Implicit_cons","Total_Effect",0.00742167219390179
+"457","D6","Russian Federation","Implicit_cons","Total_Effect",0.0142053836353878
+"458","D6","Turkiye","Implicit_cons","Total_Effect",0.00827570654789302
+"459","D6","United States","Implicit_cons","Total_Effect",0.00411117295779555
+"460","D6","South Africa","Implicit_cons","Total_Effect",0.0172487490931796
+"461","D6","Belgium","Null","Total_Effect",NA
+"462","D6","Brazil","Null","Total_Effect",NA
+"463","D6","China","Null","Total_Effect",NA
+"464","D6","Germany","Null","Total_Effect",NA
+"465","D6","Denmark","Null","Total_Effect",NA
+"466","D6","Spain","Null","Total_Effect",NA
+"467","D6","Finland","Null","Total_Effect",NA
+"468","D6","France","Null","Total_Effect",NA
+"469","D6","United Kingdom","Null","Total_Effect",NA
+"470","D6","Indonesia","Null","Total_Effect",NA
+"471","D6","India","Null","Total_Effect",NA
+"472","D6","Ireland","Null","Total_Effect",NA
+"473","D6","Italy","Null","Total_Effect",NA
+"474","D6","Japan","Null","Total_Effect",NA
+"475","D6","Luxembourg","Null","Total_Effect",NA
+"476","D6","Mexico","Null","Total_Effect",NA
+"477","D6","Russian Federation","Null","Total_Effect",NA
+"478","D6","Turkiye","Null","Total_Effect",NA
+"479","D6","United States","Null","Total_Effect",NA
+"480","D6","South Africa","Null","Total_Effect",NA
+"481","D7","Belgium","Explicit","Total_Effect",0.000172741176356254
+"482","D7","Brazil","Explicit","Total_Effect",0.000286241761758506
+"483","D7","China","Explicit","Total_Effect",0.00252608725556416
+"484","D7","Germany","Explicit","Total_Effect",0.000190284427937093
+"485","D7","Denmark","Explicit","Total_Effect",0.000113968972301673
+"486","D7","Spain","Explicit","Total_Effect",0.00014383201355078
+"487","D7","Finland","Explicit","Total_Effect",0.000205391369811842
+"488","D7","France","Explicit","Total_Effect",0.000118584793641366
+"489","D7","United Kingdom","Explicit","Total_Effect",0.00134145186175903
+"490","D7","Indonesia","Explicit","Total_Effect",0.0191992612630059
+"491","D7","India","Explicit","Total_Effect",0.00733225303500964
+"492","D7","Ireland","Explicit","Total_Effect",0.0019285577393927
+"493","D7","Italy","Explicit","Total_Effect",0.000160956661425886
+"494","D7","Japan","Explicit","Total_Effect",0.00016963558590821
+"495","D7","Luxembourg","Explicit","Total_Effect",0.000465389793887306
+"496","D7","Mexico","Explicit","Total_Effect",0.000670678890345416
+"497","D7","Russian Federation","Explicit","Total_Effect",0.0290572654658107
+"498","D7","Turkiye","Explicit","Total_Effect",0.00223660338078592
+"499","D7","United States","Explicit","Total_Effect",0.000366007842402586
+"500","D7","South Africa","Explicit","Total_Effect",0.0002880435135016
+"501","D7","Belgium","Implicit_prod","Total_Effect",0.00106297025495854
+"502","D7","Brazil","Implicit_prod","Total_Effect",0.0128632889090499
+"503","D7","China","Implicit_prod","Total_Effect",0.0185316405288366
+"504","D7","Germany","Implicit_prod","Total_Effect",0.00244789245475018
+"505","D7","Denmark","Implicit_prod","Total_Effect",0.000621577285323287
+"506","D7","Spain","Implicit_prod","Total_Effect",0.00114015215735318
+"507","D7","Finland","Implicit_prod","Total_Effect",0.000932302127967126
+"508","D7","France","Implicit_prod","Total_Effect",0.00115416445024946
+"509","D7","United Kingdom","Implicit_prod","Total_Effect",0.00203367945506254
+"510","D7","Indonesia","Implicit_prod","Total_Effect",0.0250112558042619
+"511","D7","India","Implicit_prod","Total_Effect",0.0474904173252164
+"512","D7","Ireland","Implicit_prod","Total_Effect",0.00262337062600408
+"513","D7","Italy","Implicit_prod","Total_Effect",0.00330673620668392
+"514","D7","Japan","Implicit_prod","Total_Effect",0.0035293477466015
+"515","D7","Luxembourg","Implicit_prod","Total_Effect",0.000754857586238816
+"516","D7","Mexico","Implicit_prod","Total_Effect",0.0126587018975591
+"517","D7","Russian Federation","Implicit_prod","Total_Effect",0.0503165508829709
+"518","D7","Turkiye","Implicit_prod","Total_Effect",0.0147238537739102
+"519","D7","United States","Implicit_prod","Total_Effect",0.0213696007689227
+"520","D7","South Africa","Implicit_prod","Total_Effect",0.0413201745172143
+"521","D7","Belgium","Implicit_cons","Total_Effect",0.000543564341190546
+"522","D7","Brazil","Implicit_cons","Total_Effect",0.00366076713028445
+"523","D7","China","Implicit_cons","Total_Effect",0.0121881565966764
+"524","D7","Germany","Implicit_cons","Total_Effect",0.00091600375155202
+"525","D7","Denmark","Implicit_cons","Total_Effect",0.000185693670458787
+"526","D7","Spain","Implicit_cons","Total_Effect",0.000405818326316374
+"527","D7","Finland","Implicit_cons","Total_Effect",0.00020091775483785
+"528","D7","France","Implicit_cons","Total_Effect",0.000459712587076091
+"529","D7","United Kingdom","Implicit_cons","Total_Effect",0.00113022154505759
+"530","D7","Indonesia","Implicit_cons","Total_Effect",0.00674814836090334
+"531","D7","India","Implicit_cons","Total_Effect",0.00898697982160923
+"532","D7","Ireland","Implicit_cons","Total_Effect",0.00228674897721964
+"533","D7","Italy","Implicit_cons","Total_Effect",0.00103271109115001
+"534","D7","Japan","Implicit_cons","Total_Effect",0.000894033806958272
+"535","D7","Luxembourg","Implicit_cons","Total_Effect",0.00239780434678293
+"536","D7","Mexico","Implicit_cons","Total_Effect",0.0046321641606114
+"537","D7","Russian Federation","Implicit_cons","Total_Effect",0.0141110682225434
+"538","D7","Turkiye","Implicit_cons","Total_Effect",0.00841831497082938
+"539","D7","United States","Implicit_cons","Total_Effect",0.00421829126021478
+"540","D7","South Africa","Implicit_cons","Total_Effect",0.0109040766167039
+"541","D7","Belgium","Null","Total_Effect",NA
+"542","D7","Brazil","Null","Total_Effect",NA
+"543","D7","China","Null","Total_Effect",NA
+"544","D7","Germany","Null","Total_Effect",NA
+"545","D7","Denmark","Null","Total_Effect",NA
+"546","D7","Spain","Null","Total_Effect",NA
+"547","D7","Finland","Null","Total_Effect",NA
+"548","D7","France","Null","Total_Effect",NA
+"549","D7","United Kingdom","Null","Total_Effect",NA
+"550","D7","Indonesia","Null","Total_Effect",NA
+"551","D7","India","Null","Total_Effect",NA
+"552","D7","Ireland","Null","Total_Effect",NA
+"553","D7","Italy","Null","Total_Effect",NA
+"554","D7","Japan","Null","Total_Effect",NA
+"555","D7","Luxembourg","Null","Total_Effect",NA
+"556","D7","Mexico","Null","Total_Effect",NA
+"557","D7","Russian Federation","Null","Total_Effect",NA
+"558","D7","Turkiye","Null","Total_Effect",NA
+"559","D7","United States","Null","Total_Effect",NA
+"560","D7","South Africa","Null","Total_Effect",NA
+"561","D8","Belgium","Explicit","Total_Effect",0.000172409358154032
+"562","D8","Brazil","Explicit","Total_Effect",0.000277845711180243
+"563","D8","China","Explicit","Total_Effect",0.0025196186230074
+"564","D8","Germany","Explicit","Total_Effect",0.000189157326149436
+"565","D8","Denmark","Explicit","Total_Effect",0.000113968881926574
+"566","D8","Spain","Explicit","Total_Effect",0.000143921407992645
+"567","D8","Finland","Explicit","Total_Effect",0.000203779954614624
+"568","D8","France","Explicit","Total_Effect",0.000119295746220673
+"569","D8","United Kingdom","Explicit","Total_Effect",0.00131328652112477
+"570","D8","Indonesia","Explicit","Total_Effect",0.0164015717031434
+"571","D8","India","Explicit","Total_Effect",0.00738241733455627
+"572","D8","Ireland","Explicit","Total_Effect",0.00174866657786912
+"573","D8","Italy","Explicit","Total_Effect",0.000161219482174576
+"574","D8","Japan","Explicit","Total_Effect",0.000159941241785001
+"575","D8","Luxembourg","Explicit","Total_Effect",0.00044283506650472
+"576","D8","Mexico","Explicit","Total_Effect",0.000646020673430685
+"577","D8","Russian Federation","Explicit","Total_Effect",0.0286358976545389
+"578","D8","Turkiye","Explicit","Total_Effect",0.00214689112143908
+"579","D8","United States","Explicit","Total_Effect",0.000351808910640617
+"580","D8","South Africa","Explicit","Total_Effect",0.000334515469854408
+"581","D8","Belgium","Implicit_prod","Total_Effect",0.00108476097498963
+"582","D8","Brazil","Implicit_prod","Total_Effect",0.0104743429199574
+"583","D8","China","Implicit_prod","Total_Effect",0.0185708727351849
+"584","D8","Germany","Implicit_prod","Total_Effect",0.00234346634896618
+"585","D8","Denmark","Implicit_prod","Total_Effect",0.000621770281847673
+"586","D8","Spain","Implicit_prod","Total_Effect",0.0011289964338118
+"587","D8","Finland","Implicit_prod","Total_Effect",0.000936359680391147
+"588","D8","France","Implicit_prod","Total_Effect",0.00113029969195469
+"589","D8","United Kingdom","Implicit_prod","Total_Effect",0.00196115930381641
+"590","D8","Indonesia","Implicit_prod","Total_Effect",0.0224526421307369
+"591","D8","India","Implicit_prod","Total_Effect",0.0450094662497942
+"592","D8","Ireland","Implicit_prod","Total_Effect",0.00265552418332379
+"593","D8","Italy","Implicit_prod","Total_Effect",0.00331294303087824
+"594","D8","Japan","Implicit_prod","Total_Effect",0.00330990312321548
+"595","D8","Luxembourg","Implicit_prod","Total_Effect",0.000773432605281627
+"596","D8","Mexico","Implicit_prod","Total_Effect",0.0123092448830353
+"597","D8","Russian Federation","Implicit_prod","Total_Effect",0.0500658839571155
+"598","D8","Turkiye","Implicit_prod","Total_Effect",0.014581744586082
+"599","D8","United States","Implicit_prod","Total_Effect",0.0216203565646046
+"600","D8","South Africa","Implicit_prod","Total_Effect",0.0387724191712372
+"601","D8","Belgium","Implicit_cons","Total_Effect",0.000564481318488421
+"602","D8","Brazil","Implicit_cons","Total_Effect",0.00187273458903931
+"603","D8","China","Implicit_cons","Total_Effect",0.012034607572288
+"604","D8","Germany","Implicit_cons","Total_Effect",0.000825928510537092
+"605","D8","Denmark","Implicit_cons","Total_Effect",0.000186742768140053
+"606","D8","Spain","Implicit_cons","Total_Effect",0.000401093451012536
+"607","D8","Finland","Implicit_cons","Total_Effect",0.000201888918021481
+"608","D8","France","Implicit_cons","Total_Effect",0.000444035530955758
+"609","D8","United Kingdom","Implicit_cons","Total_Effect",0.000988504986846028
+"610","D8","Indonesia","Implicit_cons","Total_Effect",0.00541819955084526
+"611","D8","India","Implicit_cons","Total_Effect",0.00627860998493081
+"612","D8","Ireland","Implicit_cons","Total_Effect",0.00222227542830333
+"613","D8","Italy","Implicit_cons","Total_Effect",0.00101275390496252
+"614","D8","Japan","Implicit_cons","Total_Effect",0.000666792215700911
+"615","D8","Luxembourg","Implicit_cons","Total_Effect",0.00221564422005353
+"616","D8","Mexico","Implicit_cons","Total_Effect",0.00439025256161183
+"617","D8","Russian Federation","Implicit_cons","Total_Effect",0.0139119906128579
+"618","D8","Turkiye","Implicit_cons","Total_Effect",0.00731877898645704
+"619","D8","United States","Implicit_cons","Total_Effect",0.00451800031692488
+"620","D8","South Africa","Implicit_cons","Total_Effect",0.00919378492197053
+"621","D8","Belgium","Null","Total_Effect",NA
+"622","D8","Brazil","Null","Total_Effect",NA
+"623","D8","China","Null","Total_Effect",NA
+"624","D8","Germany","Null","Total_Effect",NA
+"625","D8","Denmark","Null","Total_Effect",NA
+"626","D8","Spain","Null","Total_Effect",NA
+"627","D8","Finland","Null","Total_Effect",NA
+"628","D8","France","Null","Total_Effect",NA
+"629","D8","United Kingdom","Null","Total_Effect",NA
+"630","D8","Indonesia","Null","Total_Effect",NA
+"631","D8","India","Null","Total_Effect",NA
+"632","D8","Ireland","Null","Total_Effect",NA
+"633","D8","Italy","Null","Total_Effect",NA
+"634","D8","Japan","Null","Total_Effect",NA
+"635","D8","Luxembourg","Null","Total_Effect",NA
+"636","D8","Mexico","Null","Total_Effect",NA
+"637","D8","Russian Federation","Null","Total_Effect",NA
+"638","D8","Turkiye","Null","Total_Effect",NA
+"639","D8","United States","Null","Total_Effect",NA
+"640","D8","South Africa","Null","Total_Effect",NA
+"641","D9","Belgium","Explicit","Total_Effect",0.000171375419202996
+"642","D9","Brazil","Explicit","Total_Effect",0.000253256092661713
+"643","D9","China","Explicit","Total_Effect",0.00238830050042766
+"644","D9","Germany","Explicit","Total_Effect",0.000194634796364999
+"645","D9","Denmark","Explicit","Total_Effect",0.000113968854538353
+"646","D9","Spain","Explicit","Total_Effect",0.000144124899592733
+"647","D9","Finland","Explicit","Total_Effect",0.000203811935583124
+"648","D9","France","Explicit","Total_Effect",0.000120316925288309
+"649","D9","United Kingdom","Explicit","Total_Effect",0.00118396201986289
+"650","D9","Indonesia","Explicit","Total_Effect",0.0151005768169916
+"651","D9","India","Explicit","Total_Effect",0.00709055723557737
+"652","D9","Ireland","Explicit","Total_Effect",0.0017632813078047
+"653","D9","Italy","Explicit","Total_Effect",0.000160869389555971
+"654","D9","Japan","Explicit","Total_Effect",0.00015207950791525
+"655","D9","Luxembourg","Explicit","Total_Effect",0.000525076921271176
+"656","D9","Mexico","Explicit","Total_Effect",0.000584788983344288
+"657","D9","Russian Federation","Explicit","Total_Effect",0.0280666301608482
+"658","D9","Turkiye","Explicit","Total_Effect",0.00181286017505058
+"659","D9","United States","Explicit","Total_Effect",0.000351236790383358
+"660","D9","South Africa","Explicit","Total_Effect",0.000434774992557086
+"661","D9","Belgium","Implicit_prod","Total_Effect",0.00109978952495358
+"662","D9","Brazil","Implicit_prod","Total_Effect",0.00887134253634872
+"663","D9","China","Implicit_prod","Total_Effect",0.0178249976339203
+"664","D9","Germany","Implicit_prod","Total_Effect",0.00253271599400723
+"665","D9","Denmark","Implicit_prod","Total_Effect",0.000661575666878122
+"666","D9","Spain","Implicit_prod","Total_Effect",0.00114004719172159
+"667","D9","Finland","Implicit_prod","Total_Effect",0.000944040081733247
+"668","D9","France","Implicit_prod","Total_Effect",0.0011457052794124
+"669","D9","United Kingdom","Implicit_prod","Total_Effect",0.00199200953622082
+"670","D9","Indonesia","Implicit_prod","Total_Effect",0.0238010285445156
+"671","D9","India","Implicit_prod","Total_Effect",0.0405457113989363
+"672","D9","Ireland","Implicit_prod","Total_Effect",0.00268150621294391
+"673","D9","Italy","Implicit_prod","Total_Effect",0.00322149020624207
+"674","D9","Japan","Implicit_prod","Total_Effect",0.00328010142641674
+"675","D9","Luxembourg","Implicit_prod","Total_Effect",0.000766453794397184
+"676","D9","Mexico","Implicit_prod","Total_Effect",0.0111387405253175
+"677","D9","Russian Federation","Implicit_prod","Total_Effect",0.0495042068463031
+"678","D9","Turkiye","Implicit_prod","Total_Effect",0.0149944285474186
+"679","D9","United States","Implicit_prod","Total_Effect",0.0218107406010687
+"680","D9","South Africa","Implicit_prod","Total_Effect",0.0350156530374425
+"681","D9","Belgium","Implicit_cons","Total_Effect",0.000588727398586845
+"682","D9","Brazil","Implicit_cons","Total_Effect",0.00114017735633754
+"683","D9","China","Implicit_cons","Total_Effect",0.0111707799985101
+"684","D9","Germany","Implicit_cons","Total_Effect",0.000934254049103684
+"685","D9","Denmark","Implicit_cons","Total_Effect",0.000217383852404567
+"686","D9","Spain","Implicit_cons","Total_Effect",0.000406403571616289
+"687","D9","Finland","Implicit_cons","Total_Effect",0.000215059820924775
+"688","D9","France","Implicit_cons","Total_Effect",0.000494219737198438
+"689","D9","United Kingdom","Implicit_cons","Total_Effect",0.00100986868520216
+"690","D9","Indonesia","Implicit_cons","Total_Effect",0.00445152719286362
+"691","D9","India","Implicit_cons","Total_Effect",0.00352901641582469
+"692","D9","Ireland","Implicit_cons","Total_Effect",0.00250604984186785
+"693","D9","Italy","Implicit_cons","Total_Effect",0.000953602020270402
+"694","D9","Japan","Implicit_cons","Total_Effect",0.000648844886709782
+"695","D9","Luxembourg","Implicit_cons","Total_Effect",0.00244769766940511
+"696","D9","Mexico","Implicit_cons","Total_Effect",0.00365936604656773
+"697","D9","Russian Federation","Implicit_cons","Total_Effect",0.0136448021869004
+"698","D9","Turkiye","Implicit_cons","Total_Effect",0.00844886790046439
+"699","D9","United States","Implicit_cons","Total_Effect",0.00400047000455012
+"700","D9","South Africa","Implicit_cons","Total_Effect",0.00476790886019057
+"701","D9","Belgium","Null","Total_Effect",NA
+"702","D9","Brazil","Null","Total_Effect",NA
+"703","D9","China","Null","Total_Effect",NA
+"704","D9","Germany","Null","Total_Effect",NA
+"705","D9","Denmark","Null","Total_Effect",NA
+"706","D9","Spain","Null","Total_Effect",NA
+"707","D9","Finland","Null","Total_Effect",NA
+"708","D9","France","Null","Total_Effect",NA
+"709","D9","United Kingdom","Null","Total_Effect",NA
+"710","D9","Indonesia","Null","Total_Effect",NA
+"711","D9","India","Null","Total_Effect",NA
+"712","D9","Ireland","Null","Total_Effect",NA
+"713","D9","Italy","Null","Total_Effect",NA
+"714","D9","Japan","Null","Total_Effect",NA
+"715","D9","Luxembourg","Null","Total_Effect",NA
+"716","D9","Mexico","Null","Total_Effect",NA
+"717","D9","Russian Federation","Null","Total_Effect",NA
+"718","D9","Turkiye","Null","Total_Effect",NA
+"719","D9","United States","Null","Total_Effect",NA
+"720","D9","South Africa","Null","Total_Effect",NA
+"721","D10","Belgium","Explicit","Total_Effect",0.000178282468483224
+"722","D10","Brazil","Explicit","Total_Effect",0.000303846785695691
+"723","D10","China","Explicit","Total_Effect",0.00203411536686765
+"724","D10","Germany","Explicit","Total_Effect",0.000207901234062809
+"725","D10","Denmark","Explicit","Total_Effect",0.000113969173116164
+"726","D10","Spain","Explicit","Total_Effect",0.000144704938857551
+"727","D10","Finland","Explicit","Total_Effect",0.000223099113975819
+"728","D10","France","Explicit","Total_Effect",0.000122701645847505
+"729","D10","United Kingdom","Explicit","Total_Effect",0.00100426639452898
+"730","D10","Indonesia","Explicit","Total_Effect",0.0132666207612009
+"731","D10","India","Explicit","Total_Effect",0.00677318926278419
+"732","D10","Ireland","Explicit","Total_Effect",0.00153751721627107
+"733","D10","Italy","Explicit","Total_Effect",0.000161623290543183
+"734","D10","Japan","Explicit","Total_Effect",0.000145374507276441
+"735","D10","Luxembourg","Explicit","Total_Effect",0.000493849122495425
+"736","D10","Mexico","Explicit","Total_Effect",0.000556667744237481
+"737","D10","Russian Federation","Explicit","Total_Effect",0.0278665015015116
+"738","D10","Turkiye","Explicit","Total_Effect",0.00183824209903976
+"739","D10","United States","Explicit","Total_Effect",0.00037105754444646
+"740","D10","South Africa","Explicit","Total_Effect",0.000532993173316906
+"741","D10","Belgium","Implicit_prod","Total_Effect",0.0011343772399944
+"742","D10","Brazil","Implicit_prod","Total_Effect",0.00996019135922628
+"743","D10","China","Implicit_prod","Total_Effect",0.0157602256820319
+"744","D10","Germany","Implicit_prod","Total_Effect",0.00247583822647897
+"745","D10","Denmark","Implicit_prod","Total_Effect",0.000638871091441008
+"746","D10","Spain","Implicit_prod","Total_Effect",0.00110210020817676
+"747","D10","Finland","Implicit_prod","Total_Effect",0.0010096981965851
+"748","D10","France","Implicit_prod","Total_Effect",0.00114257203297001
+"749","D10","United Kingdom","Implicit_prod","Total_Effect",0.00191270660756768
+"750","D10","Indonesia","Implicit_prod","Total_Effect",0.0266254306940307
+"751","D10","India","Implicit_prod","Total_Effect",0.0385622479572551
+"752","D10","Ireland","Implicit_prod","Total_Effect",0.00256819167678769
+"753","D10","Italy","Implicit_prod","Total_Effect",0.00296405603070032
+"754","D10","Japan","Implicit_prod","Total_Effect",0.00307989336962343
+"755","D10","Luxembourg","Implicit_prod","Total_Effect",0.000820101630947253
+"756","D10","Mexico","Implicit_prod","Total_Effect",0.0106202927626763
+"757","D10","Russian Federation","Implicit_prod","Total_Effect",0.0492482782242881
+"758","D10","Turkiye","Implicit_prod","Total_Effect",0.0137535591463557
+"759","D10","United States","Implicit_prod","Total_Effect",0.0233892034643191
+"760","D10","South Africa","Implicit_prod","Total_Effect",0.036088449807095
+"761","D10","Belgium","Implicit_cons","Total_Effect",0.00059192876289501
+"762","D10","Brazil","Implicit_cons","Total_Effect",0.00134293987716994
+"763","D10","China","Implicit_cons","Total_Effect",0.00886362963182532
+"764","D10","Germany","Implicit_cons","Total_Effect",0.000841988903740675
+"765","D10","Denmark","Implicit_cons","Total_Effect",0.000201652216337344
+"766","D10","Spain","Implicit_cons","Total_Effect",0.000377491320333349
+"767","D10","Finland","Implicit_cons","Total_Effect",0.00021799908729895
+"768","D10","France","Implicit_cons","Total_Effect",0.000406001881481996
+"769","D10","United Kingdom","Implicit_cons","Total_Effect",0.000911302149947038
+"770","D10","Indonesia","Implicit_cons","Total_Effect",0.00300140271637875
+"771","D10","India","Implicit_cons","Total_Effect",0.00172744985683867
+"772","D10","Ireland","Implicit_cons","Total_Effect",0.00190111622588914
+"773","D10","Italy","Implicit_cons","Total_Effect",0.000815108046228079
+"774","D10","Japan","Implicit_cons","Total_Effect",0.000467461659394405
+"775","D10","Luxembourg","Implicit_cons","Total_Effect",0.00260309980629856
+"776","D10","Mexico","Implicit_cons","Total_Effect",0.00347295394796056
+"777","D10","Russian Federation","Implicit_cons","Total_Effect",0.0138266300187073
+"778","D10","Turkiye","Implicit_cons","Total_Effect",0.00525422964204848
+"779","D10","United States","Implicit_cons","Total_Effect",0.00478767479738142
+"780","D10","South Africa","Implicit_cons","Total_Effect",0.00444451842681478
+"781","D10","Belgium","Null","Total_Effect",NA
+"782","D10","Brazil","Null","Total_Effect",NA
+"783","D10","China","Null","Total_Effect",NA
+"784","D10","Germany","Null","Total_Effect",NA
+"785","D10","Denmark","Null","Total_Effect",NA
+"786","D10","Spain","Null","Total_Effect",NA
+"787","D10","Finland","Null","Total_Effect",NA
+"788","D10","France","Null","Total_Effect",NA
+"789","D10","United Kingdom","Null","Total_Effect",NA
+"790","D10","Indonesia","Null","Total_Effect",NA
+"791","D10","India","Null","Total_Effect",NA
+"792","D10","Ireland","Null","Total_Effect",NA
+"793","D10","Italy","Null","Total_Effect",NA
+"794","D10","Japan","Null","Total_Effect",NA
+"795","D10","Luxembourg","Null","Total_Effect",NA
+"796","D10","Mexico","Null","Total_Effect",NA
+"797","D10","Russian Federation","Null","Total_Effect",NA
+"798","D10","Turkiye","Null","Total_Effect",NA
+"799","D10","United States","Null","Total_Effect",NA
+"800","D10","South Africa","Null","Total_Effect",NA
+"801","D1","Belgium","Explicit","Income_Effect",0.000174599471099409
+"802","D1","Brazil","Explicit","Income_Effect",7.33027552635286e-05
+"803","D1","China","Explicit","Income_Effect",0.000483280270757295
+"804","D1","Germany","Explicit","Income_Effect",0.00019199557604731
+"805","D1","Denmark","Explicit","Income_Effect",0.000114007559122347
+"806","D1","Spain","Explicit","Income_Effect",0.000144396008348076
+"807","D1","Finland","Explicit","Income_Effect",0.000211152719350526
+"808","D1","France","Explicit","Income_Effect",0.00011936183086127
+"809","D1","United Kingdom","Explicit","Income_Effect",0.000456306589473258
+"810","D1","Indonesia","Explicit","Income_Effect",0.00221542406548844
+"811","D1","India","Explicit","Income_Effect",0.0010951021779679
+"812","D1","Ireland","Explicit","Income_Effect",0.00065538940229428
+"813","D1","Italy","Explicit","Income_Effect",0.000160788649616985
+"814","D1","Japan","Explicit","Income_Effect",8.27809678590795e-05
+"815","D1","Luxembourg","Explicit","Income_Effect",0.000170485657476152
+"816","D1","Mexico","Explicit","Income_Effect",0.000232156569869343
+"817","D1","Russian Federation","Explicit","Income_Effect",0.0111037578882084
+"818","D1","Turkiye","Explicit","Income_Effect",0.000262495592011241
+"819","D1","United States","Explicit","Income_Effect",7.95850117217436e-05
+"820","D1","South Africa","Explicit","Income_Effect",3.67843587521449e-05
+"821","D1","Belgium","Implicit_prod","Income_Effect",0.000762474597969462
+"822","D1","Brazil","Implicit_prod","Income_Effect",0.00197665555440951
+"823","D1","China","Implicit_prod","Income_Effect",0.00411095721718062
+"824","D1","Germany","Implicit_prod","Income_Effect",0.00116886636073066
+"825","D1","Denmark","Implicit_prod","Income_Effect",0.00049609823091271
+"826","D1","Spain","Implicit_prod","Income_Effect",0.000654955306656626
+"827","D1","Finland","Implicit_prod","Income_Effect",0.00081038520626636
+"828","D1","France","Implicit_prod","Income_Effect",0.000628100055764932
+"829","D1","United Kingdom","Implicit_prod","Income_Effect",0.00101132610502173
+"830","D1","Indonesia","Implicit_prod","Income_Effect",0.00494836095984026
+"831","D1","India","Implicit_prod","Income_Effect",0.00716986068724274
+"832","D1","Ireland","Implicit_prod","Income_Effect",0.00174251049458746
+"833","D1","Italy","Implicit_prod","Income_Effect",0.00134381037640915
+"834","D1","Japan","Implicit_prod","Income_Effect",0.00138441466527587
+"835","D1","Luxembourg","Implicit_prod","Income_Effect",0.000731345159144675
+"836","D1","Mexico","Implicit_prod","Income_Effect",0.00432096498097546
+"837","D1","Russian Federation","Implicit_prod","Income_Effect",0.0205392668530528
+"838","D1","Turkiye","Implicit_prod","Income_Effect",0.00461744372789306
+"839","D1","United States","Implicit_prod","Income_Effect",0.00394107624571687
+"840","D1","South Africa","Implicit_prod","Income_Effect",0.00124635799512847
+"841","D1","Belgium","Implicit_cons","Income_Effect",0.00013526887960017
+"842","D1","Brazil","Implicit_cons","Income_Effect",0.000304714484150717
+"843","D1","China","Implicit_cons","Income_Effect",0.000367967174808302
+"844","D1","Germany","Implicit_cons","Income_Effect",0.000188309979351178
+"845","D1","Denmark","Implicit_cons","Income_Effect",0.000111761134707838
+"846","D1","Spain","Implicit_cons","Income_Effect",0.000116878170747796
+"847","D1","Finland","Implicit_cons","Income_Effect",0.000146709251884112
+"848","D1","France","Implicit_cons","Income_Effect",8.84871494288707e-05
+"849","D1","United Kingdom","Implicit_cons","Income_Effect",0.000357735057343513
+"850","D1","Indonesia","Implicit_cons","Income_Effect",0.000403329012462973
+"851","D1","India","Implicit_cons","Income_Effect",0.000332103485003277
+"852","D1","Ireland","Implicit_cons","Income_Effect",0.000290304868940645
+"853","D1","Italy","Implicit_cons","Income_Effect",0.000186650644498389
+"854","D1","Japan","Implicit_cons","Income_Effect",8.92776991444156e-05
+"855","D1","Luxembourg","Implicit_cons","Income_Effect",0.000132942268087279
+"856","D1","Mexico","Implicit_cons","Income_Effect",0.00128752724852879
+"857","D1","Russian Federation","Implicit_cons","Income_Effect",0.00457543879273038
+"858","D1","Turkiye","Implicit_cons","Income_Effect",0.000243092925234167
+"859","D1","United States","Implicit_cons","Income_Effect",0.000356628182728464
+"860","D1","South Africa","Implicit_cons","Income_Effect",0.000134649607691002
+"861","D1","Belgium","Null","Income_Effect",NA
+"862","D1","Brazil","Null","Income_Effect",NA
+"863","D1","China","Null","Income_Effect",NA
+"864","D1","Germany","Null","Income_Effect",NA
+"865","D1","Denmark","Null","Income_Effect",NA
+"866","D1","Spain","Null","Income_Effect",NA
+"867","D1","Finland","Null","Income_Effect",NA
+"868","D1","France","Null","Income_Effect",NA
+"869","D1","United Kingdom","Null","Income_Effect",NA
+"870","D1","Indonesia","Null","Income_Effect",NA
+"871","D1","India","Null","Income_Effect",NA
+"872","D1","Ireland","Null","Income_Effect",NA
+"873","D1","Italy","Null","Income_Effect",NA
+"874","D1","Japan","Null","Income_Effect",NA
+"875","D1","Luxembourg","Null","Income_Effect",NA
+"876","D1","Mexico","Null","Income_Effect",NA
+"877","D1","Russian Federation","Null","Income_Effect",NA
+"878","D1","Turkiye","Null","Income_Effect",NA
+"879","D1","United States","Null","Income_Effect",NA
+"880","D1","South Africa","Null","Income_Effect",NA
+"881","D2","Belgium","Explicit","Income_Effect",0.000171807425229279
+"882","D2","Brazil","Explicit","Income_Effect",0.000126378500145791
+"883","D2","China","Explicit","Income_Effect",0.000583944767007759
+"884","D2","Germany","Explicit","Income_Effect",0.000184844476001411
+"885","D2","Denmark","Explicit","Income_Effect",0.000113969248752587
+"886","D2","Spain","Explicit","Income_Effect",0.000143036320019335
+"887","D2","Finland","Explicit","Income_Effect",0.000206309201668241
+"888","D2","France","Explicit","Income_Effect",0.000117404877015899
+"889","D2","United Kingdom","Explicit","Income_Effect",0.000432862988486483
+"890","D2","Indonesia","Explicit","Income_Effect",0.00256851786555183
+"891","D2","India","Explicit","Income_Effect",0.00156810895454909
+"892","D2","Ireland","Explicit","Income_Effect",0.000655569070772861
+"893","D2","Italy","Explicit","Income_Effect",0.000159849834491092
+"894","D2","Japan","Explicit","Income_Effect",8.65300465027011e-05
+"895","D2","Luxembourg","Explicit","Income_Effect",0.000163879870640535
+"896","D2","Mexico","Explicit","Income_Effect",0.000250290391757548
+"897","D2","Russian Federation","Explicit","Income_Effect",0.0112182579533605
+"898","D2","Turkiye","Explicit","Income_Effect",0.000302579178112637
+"899","D2","United States","Explicit","Income_Effect",8.59245620326051e-05
+"900","D2","South Africa","Explicit","Income_Effect",8.30691613360269e-05
+"901","D2","Belgium","Implicit_prod","Income_Effect",0.000752516939897158
+"902","D2","Brazil","Implicit_prod","Income_Effect",0.00342653367870471
+"903","D2","China","Implicit_prod","Income_Effect",0.00498009892274112
+"904","D2","Germany","Implicit_prod","Income_Effect",0.00112483841016239
+"905","D2","Denmark","Implicit_prod","Income_Effect",0.000495897315013019
+"906","D2","Spain","Implicit_prod","Income_Effect",0.000656630546483517
+"907","D2","Finland","Implicit_prod","Income_Effect",0.000791602517620682
+"908","D2","France","Implicit_prod","Income_Effect",0.000617161795426007
+"909","D2","United Kingdom","Implicit_prod","Income_Effect",0.00099726482160557
+"910","D2","Indonesia","Implicit_prod","Income_Effect",0.00573712812456373
+"911","D2","India","Implicit_prod","Income_Effect",0.0101427839981238
+"912","D2","Ireland","Implicit_prod","Income_Effect",0.00174298387852422
+"913","D2","Italy","Implicit_prod","Income_Effect",0.00131972932467484
+"914","D2","Japan","Implicit_prod","Income_Effect",0.00142902164393798
+"915","D2","Luxembourg","Implicit_prod","Income_Effect",0.000704726977711134
+"916","D2","Mexico","Implicit_prod","Income_Effect",0.00465196510759757
+"917","D2","Russian Federation","Implicit_prod","Income_Effect",0.0209346682100331
+"918","D2","Turkiye","Implicit_prod","Income_Effect",0.00509611409819064
+"919","D2","United States","Implicit_prod","Income_Effect",0.0045400865995001
+"920","D2","South Africa","Implicit_prod","Income_Effect",0.0028522242377973
+"921","D2","Belgium","Implicit_cons","Income_Effect",0.000137553134545305
+"922","D2","Brazil","Implicit_cons","Income_Effect",0.0005191589118731
+"923","D2","China","Implicit_cons","Income_Effect",0.00043865176515699
+"924","D2","Germany","Implicit_cons","Income_Effect",0.000179232928643866
+"925","D2","Denmark","Implicit_cons","Income_Effect",0.000111581320211132
+"926","D2","Spain","Implicit_cons","Income_Effect",0.000113885117923084
+"927","D2","Finland","Implicit_cons","Income_Effect",0.000142186260757977
+"928","D2","France","Implicit_cons","Income_Effect",8.75249271615192e-05
+"929","D2","United Kingdom","Implicit_cons","Income_Effect",0.000328510279819809
+"930","D2","Indonesia","Implicit_cons","Income_Effect",0.000465153773174034
+"931","D2","India","Implicit_cons","Income_Effect",0.000420362527442909
+"932","D2","Ireland","Implicit_cons","Income_Effect",0.000290225029028329
+"933","D2","Italy","Implicit_cons","Income_Effect",0.000177831533151838
+"934","D2","Japan","Implicit_cons","Income_Effect",9.40123152046754e-05
+"935","D2","Luxembourg","Implicit_cons","Income_Effect",0.00012813530841166
+"936","D2","Mexico","Implicit_cons","Income_Effect",0.00149504296389925
+"937","D2","Russian Federation","Implicit_cons","Income_Effect",0.00500554654746109
+"938","D2","Turkiye","Implicit_cons","Income_Effect",0.000321560739915115
+"939","D2","United States","Implicit_cons","Income_Effect",0.000351540642618671
+"940","D2","South Africa","Implicit_cons","Income_Effect",0.000300170506577429
+"941","D2","Belgium","Null","Income_Effect",NA
+"942","D2","Brazil","Null","Income_Effect",NA
+"943","D2","China","Null","Income_Effect",NA
+"944","D2","Germany","Null","Income_Effect",NA
+"945","D2","Denmark","Null","Income_Effect",NA
+"946","D2","Spain","Null","Income_Effect",NA
+"947","D2","Finland","Null","Income_Effect",NA
+"948","D2","France","Null","Income_Effect",NA
+"949","D2","United Kingdom","Null","Income_Effect",NA
+"950","D2","Indonesia","Null","Income_Effect",NA
+"951","D2","India","Null","Income_Effect",NA
+"952","D2","Ireland","Null","Income_Effect",NA
+"953","D2","Italy","Null","Income_Effect",NA
+"954","D2","Japan","Null","Income_Effect",NA
+"955","D2","Luxembourg","Null","Income_Effect",NA
+"956","D2","Mexico","Null","Income_Effect",NA
+"957","D2","Russian Federation","Null","Income_Effect",NA
+"958","D2","Turkiye","Null","Income_Effect",NA
+"959","D2","United States","Null","Income_Effect",NA
+"960","D2","South Africa","Null","Income_Effect",NA
+"961","D3","Belgium","Explicit","Income_Effect",0.000175352548691536
+"962","D3","Brazil","Explicit","Income_Effect",0.00013669013468479
+"963","D3","China","Explicit","Income_Effect",0.00069399988045219
+"964","D3","Germany","Explicit","Income_Effect",0.000188730905732779
+"965","D3","Denmark","Explicit","Income_Effect",0.000113969266295694
+"966","D3","Spain","Explicit","Income_Effect",0.000143554976222585
+"967","D3","Finland","Explicit","Income_Effect",0.000207006080273355
+"968","D3","France","Explicit","Income_Effect",0.000117798112764539
+"969","D3","United Kingdom","Explicit","Income_Effect",0.000433831692044509
+"970","D3","Indonesia","Explicit","Income_Effect",0.00306795459213005
+"971","D3","India","Explicit","Income_Effect",0.00178764455676787
+"972","D3","Ireland","Explicit","Income_Effect",0.00065555061838813
+"973","D3","Italy","Explicit","Income_Effect",0.000159950146149688
+"974","D3","Japan","Explicit","Income_Effect",9.14048926635227e-05
+"975","D3","Luxembourg","Explicit","Income_Effect",0.0001611778366675
+"976","D3","Mexico","Explicit","Income_Effect",0.000255691214788952
+"977","D3","Russian Federation","Explicit","Income_Effect",0.0112790218793536
+"978","D3","Turkiye","Explicit","Income_Effect",0.000339823143176243
+"979","D3","United States","Explicit","Income_Effect",9.82327325112386e-05
+"980","D3","South Africa","Explicit","Income_Effect",0.000217357063579679
+"981","D3","Belgium","Implicit_prod","Income_Effect",0.000765653720280088
+"982","D3","Brazil","Implicit_prod","Income_Effect",0.00369044060873321
+"983","D3","China","Implicit_prod","Income_Effect",0.00591135180320215
+"984","D3","Germany","Implicit_prod","Income_Effect",0.00114876632510143
+"985","D3","Denmark","Implicit_prod","Income_Effect",0.000495897421586063
+"986","D3","Spain","Implicit_prod","Income_Effect",0.00065599151957932
+"987","D3","Finland","Implicit_prod","Income_Effect",0.000794289983700936
+"988","D3","France","Implicit_prod","Income_Effect",0.000619045472104163
+"989","D3","United Kingdom","Implicit_prod","Income_Effect",0.0009973530891785
+"990","D3","Indonesia","Implicit_prod","Income_Effect",0.00679713700987447
+"991","D3","India","Implicit_prod","Income_Effect",0.0114889314826961
+"992","D3","Ireland","Implicit_prod","Income_Effect",0.00174293646868735
+"993","D3","Italy","Implicit_prod","Income_Effect",0.00132230210313712
+"994","D3","Japan","Implicit_prod","Income_Effect",0.00148737816784421
+"995","D3","Luxembourg","Implicit_prod","Income_Effect",0.000693838505214328
+"996","D3","Mexico","Implicit_prod","Income_Effect",0.00475054724001281
+"997","D3","Russian Federation","Implicit_prod","Income_Effect",0.0211445024876797
+"998","D3","Turkiye","Implicit_prod","Income_Effect",0.0055527312895744
+"999","D3","United States","Implicit_prod","Income_Effect",0.00506891065116246
+"1000","D3","South Africa","Implicit_prod","Income_Effect",0.00710851848820869
+"1001","D3","Belgium","Implicit_cons","Income_Effect",0.000141449789594596
+"1002","D3","Brazil","Implicit_cons","Income_Effect",0.000566717861937822
+"1003","D3","China","Implicit_cons","Income_Effect",0.000525179733745072
+"1004","D3","Germany","Implicit_cons","Income_Effect",0.000184166091326802
+"1005","D3","Denmark","Implicit_cons","Income_Effect",0.000111581481427452
+"1006","D3","Spain","Implicit_cons","Income_Effect",0.000115026842515097
+"1007","D3","Finland","Implicit_cons","Income_Effect",0.000142796483083217
+"1008","D3","France","Implicit_cons","Income_Effect",8.79438802985539e-05
+"1009","D3","United Kingdom","Implicit_cons","Income_Effect",0.000329660401155272
+"1010","D3","Indonesia","Implicit_cons","Income_Effect",0.000580204689390522
+"1011","D3","India","Implicit_cons","Income_Effect",0.000446335603381827
+"1012","D3","Ireland","Implicit_cons","Income_Effect",0.00029023359237777
+"1013","D3","Italy","Implicit_cons","Income_Effect",0.000178773754495001
+"1014","D3","Japan","Implicit_cons","Income_Effect",0.000100369023960746
+"1015","D3","Luxembourg","Implicit_cons","Income_Effect",0.000126166392149004
+"1016","D3","Mexico","Implicit_cons","Income_Effect",0.00155684752837355
+"1017","D3","Russian Federation","Implicit_cons","Income_Effect",0.00523379837989957
+"1018","D3","Turkiye","Implicit_cons","Income_Effect",0.000395456239519324
+"1019","D3","United States","Implicit_cons","Income_Effect",0.000418014745983142
+"1020","D3","South Africa","Implicit_cons","Income_Effect",0.000822258613483006
+"1021","D3","Belgium","Null","Income_Effect",NA
+"1022","D3","Brazil","Null","Income_Effect",NA
+"1023","D3","China","Null","Income_Effect",NA
+"1024","D3","Germany","Null","Income_Effect",NA
+"1025","D3","Denmark","Null","Income_Effect",NA
+"1026","D3","Spain","Null","Income_Effect",NA
+"1027","D3","Finland","Null","Income_Effect",NA
+"1028","D3","France","Null","Income_Effect",NA
+"1029","D3","United Kingdom","Null","Income_Effect",NA
+"1030","D3","Indonesia","Null","Income_Effect",NA
+"1031","D3","India","Null","Income_Effect",NA
+"1032","D3","Ireland","Null","Income_Effect",NA
+"1033","D3","Italy","Null","Income_Effect",NA
+"1034","D3","Japan","Null","Income_Effect",NA
+"1035","D3","Luxembourg","Null","Income_Effect",NA
+"1036","D3","Mexico","Null","Income_Effect",NA
+"1037","D3","Russian Federation","Null","Income_Effect",NA
+"1038","D3","Turkiye","Null","Income_Effect",NA
+"1039","D3","United States","Null","Income_Effect",NA
+"1040","D3","South Africa","Null","Income_Effect",NA
+"1041","D4","Belgium","Explicit","Income_Effect",0.000169495555749076
+"1042","D4","Brazil","Explicit","Income_Effect",0.000152920020852448
+"1043","D4","China","Explicit","Income_Effect",0.000798582558295232
+"1044","D4","Germany","Explicit","Income_Effect",0.000190867502526226
+"1045","D4","Denmark","Explicit","Income_Effect",0.000113969283858976
+"1046","D4","Spain","Explicit","Income_Effect",0.000143572889428423
+"1047","D4","Finland","Explicit","Income_Effect",0.000203218998920748
+"1048","D4","France","Explicit","Income_Effect",0.000118138298151164
+"1049","D4","United Kingdom","Explicit","Income_Effect",0.000439969014342381
+"1050","D4","Indonesia","Explicit","Income_Effect",0.00329252682262226
+"1051","D4","India","Explicit","Income_Effect",0.00205820276281246
+"1052","D4","Ireland","Explicit","Income_Effect",0.000655591840194735
+"1053","D4","Italy","Explicit","Income_Effect",0.000159903658892765
+"1054","D4","Japan","Explicit","Income_Effect",8.53410396090145e-05
+"1055","D4","Luxembourg","Explicit","Income_Effect",0.00015162570850287
+"1056","D4","Mexico","Explicit","Income_Effect",0.00025728122612165
+"1057","D4","Russian Federation","Explicit","Income_Effect",0.0113028194410578
+"1058","D4","Turkiye","Explicit","Income_Effect",0.000367077245210446
+"1059","D4","United States","Explicit","Income_Effect",0.000106030489763229
+"1060","D4","South Africa","Explicit","Income_Effect",0.000192212823218202
+"1061","D4","Belgium","Implicit_prod","Income_Effect",0.000744111375833963
+"1062","D4","Brazil","Implicit_prod","Income_Effect",0.00411298723668729
+"1063","D4","China","Implicit_prod","Income_Effect",0.00678108287910063
+"1064","D4","Germany","Implicit_prod","Income_Effect",0.00116192088861823
+"1065","D4","Denmark","Implicit_prod","Income_Effect",0.000495897521151526
+"1066","D4","Spain","Implicit_prod","Income_Effect",0.000655969469672165
+"1067","D4","Finland","Implicit_prod","Income_Effect",0.000779696172784027
+"1068","D4","France","Implicit_prod","Income_Effect",0.000620467737152902
+"1069","D4","United Kingdom","Implicit_prod","Income_Effect",0.000999993111449025
+"1070","D4","Indonesia","Implicit_prod","Income_Effect",0.00726976657749417
+"1071","D4","India","Implicit_prod","Income_Effect",0.0133199205137537
+"1072","D4","Ireland","Implicit_prod","Income_Effect",0.00174304447576904
+"1073","D4","Italy","Implicit_prod","Income_Effect",0.00132110951810244
+"1074","D4","Japan","Implicit_prod","Income_Effect",0.00141319880103314
+"1075","D4","Luxembourg","Implicit_prod","Income_Effect",0.000655346364315245
+"1076","D4","Mexico","Implicit_prod","Income_Effect",0.00477957004051053
+"1077","D4","Russian Federation","Implicit_prod","Income_Effect",0.0212266789216316
+"1078","D4","Turkiye","Implicit_prod","Income_Effect",0.00590210909230782
+"1079","D4","United States","Implicit_prod","Income_Effect",0.00551128089346617
+"1080","D4","South Africa","Implicit_prod","Income_Effect",0.00663439305660163
+"1081","D4","Belgium","Implicit_cons","Income_Effect",0.000137234174404436
+"1082","D4","Brazil","Implicit_cons","Income_Effect",0.00063919373998952
+"1083","D4","China","Implicit_cons","Income_Effect",0.000614706350462161
+"1084","D4","Germany","Implicit_cons","Income_Effect",0.000186878139973565
+"1085","D4","Denmark","Implicit_cons","Income_Effect",0.000111581604226023
+"1086","D4","Spain","Implicit_cons","Income_Effect",0.000115066146985449
+"1087","D4","Finland","Implicit_cons","Income_Effect",0.000139509632255374
+"1088","D4","France","Implicit_cons","Income_Effect",8.84551101294478e-05
+"1089","D4","United Kingdom","Implicit_cons","Income_Effect",0.000337189772730808
+"1090","D4","Indonesia","Implicit_cons","Income_Effect",0.000645018336388774
+"1091","D4","India","Implicit_cons","Income_Effect",0.000554916349051388
+"1092","D4","Ireland","Implicit_cons","Income_Effect",0.000290215093087754
+"1093","D4","Italy","Implicit_cons","Income_Effect",0.000178337000238599
+"1094","D4","Japan","Implicit_cons","Income_Effect",9.15648236205263e-05
+"1095","D4","Luxembourg","Implicit_cons","Income_Effect",0.000119207744677731
+"1096","D4","Mexico","Implicit_cons","Income_Effect",0.0015750429615238
+"1097","D4","Russian Federation","Implicit_cons","Income_Effect",0.00532318530621466
+"1098","D4","Turkiye","Implicit_cons","Income_Effect",0.000450798766421899
+"1099","D4","United States","Implicit_cons","Income_Effect",0.00044790242039809
+"1100","D4","South Africa","Implicit_cons","Income_Effect",0.000690962098278449
+"1101","D4","Belgium","Null","Income_Effect",NA
+"1102","D4","Brazil","Null","Income_Effect",NA
+"1103","D4","China","Null","Income_Effect",NA
+"1104","D4","Germany","Null","Income_Effect",NA
+"1105","D4","Denmark","Null","Income_Effect",NA
+"1106","D4","Spain","Null","Income_Effect",NA
+"1107","D4","Finland","Null","Income_Effect",NA
+"1108","D4","France","Null","Income_Effect",NA
+"1109","D4","United Kingdom","Null","Income_Effect",NA
+"1110","D4","Indonesia","Null","Income_Effect",NA
+"1111","D4","India","Null","Income_Effect",NA
+"1112","D4","Ireland","Null","Income_Effect",NA
+"1113","D4","Italy","Null","Income_Effect",NA
+"1114","D4","Japan","Null","Income_Effect",NA
+"1115","D4","Luxembourg","Null","Income_Effect",NA
+"1116","D4","Mexico","Null","Income_Effect",NA
+"1117","D4","Russian Federation","Null","Income_Effect",NA
+"1118","D4","Turkiye","Null","Income_Effect",NA
+"1119","D4","United States","Null","Income_Effect",NA
+"1120","D4","South Africa","Null","Income_Effect",NA
+"1121","D5","Belgium","Explicit","Income_Effect",0.000169092590326325
+"1122","D5","Brazil","Explicit","Income_Effect",0.000160565055824728
+"1123","D5","China","Explicit","Income_Effect",0.000863654335006555
+"1124","D5","Germany","Explicit","Income_Effect",0.000191778695899015
+"1125","D5","Denmark","Explicit","Income_Effect",0.000113969288197738
+"1126","D5","Spain","Explicit","Income_Effect",0.000143801903274368
+"1127","D5","Finland","Explicit","Income_Effect",0.000203964152149116
+"1128","D5","France","Explicit","Income_Effect",0.000118374187077173
+"1129","D5","United Kingdom","Explicit","Income_Effect",0.000435651336451244
+"1130","D5","Indonesia","Explicit","Income_Effect",0.00368432016309396
+"1131","D5","India","Explicit","Income_Effect",0.00223982605932073
+"1132","D5","Ireland","Explicit","Income_Effect",0.000655602772108184
+"1133","D5","Italy","Explicit","Income_Effect",0.000160410620751264
+"1134","D5","Japan","Explicit","Income_Effect",8.93784774721957e-05
+"1135","D5","Luxembourg","Explicit","Income_Effect",0.000163160664751313
+"1136","D5","Mexico","Explicit","Income_Effect",0.000265503146745909
+"1137","D5","Russian Federation","Explicit","Income_Effect",0.0113592434217081
+"1138","D5","Turkiye","Explicit","Income_Effect",0.000329272036877253
+"1139","D5","United States","Explicit","Income_Effect",0.000122027447472357
+"1140","D5","South Africa","Explicit","Income_Effect",0.000326817162726379
+"1141","D5","Belgium","Implicit_prod","Income_Effect",0.000742987911754044
+"1142","D5","Brazil","Implicit_prod","Income_Effect",0.00429128469699509
+"1143","D5","China","Implicit_prod","Income_Effect",0.00732488200705253
+"1144","D5","Germany","Implicit_prod","Income_Effect",0.00116753089928507
+"1145","D5","Denmark","Implicit_prod","Income_Effect",0.000495897552802683
+"1146","D5","Spain","Implicit_prod","Income_Effect",0.00065568728635581
+"1147","D5","Finland","Implicit_prod","Income_Effect",0.000782627949577884
+"1148","D5","France","Implicit_prod","Income_Effect",0.00062138451653355
+"1149","D5","United Kingdom","Implicit_prod","Income_Effect",0.000996931207846195
+"1150","D5","Indonesia","Implicit_prod","Income_Effect",0.00806251066757177
+"1151","D5","India","Implicit_prod","Income_Effect",0.0145696786165649
+"1152","D5","Ireland","Implicit_prod","Income_Effect",0.0017430711299746
+"1153","D5","Italy","Implicit_prod","Income_Effect",0.00133411353739926
+"1154","D5","Japan","Implicit_prod","Income_Effect",0.00146207528757088
+"1155","D5","Luxembourg","Implicit_prod","Income_Effect",0.000701828404745563
+"1156","D5","Mexico","Implicit_prod","Income_Effect",0.00492964671397899
+"1157","D5","Russian Federation","Implicit_prod","Income_Effect",0.0214215213975962
+"1158","D5","Turkiye","Implicit_prod","Income_Effect",0.00547553096820476
+"1159","D5","United States","Implicit_prod","Income_Effect",0.00628939067817329
+"1160","D5","South Africa","Implicit_prod","Income_Effect",0.011120332648115
+"1161","D5","Belgium","Implicit_cons","Income_Effect",0.000141885890519585
+"1162","D5","Brazil","Implicit_cons","Income_Effect",0.00068021283878521
+"1163","D5","China","Implicit_cons","Income_Effect",0.000669094170362335
+"1164","D5","Germany","Implicit_cons","Income_Effect",0.000188034749371991
+"1165","D5","Denmark","Implicit_cons","Income_Effect",0.000111581672758093
+"1166","D5","Spain","Implicit_cons","Income_Effect",0.000115570399265929
+"1167","D5","Finland","Implicit_cons","Income_Effect",0.000140319673030327
+"1168","D5","France","Implicit_cons","Income_Effect",8.88594469913083e-05
+"1169","D5","United Kingdom","Implicit_cons","Income_Effect",0.000331752291863312
+"1170","D5","Indonesia","Implicit_cons","Income_Effect",0.000763780801175878
+"1171","D5","India","Implicit_cons","Income_Effect",0.000636991433487804
+"1172","D5","Ireland","Implicit_cons","Income_Effect",0.000290209588372929
+"1173","D5","Italy","Implicit_cons","Income_Effect",0.000183099410411099
+"1174","D5","Japan","Implicit_cons","Income_Effect",9.7136917299974e-05
+"1175","D5","Luxembourg","Implicit_cons","Income_Effect",0.000127609488476962
+"1176","D5","Mexico","Implicit_cons","Income_Effect",0.00166913156040139
+"1177","D5","Russian Federation","Implicit_cons","Income_Effect",0.00553512579929583
+"1178","D5","Turkiye","Implicit_cons","Income_Effect",0.000378861564358205
+"1179","D5","United States","Implicit_cons","Income_Effect",0.00052377540281142
+"1180","D5","South Africa","Implicit_cons","Income_Effect",0.00119146425169897
+"1181","D5","Belgium","Null","Income_Effect",NA
+"1182","D5","Brazil","Null","Income_Effect",NA
+"1183","D5","China","Null","Income_Effect",NA
+"1184","D5","Germany","Null","Income_Effect",NA
+"1185","D5","Denmark","Null","Income_Effect",NA
+"1186","D5","Spain","Null","Income_Effect",NA
+"1187","D5","Finland","Null","Income_Effect",NA
+"1188","D5","France","Null","Income_Effect",NA
+"1189","D5","United Kingdom","Null","Income_Effect",NA
+"1190","D5","Indonesia","Null","Income_Effect",NA
+"1191","D5","India","Null","Income_Effect",NA
+"1192","D5","Ireland","Null","Income_Effect",NA
+"1193","D5","Italy","Null","Income_Effect",NA
+"1194","D5","Japan","Null","Income_Effect",NA
+"1195","D5","Luxembourg","Null","Income_Effect",NA
+"1196","D5","Mexico","Null","Income_Effect",NA
+"1197","D5","Russian Federation","Null","Income_Effect",NA
+"1198","D5","Turkiye","Null","Income_Effect",NA
+"1199","D5","United States","Null","Income_Effect",NA
+"1200","D5","South Africa","Null","Income_Effect",NA
+"1201","D6","Belgium","Explicit","Income_Effect",0.000171743362122266
+"1202","D6","Brazil","Explicit","Income_Effect",9.11831402260854e-05
+"1203","D6","China","Explicit","Income_Effect",0.00093415238458778
+"1204","D6","Germany","Explicit","Income_Effect",0.000190327742949493
+"1205","D6","Denmark","Explicit","Income_Effect",0.000113969074394919
+"1206","D6","Spain","Explicit","Income_Effect",0.000143829698539724
+"1207","D6","Finland","Explicit","Income_Effect",0.000204956943119062
+"1208","D6","France","Explicit","Income_Effect",0.000118571781732046
+"1209","D6","United Kingdom","Explicit","Income_Effect",0.000432727118403737
+"1210","D6","Indonesia","Explicit","Income_Effect",0.00371198620230349
+"1211","D6","India","Explicit","Income_Effect",0.00235261153489602
+"1212","D6","Ireland","Explicit","Income_Effect",0.000655605641322389
+"1213","D6","Italy","Explicit","Income_Effect",0.000160330917135777
+"1214","D6","Japan","Explicit","Income_Effect",9.12437795310166e-05
+"1215","D6","Luxembourg","Explicit","Income_Effect",0.00016318937507618
+"1216","D6","Mexico","Explicit","Income_Effect",0.000264785450044743
+"1217","D6","Russian Federation","Explicit","Income_Effect",0.011341184473753
+"1218","D6","Turkiye","Explicit","Income_Effect",0.000362890489149604
+"1219","D6","United States","Explicit","Income_Effect",0.000133825466169345
+"1220","D6","South Africa","Explicit","Income_Effect",0.000337319032244462
+"1221","D6","Belgium","Implicit_prod","Income_Effect",0.000753254050360221
+"1222","D6","Brazil","Implicit_prod","Income_Effect",0.00245518873049295
+"1223","D6","China","Implicit_prod","Income_Effect",0.00790071918475775
+"1224","D6","Germany","Implicit_prod","Income_Effect",0.0011585976130007
+"1225","D6","Denmark","Implicit_prod","Income_Effect",0.000495896553343255
+"1226","D6","Spain","Implicit_prod","Income_Effect",0.000655653038659049
+"1227","D6","Finland","Implicit_prod","Income_Effect",0.000786557699335782
+"1228","D6","France","Implicit_prod","Income_Effect",0.000622177956950801
+"1229","D6","United Kingdom","Implicit_prod","Income_Effect",0.000994470665330005
+"1230","D6","Indonesia","Implicit_prod","Income_Effect",0.00810693327291483
+"1231","D6","India","Implicit_prod","Income_Effect",0.015339635437699
+"1232","D6","Ireland","Implicit_prod","Income_Effect",0.00174307800344889
+"1233","D6","Italy","Implicit_prod","Income_Effect",0.00133206910544444
+"1234","D6","Japan","Implicit_prod","Income_Effect",0.00148469429282826
+"1235","D6","Luxembourg","Implicit_prod","Income_Effect",0.000701943818446228
+"1236","D6","Mexico","Implicit_prod","Income_Effect",0.0049165464692824
+"1237","D6","Russian Federation","Implicit_prod","Income_Effect",0.0213591567548393
+"1238","D6","Turkiye","Implicit_prod","Income_Effect",0.0058695693578811
+"1239","D6","United States","Implicit_prod","Income_Effect",0.00683333949313019
+"1240","D6","South Africa","Implicit_prod","Income_Effect",0.0118875734187858
+"1241","D6","Belgium","Implicit_cons","Income_Effect",0.000150909590231548
+"1242","D6","Brazil","Implicit_cons","Income_Effect",0.000380243349333242
+"1243","D6","China","Implicit_cons","Income_Effect",0.000734348051815437
+"1244","D6","Germany","Implicit_cons","Income_Effect",0.000186193039223088
+"1245","D6","Denmark","Implicit_cons","Income_Effect",0.00011158132870495
+"1246","D6","Spain","Implicit_cons","Income_Effect",0.000115631595615396
+"1247","D6","Finland","Implicit_cons","Income_Effect",0.000141463003727512
+"1248","D6","France","Implicit_cons","Income_Effect",8.91798456165679e-05
+"1249","D6","United Kingdom","Implicit_cons","Income_Effect",0.000328024558947907
+"1250","D6","Indonesia","Implicit_cons","Income_Effect",0.00078333633595847
+"1251","D6","India","Implicit_cons","Income_Effect",0.000685231785306327
+"1252","D6","Ireland","Implicit_cons","Income_Effect",0.00029020810679262
+"1253","D6","Italy","Implicit_cons","Income_Effect",0.000182350685893016
+"1254","D6","Japan","Implicit_cons","Income_Effect",9.97326800682377e-05
+"1255","D6","Luxembourg","Implicit_cons","Income_Effect",0.000127629065091244
+"1256","D6","Mexico","Implicit_cons","Income_Effect",0.00166091855848328
+"1257","D6","Russian Federation","Implicit_cons","Income_Effect",0.00546728559844988
+"1258","D6","Turkiye","Implicit_cons","Income_Effect",0.000444055286189505
+"1259","D6","United States","Implicit_cons","Income_Effect",0.000583214583422523
+"1260","D6","South Africa","Implicit_cons","Income_Effect",0.00118716420659844
+"1261","D6","Belgium","Null","Income_Effect",NA
+"1262","D6","Brazil","Null","Income_Effect",NA
+"1263","D6","China","Null","Income_Effect",NA
+"1264","D6","Germany","Null","Income_Effect",NA
+"1265","D6","Denmark","Null","Income_Effect",NA
+"1266","D6","Spain","Null","Income_Effect",NA
+"1267","D6","Finland","Null","Income_Effect",NA
+"1268","D6","France","Null","Income_Effect",NA
+"1269","D6","United Kingdom","Null","Income_Effect",NA
+"1270","D6","Indonesia","Null","Income_Effect",NA
+"1271","D6","India","Null","Income_Effect",NA
+"1272","D6","Ireland","Null","Income_Effect",NA
+"1273","D6","Italy","Null","Income_Effect",NA
+"1274","D6","Japan","Null","Income_Effect",NA
+"1275","D6","Luxembourg","Null","Income_Effect",NA
+"1276","D6","Mexico","Null","Income_Effect",NA
+"1277","D6","Russian Federation","Null","Income_Effect",NA
+"1278","D6","Turkiye","Null","Income_Effect",NA
+"1279","D6","United States","Null","Income_Effect",NA
+"1280","D6","South Africa","Null","Income_Effect",NA
+"1281","D7","Belgium","Explicit","Income_Effect",0.000172741176356254
+"1282","D7","Brazil","Explicit","Income_Effect",0.000153543812805826
+"1283","D7","China","Explicit","Income_Effect",0.000950417716855348
+"1284","D7","Germany","Explicit","Income_Effect",0.000190284427937093
+"1285","D7","Denmark","Explicit","Income_Effect",0.000113968972301673
+"1286","D7","Spain","Explicit","Income_Effect",0.00014383201355078
+"1287","D7","Finland","Explicit","Income_Effect",0.000205391369811842
+"1288","D7","France","Explicit","Income_Effect",0.000118584793641366
+"1289","D7","United Kingdom","Explicit","Income_Effect",0.00043505551186596
+"1290","D7","Indonesia","Explicit","Income_Effect",0.00391533305112174
+"1291","D7","India","Explicit","Income_Effect",0.00245324193459166
+"1292","D7","Ireland","Explicit","Income_Effect",0.000655610722485727
+"1293","D7","Italy","Explicit","Income_Effect",0.000160956661425886
+"1294","D7","Japan","Explicit","Income_Effect",9.17907416373077e-05
+"1295","D7","Luxembourg","Explicit","Income_Effect",0.000174056393588431
+"1296","D7","Mexico","Explicit","Income_Effect",0.000293184442598307
+"1297","D7","Russian Federation","Explicit","Income_Effect",0.0113857335461918
+"1298","D7","Turkiye","Explicit","Income_Effect",0.000350914972853186
+"1299","D7","United States","Explicit","Income_Effect",0.000150562258410321
+"1300","D7","South Africa","Explicit","Income_Effect",0.0002880435135016
+"1301","D7","Belgium","Implicit_prod","Income_Effect",0.000757247454763781
+"1302","D7","Brazil","Implicit_prod","Income_Effect",0.0040684256644076
+"1303","D7","China","Implicit_prod","Income_Effect",0.00800638868176227
+"1304","D7","Germany","Implicit_prod","Income_Effect",0.00115833089280288
+"1305","D7","Denmark","Implicit_prod","Income_Effect",0.000495896083674797
+"1306","D7","Spain","Implicit_prod","Income_Effect",0.000655650181990051
+"1307","D7","Finland","Implicit_prod","Income_Effect",0.000788323800251421
+"1308","D7","France","Implicit_prod","Income_Effect",0.000622036635424502
+"1309","D7","United Kingdom","Implicit_prod","Income_Effect",0.00099511018884671
+"1310","D7","Indonesia","Implicit_prod","Income_Effect",0.00850142842821109
+"1311","D7","India","Implicit_prod","Income_Effect",0.0160429919235641
+"1312","D7","Ireland","Implicit_prod","Income_Effect",0.0017430924474108
+"1313","D7","Italy","Implicit_prod","Income_Effect",0.00134811980145229
+"1314","D7","Japan","Implicit_prod","Income_Effect",0.00149111601732973
+"1315","D7","Luxembourg","Implicit_prod","Income_Effect",0.000745734508408019
+"1316","D7","Mexico","Implicit_prod","Income_Effect",0.00543492049811774
+"1317","D7","Russian Federation","Implicit_prod","Income_Effect",0.0215129940339309
+"1318","D7","Turkiye","Implicit_prod","Income_Effect",0.00571834995650776
+"1319","D7","United States","Implicit_prod","Income_Effect",0.00749966443603487
+"1320","D7","South Africa","Implicit_prod","Income_Effect",0.0105884327911726
+"1321","D7","Belgium","Implicit_cons","Income_Effect",0.000156083479544347
+"1322","D7","Brazil","Implicit_cons","Income_Effect",0.000662146185532429
+"1323","D7","China","Implicit_cons","Income_Effect",0.000762319633341048
+"1324","D7","Germany","Implicit_cons","Income_Effect",0.000186138071944256
+"1325","D7","Denmark","Implicit_cons","Income_Effect",0.000111581205478049
+"1326","D7","Spain","Implicit_cons","Income_Effect",0.000115636718913833
+"1327","D7","Finland","Implicit_cons","Income_Effect",0.000142089346370756
+"1328","D7","France","Implicit_cons","Income_Effect",8.93398930087465e-05
+"1329","D7","United Kingdom","Implicit_cons","Income_Effect",0.000330838849579665
+"1330","D7","Indonesia","Implicit_cons","Income_Effect",0.000861267707001772
+"1331","D7","India","Implicit_cons","Income_Effect",0.000735565703231648
+"1332","D7","Ireland","Implicit_cons","Income_Effect",0.000290206166840073
+"1333","D7","Italy","Implicit_cons","Income_Effect",0.000188228870246285
+"1334","D7","Japan","Implicit_cons","Income_Effect",0.000100374830152372
+"1335","D7","Luxembourg","Implicit_cons","Income_Effect",0.00013554533688145
+"1336","D7","Mexico","Implicit_cons","Income_Effect",0.00198590660159425
+"1337","D7","Russian Federation","Implicit_cons","Income_Effect",0.00563462338125603
+"1338","D7","Turkiye","Implicit_cons","Income_Effect",0.000419928852758905
+"1339","D7","United States","Implicit_cons","Income_Effect",0.00067943603994211
+"1340","D7","South Africa","Implicit_cons","Income_Effect",0.000968300683659358
+"1341","D7","Belgium","Null","Income_Effect",NA
+"1342","D7","Brazil","Null","Income_Effect",NA
+"1343","D7","China","Null","Income_Effect",NA
+"1344","D7","Germany","Null","Income_Effect",NA
+"1345","D7","Denmark","Null","Income_Effect",NA
+"1346","D7","Spain","Null","Income_Effect",NA
+"1347","D7","Finland","Null","Income_Effect",NA
+"1348","D7","France","Null","Income_Effect",NA
+"1349","D7","United Kingdom","Null","Income_Effect",NA
+"1350","D7","Indonesia","Null","Income_Effect",NA
+"1351","D7","India","Null","Income_Effect",NA
+"1352","D7","Ireland","Null","Income_Effect",NA
+"1353","D7","Italy","Null","Income_Effect",NA
+"1354","D7","Japan","Null","Income_Effect",NA
+"1355","D7","Luxembourg","Null","Income_Effect",NA
+"1356","D7","Mexico","Null","Income_Effect",NA
+"1357","D7","Russian Federation","Null","Income_Effect",NA
+"1358","D7","Turkiye","Null","Income_Effect",NA
+"1359","D7","United States","Null","Income_Effect",NA
+"1360","D7","South Africa","Null","Income_Effect",NA
+"1361","D8","Belgium","Explicit","Income_Effect",0.000172409358154032
+"1362","D8","Brazil","Explicit","Income_Effect",0.000159723617930815
+"1363","D8","China","Explicit","Income_Effect",0.000954101406269116
+"1364","D8","Germany","Explicit","Income_Effect",0.000189157326149436
+"1365","D8","Denmark","Explicit","Income_Effect",0.000113968881926574
+"1366","D8","Spain","Explicit","Income_Effect",0.000143921407992645
+"1367","D8","Finland","Explicit","Income_Effect",0.000203779954614624
+"1368","D8","France","Explicit","Income_Effect",0.000119295746220673
+"1369","D8","United Kingdom","Explicit","Income_Effect",0.000437490753363508
+"1370","D8","Indonesia","Explicit","Income_Effect",0.00304898212454095
+"1371","D8","India","Explicit","Income_Effect",0.00263545051176582
+"1372","D8","Ireland","Explicit","Income_Effect",0.000655611116728753
+"1373","D8","Italy","Explicit","Income_Effect",0.000161219482174576
+"1374","D8","Japan","Explicit","Income_Effect",9.10565622662649e-05
+"1375","D8","Luxembourg","Explicit","Income_Effect",0.000178748841188094
+"1376","D8","Mexico","Explicit","Income_Effect",0.000294735046446958
+"1377","D8","Russian Federation","Explicit","Income_Effect",0.0114132907081013
+"1378","D8","Turkiye","Explicit","Income_Effect",0.000356431770095938
+"1379","D8","United States","Explicit","Income_Effect",0.000161636308753354
+"1380","D8","South Africa","Explicit","Income_Effect",0.000334515469854408
+"1381","D8","Belgium","Implicit_prod","Income_Effect",0.000756174612600464
+"1382","D8","Brazil","Implicit_prod","Income_Effect",0.00418516400584873
+"1383","D8","China","Implicit_prod","Income_Effect",0.00800708956925739
+"1384","D8","Germany","Implicit_prod","Income_Effect",0.00115139150969346
+"1385","D8","Denmark","Implicit_prod","Income_Effect",0.00049589566191558
+"1386","D8","Spain","Implicit_prod","Income_Effect",0.000655540040893803
+"1387","D8","Finland","Implicit_prod","Income_Effect",0.000782091797083951
+"1388","D8","France","Implicit_prod","Income_Effect",0.000625404553063358
+"1389","D8","United Kingdom","Implicit_prod","Income_Effect",0.000995828524433481
+"1390","D8","Indonesia","Implicit_prod","Income_Effect",0.00668985598258644
+"1391","D8","India","Implicit_prod","Income_Effect",0.0174173449567723
+"1392","D8","Ireland","Implicit_prod","Income_Effect",0.00174309320428466
+"1393","D8","Italy","Implicit_prod","Income_Effect",0.0013548613012712
+"1394","D8","Japan","Implicit_prod","Income_Effect",0.00148167435203627
+"1395","D8","Luxembourg","Implicit_prod","Income_Effect",0.000764643958075427
+"1396","D8","Mexico","Implicit_prod","Income_Effect",0.00546322407712679
+"1397","D8","Russian Federation","Implicit_prod","Income_Effect",0.0216081551152053
+"1398","D8","Turkiye","Implicit_prod","Income_Effect",0.00576099260409066
+"1399","D8","United States","Implicit_prod","Income_Effect",0.00791473944093712
+"1400","D8","South Africa","Implicit_prod","Income_Effect",0.0121481890365371
+"1401","D8","Belgium","Implicit_cons","Income_Effect",0.000157878360041254
+"1402","D8","Brazil","Implicit_cons","Income_Effect",0.00070438737273192
+"1403","D8","China","Implicit_cons","Income_Effect",0.00077967403247542
+"1404","D8","Germany","Implicit_cons","Income_Effect",0.00018470742844139
+"1405","D8","Denmark","Implicit_cons","Income_Effect",0.000111581063919607
+"1406","D8","Spain","Implicit_cons","Income_Effect",0.000115833502966615
+"1407","D8","Finland","Implicit_cons","Income_Effect",0.000140630382581541
+"1408","D8","France","Implicit_cons","Income_Effect",9.01243926180286e-05
+"1409","D8","United Kingdom","Implicit_cons","Income_Effect",0.000333788054157629
+"1410","D8","Indonesia","Implicit_cons","Income_Effect",0.000632283987516197
+"1411","D8","India","Implicit_cons","Income_Effect",0.000871585560088055
+"1412","D8","Ireland","Implicit_cons","Income_Effect",0.000290205906798477
+"1413","D8","Italy","Implicit_cons","Income_Effect",0.00019069778367918
+"1414","D8","Japan","Implicit_cons","Income_Effect",9.90489907001676e-05
+"1415","D8","Luxembourg","Implicit_cons","Income_Effect",0.000138965314054277
+"1416","D8","Mexico","Implicit_cons","Income_Effect",0.00200365117972684
+"1417","D8","Russian Federation","Implicit_cons","Income_Effect",0.00573813596950079
+"1418","D8","Turkiye","Implicit_cons","Income_Effect",0.000428795099299687
+"1419","D8","United States","Implicit_cons","Income_Effect",0.000746328091367254
+"1420","D8","South Africa","Implicit_cons","Income_Effect",0.00113995615714683
+"1421","D8","Belgium","Null","Income_Effect",NA
+"1422","D8","Brazil","Null","Income_Effect",NA
+"1423","D8","China","Null","Income_Effect",NA
+"1424","D8","Germany","Null","Income_Effect",NA
+"1425","D8","Denmark","Null","Income_Effect",NA
+"1426","D8","Spain","Null","Income_Effect",NA
+"1427","D8","Finland","Null","Income_Effect",NA
+"1428","D8","France","Null","Income_Effect",NA
+"1429","D8","United Kingdom","Null","Income_Effect",NA
+"1430","D8","Indonesia","Null","Income_Effect",NA
+"1431","D8","India","Null","Income_Effect",NA
+"1432","D8","Ireland","Null","Income_Effect",NA
+"1433","D8","Italy","Null","Income_Effect",NA
+"1434","D8","Japan","Null","Income_Effect",NA
+"1435","D8","Luxembourg","Null","Income_Effect",NA
+"1436","D8","Mexico","Null","Income_Effect",NA
+"1437","D8","Russian Federation","Null","Income_Effect",NA
+"1438","D8","Turkiye","Null","Income_Effect",NA
+"1439","D8","United States","Null","Income_Effect",NA
+"1440","D8","South Africa","Null","Income_Effect",NA
+"1441","D9","Belgium","Explicit","Income_Effect",0.000171375419202996
+"1442","D9","Brazil","Explicit","Income_Effect",0.000157347985614164
+"1443","D9","China","Explicit","Income_Effect",0.000904608549165993
+"1444","D9","Germany","Explicit","Income_Effect",0.000194634796364999
+"1445","D9","Denmark","Explicit","Income_Effect",0.000113968854538353
+"1446","D9","Spain","Explicit","Income_Effect",0.000144124899592733
+"1447","D9","Finland","Explicit","Income_Effect",0.000203811935583124
+"1448","D9","France","Explicit","Income_Effect",0.000120316925288309
+"1449","D9","United Kingdom","Explicit","Income_Effect",0.000439915158534624
+"1450","D9","Indonesia","Explicit","Income_Effect",0.00427323964445011
+"1451","D9","India","Explicit","Income_Effect",0.00261815530661911
+"1452","D9","Ireland","Explicit","Income_Effect",0.000655612364754081
+"1453","D9","Italy","Explicit","Income_Effect",0.000160869389555971
+"1454","D9","Japan","Explicit","Income_Effect",9.10346938031458e-05
+"1455","D9","Luxembourg","Explicit","Income_Effect",0.000177001931702532
+"1456","D9","Mexico","Explicit","Income_Effect",0.000300598966207122
+"1457","D9","Russian Federation","Explicit","Income_Effect",0.0114440381456908
+"1458","D9","Turkiye","Explicit","Income_Effect",0.000369826831057204
+"1459","D9","United States","Explicit","Income_Effect",0.000180438359817565
+"1460","D9","South Africa","Explicit","Income_Effect",0.000434774992557086
+"1461","D9","Belgium","Implicit_prod","Income_Effect",0.000752500097161364
+"1462","D9","Brazil","Implicit_prod","Income_Effect",0.00407102990871666
+"1463","D9","China","Implicit_prod","Income_Effect",0.00756645768074425
+"1464","D9","Germany","Implicit_prod","Income_Effect",0.00118511522241137
+"1465","D9","Denmark","Implicit_prod","Income_Effect",0.00049589554681625
+"1466","D9","Spain","Implicit_prod","Income_Effect",0.000655289323354341
+"1467","D9","Finland","Implicit_prod","Income_Effect",0.00078224928507847
+"1468","D9","France","Implicit_prod","Income_Effect",0.000630238686798245
+"1469","D9","United Kingdom","Implicit_prod","Income_Effect",0.000996756297504616
+"1470","D9","Indonesia","Implicit_prod","Income_Effect",0.0091761947245143
+"1471","D9","India","Implicit_prod","Income_Effect",0.0173821363574652
+"1472","D9","Ireland","Implicit_prod","Income_Effect",0.0017430970891792
+"1473","D9","Italy","Implicit_prod","Income_Effect",0.00134588146542835
+"1474","D9","Japan","Implicit_prod","Income_Effect",0.00148069092259179
+"1475","D9","Luxembourg","Implicit_prod","Income_Effect",0.000757604548884991
+"1476","D9","Mexico","Implicit_prod","Income_Effect",0.00557025967673126
+"1477","D9","Russian Federation","Implicit_prod","Income_Effect",0.0217143332440783
+"1478","D9","Turkiye","Implicit_prod","Income_Effect",0.00595184418875245
+"1479","D9","United States","Implicit_prod","Income_Effect",0.00857096789004463
+"1480","D9","South Africa","Implicit_prod","Income_Effect",0.0150542526043482
+"1481","D9","Belgium","Implicit_cons","Income_Effect",0.000158902870426855
+"1482","D9","Brazil","Implicit_cons","Income_Effect",0.000711120389727556
+"1483","D9","China","Implicit_cons","Income_Effect",0.000751211827512365
+"1484","D9","Germany","Implicit_cons","Income_Effect",0.000191660110632742
+"1485","D9","Denmark","Implicit_cons","Income_Effect",0.000111581089855075
+"1486","D9","Spain","Implicit_cons","Income_Effect",0.000116281446861177
+"1487","D9","Finland","Implicit_cons","Income_Effect",0.00014075093623073
+"1488","D9","France","Implicit_cons","Income_Effect",9.12536415963822e-05
+"1489","D9","United Kingdom","Implicit_cons","Income_Effect",0.000336748932325665
+"1490","D9","Indonesia","Implicit_cons","Income_Effect",0.00100957405702135
+"1491","D9","India","Implicit_cons","Income_Effect",0.000901080377724969
+"1492","D9","Ireland","Implicit_cons","Income_Effect",0.000290205531818906
+"1493","D9","Italy","Implicit_cons","Income_Effect",0.00018740913080769
+"1494","D9","Japan","Implicit_cons","Income_Effect",9.86131586892403e-05
+"1495","D9","Luxembourg","Implicit_cons","Income_Effect",0.000137693178697332
+"1496","D9","Mexico","Implicit_cons","Income_Effect",0.00207075578549281
+"1497","D9","Russian Federation","Implicit_cons","Income_Effect",0.00585363271723827
+"1498","D9","Turkiye","Implicit_cons","Income_Effect",0.000457587506385174
+"1499","D9","United States","Implicit_cons","Income_Effect",0.0008652645649162
+"1500","D9","South Africa","Implicit_cons","Income_Effect",0.00155797478580753
+"1501","D9","Belgium","Null","Income_Effect",NA
+"1502","D9","Brazil","Null","Income_Effect",NA
+"1503","D9","China","Null","Income_Effect",NA
+"1504","D9","Germany","Null","Income_Effect",NA
+"1505","D9","Denmark","Null","Income_Effect",NA
+"1506","D9","Spain","Null","Income_Effect",NA
+"1507","D9","Finland","Null","Income_Effect",NA
+"1508","D9","France","Null","Income_Effect",NA
+"1509","D9","United Kingdom","Null","Income_Effect",NA
+"1510","D9","Indonesia","Null","Income_Effect",NA
+"1511","D9","India","Null","Income_Effect",NA
+"1512","D9","Ireland","Null","Income_Effect",NA
+"1513","D9","Italy","Null","Income_Effect",NA
+"1514","D9","Japan","Null","Income_Effect",NA
+"1515","D9","Luxembourg","Null","Income_Effect",NA
+"1516","D9","Mexico","Null","Income_Effect",NA
+"1517","D9","Russian Federation","Null","Income_Effect",NA
+"1518","D9","Turkiye","Null","Income_Effect",NA
+"1519","D9","United States","Null","Income_Effect",NA
+"1520","D9","South Africa","Null","Income_Effect",NA
+"1521","D10","Belgium","Explicit","Income_Effect",0.000178282468483224
+"1522","D10","Brazil","Explicit","Income_Effect",0.000238186232049738
+"1523","D10","China","Explicit","Income_Effect",0.000780818464300585
+"1524","D10","Germany","Explicit","Income_Effect",0.000207901234062809
+"1525","D10","Denmark","Explicit","Income_Effect",0.000113969173116164
+"1526","D10","Spain","Explicit","Income_Effect",0.000144704938857551
+"1527","D10","Finland","Explicit","Income_Effect",0.000223099113975819
+"1528","D10","France","Explicit","Income_Effect",0.000122701645847505
+"1529","D10","United Kingdom","Explicit","Income_Effect",0.000451278467452572
+"1530","D10","Indonesia","Explicit","Income_Effect",0.00656833335027543
+"1531","D10","India","Explicit","Income_Effect",0.0029334412250156
+"1532","D10","Ireland","Explicit","Income_Effect",0.000655614005034883
+"1533","D10","Italy","Explicit","Income_Effect",0.000161623290543183
+"1534","D10","Japan","Explicit","Income_Effect",9.32374806648528e-05
+"1535","D10","Luxembourg","Explicit","Income_Effect",0.000190159124496235
+"1536","D10","Mexico","Explicit","Income_Effect",0.000330328187963774
+"1537","D10","Russian Federation","Explicit","Income_Effect",0.0115234546813059
+"1538","D10","Turkiye","Explicit","Income_Effect",0.000359167179827399
+"1539","D10","United States","Explicit","Income_Effect",0.000233367492395314
+"1540","D10","South Africa","Explicit","Income_Effect",0.000532993173316906
+"1541","D10","Belgium","Implicit_prod","Income_Effect",0.000778241214618738
+"1542","D10","Brazil","Implicit_prod","Income_Effect",0.00592016693502837
+"1543","D10","China","Implicit_prod","Income_Effect",0.00652468788730227
+"1544","D10","Germany","Implicit_prod","Income_Effect",0.00126679411674267
+"1545","D10","Denmark","Implicit_prod","Income_Effect",0.000495897231163553
+"1546","D10","Spain","Implicit_prod","Income_Effect",0.000654574671782121
+"1547","D10","Finland","Implicit_prod","Income_Effect",0.000857257746988233
+"1548","D10","France","Implicit_prod","Income_Effect",0.000641530108524598
+"1549","D10","United Kingdom","Implicit_prod","Income_Effect",0.00100262838414397
+"1550","D10","Indonesia","Implicit_prod","Income_Effect",0.0138451117749881
+"1551","D10","India","Implicit_prod","Income_Effect",0.0198885160922817
+"1552","D10","Ireland","Implicit_prod","Income_Effect",0.00174310215795358
+"1553","D10","Italy","Implicit_prod","Income_Effect",0.00136521943096326
+"1554","D10","Japan","Implicit_prod","Income_Effect",0.00150796248633654
+"1555","D10","Luxembourg","Implicit_prod","Income_Effect",0.000810623754491699
+"1556","D10","Mexico","Implicit_prod","Income_Effect",0.00611291478314203
+"1557","D10","Russian Federation","Implicit_prod","Income_Effect",0.0219885780794862
+"1558","D10","Turkiye","Implicit_prod","Income_Effect",0.00571611096092338
+"1559","D10","United States","Implicit_prod","Income_Effect",0.0104759748813058
+"1560","D10","South Africa","Implicit_prod","Income_Effect",0.018366803212997
+"1561","D10","Belgium","Implicit_cons","Income_Effect",0.000168512113942196
+"1562","D10","Brazil","Implicit_cons","Income_Effect",0.00115685195543602
+"1563","D10","China","Implicit_cons","Income_Effect",0.000651790397149819
+"1564","D10","Germany","Implicit_cons","Income_Effect",0.00020849950159521
+"1565","D10","Denmark","Implicit_cons","Income_Effect",0.000111582658709521
+"1566","D10","Spain","Implicit_cons","Income_Effect",0.000117558268143745
+"1567","D10","Finland","Implicit_cons","Income_Effect",0.000159343431959675
+"1568","D10","France","Implicit_cons","Income_Effect",9.38889725714122e-05
+"1569","D10","United Kingdom","Implicit_cons","Income_Effect",0.000350804392581455
+"1570","D10","Indonesia","Implicit_cons","Income_Effect",0.00171161948466321
+"1571","D10","India","Implicit_cons","Income_Effect",0.00119354766336271
+"1572","D10","Ireland","Implicit_cons","Income_Effect",0.0002902050278008
+"1573","D10","Italy","Implicit_cons","Income_Effect",0.000194491199389392
+"1574","D10","Japan","Implicit_cons","Income_Effect",0.000101994733658659
+"1575","D10","Luxembourg","Implicit_cons","Income_Effect",0.000147276949718845
+"1576","D10","Mexico","Implicit_cons","Income_Effect",0.00241096657972748
+"1577","D10","Russian Federation","Implicit_cons","Income_Effect",0.00615194704914999
+"1578","D10","Turkiye","Implicit_cons","Income_Effect",0.000427697772858341
+"1579","D10","United States","Implicit_cons","Income_Effect",0.00119319264819594
+"1580","D10","South Africa","Implicit_cons","Income_Effect",0.00191910338082701
+"1581","D10","Belgium","Null","Income_Effect",NA
+"1582","D10","Brazil","Null","Income_Effect",NA
+"1583","D10","China","Null","Income_Effect",NA
+"1584","D10","Germany","Null","Income_Effect",NA
+"1585","D10","Denmark","Null","Income_Effect",NA
+"1586","D10","Spain","Null","Income_Effect",NA
+"1587","D10","Finland","Null","Income_Effect",NA
+"1588","D10","France","Null","Income_Effect",NA
+"1589","D10","United Kingdom","Null","Income_Effect",NA
+"1590","D10","Indonesia","Null","Income_Effect",NA
+"1591","D10","India","Null","Income_Effect",NA
+"1592","D10","Ireland","Null","Income_Effect",NA
+"1593","D10","Italy","Null","Income_Effect",NA
+"1594","D10","Japan","Null","Income_Effect",NA
+"1595","D10","Luxembourg","Null","Income_Effect",NA
+"1596","D10","Mexico","Null","Income_Effect",NA
+"1597","D10","Russian Federation","Null","Income_Effect",NA
+"1598","D10","Turkiye","Null","Income_Effect",NA
+"1599","D10","United States","Null","Income_Effect",NA
+"1600","D10","South Africa","Null","Income_Effect",NA
+"1601","D1","Belgium","Explicit","Price_Effect",0
+"1602","D1","Brazil","Explicit","Price_Effect",0.000195972336045808
+"1603","D1","China","Explicit","Price_Effect",0.00110710916479641
+"1604","D1","Germany","Explicit","Price_Effect",0
+"1605","D1","Denmark","Explicit","Price_Effect",0
+"1606","D1","Spain","Explicit","Price_Effect",0
+"1607","D1","Finland","Explicit","Price_Effect",0
+"1608","D1","France","Explicit","Price_Effect",0
+"1609","D1","United Kingdom","Explicit","Price_Effect",0.00420828429416204
+"1610","D1","Indonesia","Explicit","Price_Effect",0.033590361800503
+"1611","D1","India","Explicit","Price_Effect",0.00393056428603215
+"1612","D1","Ireland","Explicit","Price_Effect",0.00236807192518317
+"1613","D1","Italy","Explicit","Price_Effect",0
+"1614","D1","Japan","Explicit","Price_Effect",0.000139120025859638
+"1615","D1","Luxembourg","Explicit","Price_Effect",0.000424448318057579
+"1616","D1","Mexico","Explicit","Price_Effect",0.00123336720638275
+"1617","D1","Russian Federation","Explicit","Price_Effect",0.0190532182674994
+"1618","D1","Turkiye","Explicit","Price_Effect",0.00151906741052758
+"1619","D1","United States","Explicit","Price_Effect",0.000339779798156193
+"1620","D1","South Africa","Explicit","Price_Effect",0
+"1621","D1","Belgium","Implicit_prod","Price_Effect",0.000248099928647684
+"1622","D1","Brazil","Implicit_prod","Price_Effect",0.0397998545369712
+"1623","D1","China","Implicit_prod","Price_Effect",0.00798857578777613
+"1624","D1","Germany","Implicit_prod","Price_Effect",0.00125485595318047
+"1625","D1","Denmark","Implicit_prod","Price_Effect",0.000177999099978485
+"1626","D1","Spain","Implicit_prod","Price_Effect",0.000448506383422112
+"1627","D1","Finland","Implicit_prod","Price_Effect",0.000150896633837406
+"1628","D1","France","Implicit_prod","Price_Effect",0.00049744000285646
+"1629","D1","United Kingdom","Implicit_prod","Price_Effect",0.00163940870697394
+"1630","D1","Indonesia","Implicit_prod","Price_Effect",0.0223393770112645
+"1631","D1","India","Implicit_prod","Price_Effect",0.0483675638083632
+"1632","D1","Ireland","Implicit_prod","Price_Effect",0.000748605918147225
+"1633","D1","Italy","Implicit_prod","Price_Effect",0.00183496465487276
+"1634","D1","Japan","Implicit_prod","Price_Effect",0.0027674219870604
+"1635","D1","Luxembourg","Implicit_prod","Price_Effect",8.63491798793989e-06
+"1636","D1","Mexico","Implicit_prod","Price_Effect",0.0212475807274829
+"1637","D1","Russian Federation","Implicit_prod","Price_Effect",0.0297983146857098
+"1638","D1","Turkiye","Implicit_prod","Price_Effect",0.0089688996537212
+"1639","D1","United States","Implicit_prod","Price_Effect",0.0164827735323714
+"1640","D1","South Africa","Implicit_prod","Price_Effect",0.0555532961915047
+"1641","D1","Belgium","Implicit_cons","Price_Effect",0.000447952932200232
+"1642","D1","Brazil","Implicit_cons","Price_Effect",0.0306514792904501
+"1643","D1","China","Implicit_cons","Price_Effect",0.00715284512119217
+"1644","D1","Germany","Implicit_cons","Price_Effect",0.000799474681809206
+"1645","D1","Denmark","Implicit_cons","Price_Effect",0.000120541514564509
+"1646","D1","Spain","Implicit_cons","Price_Effect",0.000284091042162319
+"1647","D1","Finland","Implicit_cons","Price_Effect",7.03066991487967e-05
+"1648","D1","France","Implicit_cons","Price_Effect",0.000355525968017866
+"1649","D1","United Kingdom","Implicit_cons","Price_Effect",0.0019990290173426
+"1650","D1","Indonesia","Implicit_cons","Price_Effect",0.016842050880645
+"1651","D1","India","Implicit_cons","Price_Effect",0.0236038436841024
+"1652","D1","Ireland","Implicit_cons","Price_Effect",0.00222273531918895
+"1653","D1","Italy","Implicit_cons","Price_Effect",0.000667022557223801
+"1654","D1","Japan","Implicit_cons","Price_Effect",0.0015527489417568
+"1655","D1","Luxembourg","Implicit_cons","Price_Effect",0.00203402915730455
+"1656","D1","Mexico","Implicit_cons","Price_Effect",0.0137109264674792
+"1657","D1","Russian Federation","Implicit_cons","Price_Effect",0.00937640151514752
+"1658","D1","Turkiye","Implicit_cons","Price_Effect",0.00974453613897417
+"1659","D1","United States","Implicit_cons","Price_Effect",0.00348581376536189
+"1660","D1","South Africa","Implicit_cons","Price_Effect",0.036530127845215
+"1661","D1","Belgium","Null","Price_Effect",NA
+"1662","D1","Brazil","Null","Price_Effect",NA
+"1663","D1","China","Null","Price_Effect",NA
+"1664","D1","Germany","Null","Price_Effect",NA
+"1665","D1","Denmark","Null","Price_Effect",NA
+"1666","D1","Spain","Null","Price_Effect",NA
+"1667","D1","Finland","Null","Price_Effect",NA
+"1668","D1","France","Null","Price_Effect",NA
+"1669","D1","United Kingdom","Null","Price_Effect",NA
+"1670","D1","Indonesia","Null","Price_Effect",NA
+"1671","D1","India","Null","Price_Effect",NA
+"1672","D1","Ireland","Null","Price_Effect",NA
+"1673","D1","Italy","Null","Price_Effect",NA
+"1674","D1","Japan","Null","Price_Effect",NA
+"1675","D1","Luxembourg","Null","Price_Effect",NA
+"1676","D1","Mexico","Null","Price_Effect",NA
+"1677","D1","Russian Federation","Null","Price_Effect",NA
+"1678","D1","Turkiye","Null","Price_Effect",NA
+"1679","D1","United States","Null","Price_Effect",NA
+"1680","D1","South Africa","Null","Price_Effect",NA
+"1681","D2","Belgium","Explicit","Price_Effect",0
+"1682","D2","Brazil","Explicit","Price_Effect",0.000181447721643115
+"1683","D2","China","Explicit","Price_Effect",0.0012145865827192
+"1684","D2","Germany","Explicit","Price_Effect",0
+"1685","D2","Denmark","Explicit","Price_Effect",0
+"1686","D2","Spain","Explicit","Price_Effect",0
+"1687","D2","Finland","Explicit","Price_Effect",0
+"1688","D2","France","Explicit","Price_Effect",0
+"1689","D2","United Kingdom","Explicit","Price_Effect",0.00302113256518344
+"1690","D2","Indonesia","Explicit","Price_Effect",0.0285707321725272
+"1691","D2","India","Explicit","Price_Effect",0.00414291543519708
+"1692","D2","Ireland","Explicit","Price_Effect",0.00187273349429714
+"1693","D2","Italy","Explicit","Price_Effect",0
+"1694","D2","Japan","Explicit","Price_Effect",0.000107849474848
+"1695","D2","Luxembourg","Explicit","Price_Effect",0.000340511742635164
+"1696","D2","Mexico","Explicit","Price_Effect",0.00101179742215318
+"1697","D2","Russian Federation","Explicit","Price_Effect",0.018873806222862
+"1698","D2","Turkiye","Explicit","Price_Effect",0.00389673181367253
+"1699","D2","United States","Explicit","Price_Effect",0.000340152998100914
+"1700","D2","South Africa","Explicit","Price_Effect",0
+"1701","D2","Belgium","Implicit_prod","Price_Effect",0.000304954950288272
+"1702","D2","Brazil","Implicit_prod","Price_Effect",0.0263023565698559
+"1703","D2","China","Implicit_prod","Price_Effect",0.00849974841824647
+"1704","D2","Germany","Implicit_prod","Price_Effect",0.0011414325108114
+"1705","D2","Denmark","Implicit_prod","Price_Effect",0.000135641338846283
+"1706","D2","Spain","Implicit_prod","Price_Effect",0.000517252819454213
+"1707","D2","Finland","Implicit_prod","Price_Effect",0.000154512004563319
+"1708","D2","France","Implicit_prod","Price_Effect",0.000566438633515462
+"1709","D2","United Kingdom","Implicit_prod","Price_Effect",0.00149903667041286
+"1710","D2","Indonesia","Implicit_prod","Price_Effect",0.0210297960197922
+"1711","D2","India","Implicit_prod","Price_Effect",0.0441924014454275
+"1712","D2","Ireland","Implicit_prod","Price_Effect",0.000737068683316297
+"1713","D2","Italy","Implicit_prod","Price_Effect",0.00192672492521354
+"1714","D2","Japan","Implicit_prod","Price_Effect",0.00259100869792655
+"1715","D2","Luxembourg","Implicit_prod","Price_Effect",7.78372577011946e-06
+"1716","D2","Mexico","Implicit_prod","Price_Effect",0.0177259920969194
+"1717","D2","Russian Federation","Implicit_prod","Price_Effect",0.0296888869119041
+"1718","D2","Turkiye","Implicit_prod","Price_Effect",0.0102076935942816
+"1719","D2","United States","Implicit_prod","Price_Effect",0.014444892461335
+"1720","D2","South Africa","Implicit_prod","Price_Effect",0.0493124176901153
+"1721","D2","Belgium","Implicit_cons","Price_Effect",0.000538030432605922
+"1722","D2","Brazil","Implicit_cons","Price_Effect",0.018234325014844
+"1723","D2","China","Implicit_cons","Price_Effect",0.00819531189036874
+"1724","D2","Germany","Implicit_cons","Price_Effect",0.000677809134575046
+"1725","D2","Denmark","Implicit_cons","Price_Effect",8.73083299992482e-05
+"1726","D2","Spain","Implicit_cons","Price_Effect",0.000379756392396154
+"1727","D2","Finland","Implicit_cons","Price_Effect",6.77315132375248e-05
+"1728","D2","France","Implicit_cons","Price_Effect",0.000483713347023762
+"1729","D2","United Kingdom","Implicit_cons","Price_Effect",0.00157323487980264
+"1730","D2","Indonesia","Implicit_cons","Price_Effect",0.0137713511912514
+"1731","D2","India","Implicit_cons","Price_Effect",0.0198249285075062
+"1732","D2","Ireland","Implicit_cons","Price_Effect",0.00186003443592676
+"1733","D2","Italy","Implicit_cons","Price_Effect",0.000765169619313943
+"1734","D2","Japan","Implicit_cons","Price_Effect",0.00132920716956958
+"1735","D2","Luxembourg","Implicit_cons","Price_Effect",0.00172140188232153
+"1736","D2","Mexico","Implicit_cons","Price_Effect",0.0108502852966532
+"1737","D2","Russian Federation","Implicit_cons","Price_Effect",0.00927782881064843
+"1738","D2","Turkiye","Implicit_cons","Price_Effect",0.0126798509919208
+"1739","D2","United States","Implicit_cons","Price_Effect",0.00164378757915756
+"1740","D2","South Africa","Implicit_cons","Price_Effect",0.0291833901431054
+"1741","D2","Belgium","Null","Price_Effect",NA
+"1742","D2","Brazil","Null","Price_Effect",NA
+"1743","D2","China","Null","Price_Effect",NA
+"1744","D2","Germany","Null","Price_Effect",NA
+"1745","D2","Denmark","Null","Price_Effect",NA
+"1746","D2","Spain","Null","Price_Effect",NA
+"1747","D2","Finland","Null","Price_Effect",NA
+"1748","D2","France","Null","Price_Effect",NA
+"1749","D2","United Kingdom","Null","Price_Effect",NA
+"1750","D2","Indonesia","Null","Price_Effect",NA
+"1751","D2","India","Null","Price_Effect",NA
+"1752","D2","Ireland","Null","Price_Effect",NA
+"1753","D2","Italy","Null","Price_Effect",NA
+"1754","D2","Japan","Null","Price_Effect",NA
+"1755","D2","Luxembourg","Null","Price_Effect",NA
+"1756","D2","Mexico","Null","Price_Effect",NA
+"1757","D2","Russian Federation","Null","Price_Effect",NA
+"1758","D2","Turkiye","Null","Price_Effect",NA
+"1759","D2","United States","Null","Price_Effect",NA
+"1760","D2","South Africa","Null","Price_Effect",NA
+"1761","D3","Belgium","Explicit","Price_Effect",0
+"1762","D3","Brazil","Explicit","Price_Effect",0.000171887584434138
+"1763","D3","China","Explicit","Price_Effect",0.0012954296780855
+"1764","D3","Germany","Explicit","Price_Effect",0
+"1765","D3","Denmark","Explicit","Price_Effect",0
+"1766","D3","Spain","Explicit","Price_Effect",0
+"1767","D3","Finland","Explicit","Price_Effect",0
+"1768","D3","France","Explicit","Price_Effect",0
+"1769","D3","United Kingdom","Explicit","Price_Effect",0.00199137625815719
+"1770","D3","Indonesia","Explicit","Price_Effect",0.0245558751407768
+"1771","D3","India","Explicit","Price_Effect",0.00435248614698645
+"1772","D3","Ireland","Explicit","Price_Effect",0.00172674037215217
+"1773","D3","Italy","Explicit","Price_Effect",0
+"1774","D3","Japan","Explicit","Price_Effect",0.000104337186005648
+"1775","D3","Luxembourg","Explicit","Price_Effect",0.000335608919962182
+"1776","D3","Mexico","Explicit","Price_Effect",0.000784917296196231
+"1777","D3","Russian Federation","Explicit","Price_Effect",0.0186989701198125
+"1778","D3","Turkiye","Explicit","Price_Effect",0.00225506101051941
+"1779","D3","United States","Explicit","Price_Effect",0.000308048468149581
+"1780","D3","South Africa","Explicit","Price_Effect",0
+"1781","D3","Belgium","Implicit_prod","Price_Effect",0.000261354025611995
+"1782","D3","Brazil","Implicit_prod","Price_Effect",0.0177994915775894
+"1783","D3","China","Implicit_prod","Price_Effect",0.00889188797370324
+"1784","D3","Germany","Implicit_prod","Price_Effect",0.00117651973862942
+"1785","D3","Denmark","Implicit_prod","Price_Effect",0.000129508301898781
+"1786","D3","Spain","Implicit_prod","Price_Effect",0.000467335162961906
+"1787","D3","Finland","Implicit_prod","Price_Effect",0.000141517016403869
+"1788","D3","France","Implicit_prod","Price_Effect",0.000551550799477028
+"1789","D3","United Kingdom","Implicit_prod","Price_Effect",0.00120177397719576
+"1790","D3","Indonesia","Implicit_prod","Price_Effect",0.0199254132224587
+"1791","D3","India","Implicit_prod","Price_Effect",0.0413441546982825
+"1792","D3","Ireland","Implicit_prod","Price_Effect",0.000918649739156783
+"1793","D3","Italy","Implicit_prod","Price_Effect",0.00216595089928016
+"1794","D3","Japan","Implicit_prod","Price_Effect",0.00250169280019934
+"1795","D3","Luxembourg","Implicit_prod","Price_Effect",8.62338821551698e-06
+"1796","D3","Mexico","Implicit_prod","Price_Effect",0.0140841332986105
+"1797","D3","Russian Federation","Implicit_prod","Price_Effect",0.0295750142466148
+"1798","D3","Turkiye","Implicit_prod","Price_Effect",0.0096199287386386
+"1799","D3","United States","Implicit_prod","Price_Effect",0.0149951824624993
+"1800","D3","South Africa","Implicit_prod","Price_Effect",0.0439895558693976
+"1801","D3","Belgium","Implicit_cons","Price_Effect",0.000391236663234107
+"1802","D3","Brazil","Implicit_cons","Price_Effect",0.0104226356120592
+"1803","D3","China","Implicit_cons","Price_Effect",0.00897042003751397
+"1804","D3","Germany","Implicit_cons","Price_Effect",0.000703822062867513
+"1805","D3","Denmark","Implicit_cons","Price_Effect",7.80908790344415e-05
+"1806","D3","Spain","Implicit_cons","Price_Effect",0.000289155490510366
+"1807","D3","Finland","Implicit_cons","Price_Effect",5.91833843978979e-05
+"1808","D3","France","Implicit_cons","Price_Effect",0.000407781333593709
+"1809","D3","United Kingdom","Implicit_cons","Price_Effect",0.00111683144671372
+"1810","D3","Indonesia","Implicit_cons","Price_Effect",0.0112918162625427
+"1811","D3","India","Implicit_cons","Price_Effect",0.0171238006098569
+"1812","D3","Ireland","Implicit_cons","Price_Effect",0.00220142022050611
+"1813","D3","Italy","Implicit_cons","Price_Effect",0.000895130600086756
+"1814","D3","Japan","Implicit_cons","Price_Effect",0.00123515101770661
+"1815","D3","Luxembourg","Implicit_cons","Price_Effect",0.00208400241769146
+"1816","D3","Mexico","Implicit_cons","Price_Effect",0.00790175170789386
+"1817","D3","Russian Federation","Implicit_cons","Price_Effect",0.00916269297177041
+"1818","D3","Turkiye","Implicit_cons","Price_Effect",0.00983362115156884
+"1819","D3","United States","Implicit_cons","Price_Effect",0.00291754373098936
+"1820","D3","South Africa","Implicit_cons","Price_Effect",0.0239284620798348
+"1821","D3","Belgium","Null","Price_Effect",NA
+"1822","D3","Brazil","Null","Price_Effect",NA
+"1823","D3","China","Null","Price_Effect",NA
+"1824","D3","Germany","Null","Price_Effect",NA
+"1825","D3","Denmark","Null","Price_Effect",NA
+"1826","D3","Spain","Null","Price_Effect",NA
+"1827","D3","Finland","Null","Price_Effect",NA
+"1828","D3","France","Null","Price_Effect",NA
+"1829","D3","United Kingdom","Null","Price_Effect",NA
+"1830","D3","Indonesia","Null","Price_Effect",NA
+"1831","D3","India","Null","Price_Effect",NA
+"1832","D3","Ireland","Null","Price_Effect",NA
+"1833","D3","Italy","Null","Price_Effect",NA
+"1834","D3","Japan","Null","Price_Effect",NA
+"1835","D3","Luxembourg","Null","Price_Effect",NA
+"1836","D3","Mexico","Null","Price_Effect",NA
+"1837","D3","Russian Federation","Null","Price_Effect",NA
+"1838","D3","Turkiye","Null","Price_Effect",NA
+"1839","D3","United States","Null","Price_Effect",NA
+"1840","D3","South Africa","Null","Price_Effect",NA
+"1841","D4","Belgium","Explicit","Price_Effect",0
+"1842","D4","Brazil","Explicit","Price_Effect",0.000167394554843342
+"1843","D4","China","Explicit","Price_Effect",0.00139168611438893
+"1844","D4","Germany","Explicit","Price_Effect",0
+"1845","D4","Denmark","Explicit","Price_Effect",0
+"1846","D4","Spain","Explicit","Price_Effect",0
+"1847","D4","Finland","Explicit","Price_Effect",0
+"1848","D4","France","Explicit","Price_Effect",0
+"1849","D4","United Kingdom","Explicit","Price_Effect",0.0018601453634517
+"1850","D4","Indonesia","Explicit","Price_Effect",0.0219759916545061
+"1851","D4","India","Explicit","Price_Effect",0.00456041926273113
+"1852","D4","Ireland","Explicit","Price_Effect",0.00161320024195358
+"1853","D4","Italy","Explicit","Price_Effect",0
+"1854","D4","Japan","Explicit","Price_Effect",9.71797592169173e-05
+"1855","D4","Luxembourg","Explicit","Price_Effect",0.000299950997568839
+"1856","D4","Mexico","Explicit","Price_Effect",0.00090292827632555
+"1857","D4","Russian Federation","Explicit","Price_Effect",0.0186558031668657
+"1858","D4","Turkiye","Explicit","Price_Effect",0.00247665459378535
+"1859","D4","United States","Explicit","Price_Effect",0.00028435007511715
+"1860","D4","South Africa","Explicit","Price_Effect",0
+"1861","D4","Belgium","Implicit_prod","Price_Effect",0.000283307789758688
+"1862","D4","Brazil","Implicit_prod","Price_Effect",0.0156766505105893
+"1863","D4","China","Implicit_prod","Price_Effect",0.00940325558675665
+"1864","D4","Germany","Implicit_prod","Price_Effect",0.00121954894371539
+"1865","D4","Denmark","Implicit_prod","Price_Effect",0.000133343829272168
+"1866","D4","Spain","Implicit_prod","Price_Effect",0.000495091450124793
+"1867","D4","Finland","Implicit_prod","Price_Effect",0.000148488060074115
+"1868","D4","France","Implicit_prod","Price_Effect",0.000483229950622863
+"1869","D4","United Kingdom","Implicit_prod","Price_Effect",0.00127249012514247
+"1870","D4","Indonesia","Implicit_prod","Price_Effect",0.0188542036215056
+"1871","D4","India","Implicit_prod","Price_Effect",0.0399409611031506
+"1872","D4","Ireland","Implicit_prod","Price_Effect",0.00092065190961934
+"1873","D4","Italy","Implicit_prod","Price_Effect",0.00198142329399727
+"1874","D4","Japan","Implicit_prod","Price_Effect",0.00251873409273045
+"1875","D4","Luxembourg","Implicit_prod","Price_Effect",8.37199929058789e-06
+"1876","D4","Mexico","Implicit_prod","Price_Effect",0.0159223457569802
+"1877","D4","Russian Federation","Implicit_prod","Price_Effect",0.0295860322548326
+"1878","D4","Turkiye","Implicit_prod","Price_Effect",0.00910119660696365
+"1879","D4","United States","Implicit_prod","Price_Effect",0.0141454073097697
+"1880","D4","South Africa","Implicit_prod","Price_Effect",0.042894254913781
+"1881","D4","Belgium","Implicit_cons","Price_Effect",0.000437092364137226
+"1882","D4","Brazil","Implicit_cons","Price_Effect",0.00849497139594489
+"1883","D4","China","Implicit_cons","Price_Effect",0.00985813164786073
+"1884","D4","Germany","Implicit_cons","Price_Effect",0.00068108897402449
+"1885","D4","Denmark","Implicit_cons","Price_Effect",8.17712109891555e-05
+"1886","D4","Spain","Implicit_cons","Price_Effect",0.000331887829515219
+"1887","D4","Finland","Implicit_cons","Price_Effect",5.2468070183577e-05
+"1888","D4","France","Implicit_cons","Price_Effect",0.00035541353215116
+"1889","D4","United Kingdom","Implicit_cons","Price_Effect",0.00117476187300438
+"1890","D4","Indonesia","Implicit_cons","Price_Effect",0.00982824701375397
+"1891","D4","India","Implicit_cons","Price_Effect",0.0156235053857398
+"1892","D4","Ireland","Implicit_cons","Price_Effect",0.0019835311417541
+"1893","D4","Italy","Implicit_cons","Price_Effect",0.000837125568775913
+"1894","D4","Japan","Implicit_cons","Price_Effect",0.00125023195377627
+"1895","D4","Luxembourg","Implicit_cons","Price_Effect",0.0019104070312033
+"1896","D4","Mexico","Implicit_cons","Price_Effect",0.00940656506495114
+"1897","D4","Russian Federation","Implicit_cons","Price_Effect",0.00913752151780793
+"1898","D4","Turkiye","Implicit_cons","Price_Effect",0.00871524051147759
+"1899","D4","United States","Implicit_cons","Price_Effect",0.00253614665302526
+"1900","D4","South Africa","Implicit_cons","Price_Effect",0.0233764103055654
+"1901","D4","Belgium","Null","Price_Effect",NA
+"1902","D4","Brazil","Null","Price_Effect",NA
+"1903","D4","China","Null","Price_Effect",NA
+"1904","D4","Germany","Null","Price_Effect",NA
+"1905","D4","Denmark","Null","Price_Effect",NA
+"1906","D4","Spain","Null","Price_Effect",NA
+"1907","D4","Finland","Null","Price_Effect",NA
+"1908","D4","France","Null","Price_Effect",NA
+"1909","D4","United Kingdom","Null","Price_Effect",NA
+"1910","D4","Indonesia","Null","Price_Effect",NA
+"1911","D4","India","Null","Price_Effect",NA
+"1912","D4","Ireland","Null","Price_Effect",NA
+"1913","D4","Italy","Null","Price_Effect",NA
+"1914","D4","Japan","Null","Price_Effect",NA
+"1915","D4","Luxembourg","Null","Price_Effect",NA
+"1916","D4","Mexico","Null","Price_Effect",NA
+"1917","D4","Russian Federation","Null","Price_Effect",NA
+"1918","D4","Turkiye","Null","Price_Effect",NA
+"1919","D4","United States","Null","Price_Effect",NA
+"1920","D4","South Africa","Null","Price_Effect",NA
+"1921","D5","Belgium","Explicit","Price_Effect",0
+"1922","D5","Brazil","Explicit","Price_Effect",0.000156325227613919
+"1923","D5","China","Explicit","Price_Effect",0.0014819270857311
+"1924","D5","Germany","Explicit","Price_Effect",0
+"1925","D5","Denmark","Explicit","Price_Effect",0
+"1926","D5","Spain","Explicit","Price_Effect",0
+"1927","D5","Finland","Explicit","Price_Effect",0
+"1928","D5","France","Explicit","Price_Effect",0
+"1929","D5","United Kingdom","Explicit","Price_Effect",0.00129812387483122
+"1930","D5","Indonesia","Explicit","Price_Effect",0.0197155295003494
+"1931","D5","India","Explicit","Price_Effect",0.00474546411555765
+"1932","D5","Ireland","Explicit","Price_Effect",0.00150034424285164
+"1933","D5","Italy","Explicit","Price_Effect",0
+"1934","D5","Japan","Explicit","Price_Effect",8.89917637795131e-05
+"1935","D5","Luxembourg","Explicit","Price_Effect",0.000313758033292291
+"1936","D5","Mexico","Explicit","Price_Effect",0.000535372918716295
+"1937","D5","Russian Federation","Explicit","Price_Effect",0.0183515437654306
+"1938","D5","Turkiye","Explicit","Price_Effect",0.00196359587964333
+"1939","D5","United States","Explicit","Price_Effect",0.00025232442657217
+"1940","D5","South Africa","Explicit","Price_Effect",0
+"1941","D5","Belgium","Implicit_prod","Price_Effect",0.000291147676877327
+"1942","D5","Brazil","Implicit_prod","Price_Effect",0.0104285408689654
+"1943","D5","China","Implicit_prod","Price_Effect",0.00991501676113568
+"1944","D5","Germany","Implicit_prod","Price_Effect",0.00120345749964317
+"1945","D5","Denmark","Implicit_prod","Price_Effect",0.000125495494052291
+"1946","D5","Spain","Implicit_prod","Price_Effect",0.000486809814406021
+"1947","D5","Finland","Implicit_prod","Price_Effect",0.000145057078881789
+"1948","D5","France","Implicit_prod","Price_Effect",0.000482543459768514
+"1949","D5","United Kingdom","Implicit_prod","Price_Effect",0.00111523796515136
+"1950","D5","Indonesia","Implicit_prod","Price_Effect",0.0181701023810119
+"1951","D5","India","Implicit_prod","Price_Effect",0.0366732206230618
+"1952","D5","Ireland","Implicit_prod","Price_Effect",0.000902920639874708
+"1953","D5","Italy","Implicit_prod","Price_Effect",0.00195443450612033
+"1954","D5","Japan","Implicit_prod","Price_Effect",0.00238506989183856
+"1955","D5","Luxembourg","Implicit_prod","Price_Effect",8.83273445220196e-06
+"1956","D5","Mexico","Implicit_prod","Price_Effect",0.00991070822635925
+"1957","D5","Russian Federation","Implicit_prod","Price_Effect",0.0293298116129207
+"1958","D5","Turkiye","Implicit_prod","Price_Effect",0.00933287411467613
+"1959","D5","United States","Implicit_prod","Price_Effect",0.0135798777988423
+"1960","D5","South Africa","Implicit_prod","Price_Effect",0.0402587284377441
+"1961","D5","Belgium","Implicit_cons","Price_Effect",0.000423011047542162
+"1962","D5","Brazil","Implicit_cons","Price_Effect",0.00399993569799529
+"1963","D5","China","Implicit_cons","Price_Effect",0.0106590493418593
+"1964","D5","Germany","Implicit_cons","Price_Effect",0.000666532179593078
+"1965","D5","Denmark","Implicit_cons","Price_Effect",7.4542816882608e-05
+"1966","D5","Spain","Implicit_cons","Price_Effect",0.000311460400222029
+"1967","D5","Finland","Implicit_cons","Price_Effect",5.33102767279796e-05
+"1968","D5","France","Implicit_cons","Price_Effect",0.000341763976002862
+"1969","D5","United Kingdom","Implicit_cons","Price_Effect",0.000849397023916925
+"1970","D5","Indonesia","Implicit_cons","Price_Effect",0.00837425291655463
+"1971","D5","India","Implicit_cons","Price_Effect",0.0126909487444444
+"1972","D5","Ireland","Implicit_cons","Price_Effect",0.00189116746167942
+"1973","D5","Italy","Implicit_cons","Price_Effect",0.000738471351080409
+"1974","D5","Japan","Implicit_cons","Price_Effect",0.00110874796426082
+"1975","D5","Luxembourg","Implicit_cons","Price_Effect",0.00221173384131082
+"1976","D5","Mexico","Implicit_cons","Price_Effect",0.00470713209499425
+"1977","D5","Russian Federation","Implicit_cons","Price_Effect",0.00893154047358084
+"1978","D5","Turkiye","Implicit_cons","Price_Effect",0.0088642114940868
+"1979","D5","United States","Implicit_cons","Price_Effect",0.0025183175235447
+"1980","D5","South Africa","Implicit_cons","Price_Effect",0.0211053925150497
+"1981","D5","Belgium","Null","Price_Effect",NA
+"1982","D5","Brazil","Null","Price_Effect",NA
+"1983","D5","China","Null","Price_Effect",NA
+"1984","D5","Germany","Null","Price_Effect",NA
+"1985","D5","Denmark","Null","Price_Effect",NA
+"1986","D5","Spain","Null","Price_Effect",NA
+"1987","D5","Finland","Null","Price_Effect",NA
+"1988","D5","France","Null","Price_Effect",NA
+"1989","D5","United Kingdom","Null","Price_Effect",NA
+"1990","D5","Indonesia","Null","Price_Effect",NA
+"1991","D5","India","Null","Price_Effect",NA
+"1992","D5","Ireland","Null","Price_Effect",NA
+"1993","D5","Italy","Null","Price_Effect",NA
+"1994","D5","Japan","Null","Price_Effect",NA
+"1995","D5","Luxembourg","Null","Price_Effect",NA
+"1996","D5","Mexico","Null","Price_Effect",NA
+"1997","D5","Russian Federation","Null","Price_Effect",NA
+"1998","D5","Turkiye","Null","Price_Effect",NA
+"1999","D5","United States","Null","Price_Effect",NA
+"2000","D5","South Africa","Null","Price_Effect",NA
+"2001","D6","Belgium","Explicit","Price_Effect",0
+"2002","D6","Brazil","Explicit","Price_Effect",0.0001494547889174
+"2003","D6","China","Explicit","Price_Effect",0.00155268878793463
+"2004","D6","Germany","Explicit","Price_Effect",0
+"2005","D6","Denmark","Explicit","Price_Effect",0
+"2006","D6","Spain","Explicit","Price_Effect",0
+"2007","D6","Finland","Explicit","Price_Effect",0
+"2008","D6","France","Explicit","Price_Effect",0
+"2009","D6","United Kingdom","Explicit","Price_Effect",0.0010660720670556
+"2010","D6","Indonesia","Explicit","Price_Effect",0.0178766104459136
+"2011","D6","India","Explicit","Price_Effect",0.00497705193973803
+"2012","D6","Ireland","Explicit","Price_Effect",0.00140794118005728
+"2013","D6","Italy","Explicit","Price_Effect",0
+"2014","D6","Japan","Explicit","Price_Effect",8.30000744730341e-05
+"2015","D6","Luxembourg","Explicit","Price_Effect",0.000307055934236419
+"2016","D6","Mexico","Explicit","Price_Effect",0.000618289096466431
+"2017","D6","Russian Federation","Explicit","Price_Effect",0.0180648143162211
+"2018","D6","Turkiye","Explicit","Price_Effect",0.00225191225568044
+"2019","D6","United States","Explicit","Price_Effect",0.000229194246104512
+"2020","D6","South Africa","Explicit","Price_Effect",0
+"2021","D6","Belgium","Implicit_prod","Price_Effect",0.000296826205290889
+"2022","D6","Brazil","Implicit_prod","Price_Effect",0.00959294627184889
+"2023","D6","China","Implicit_prod","Price_Effect",0.0103369006870277
+"2024","D6","Germany","Implicit_prod","Price_Effect",0.00118946618291638
+"2025","D6","Denmark","Implicit_prod","Price_Effect",0.000130852188224292
+"2026","D6","Spain","Implicit_prod","Price_Effect",0.000463846160331843
+"2027","D6","Finland","Implicit_prod","Price_Effect",0.000140428194562895
+"2028","D6","France","Implicit_prod","Price_Effect",0.00053937866239361
+"2029","D6","United Kingdom","Implicit_prod","Price_Effect",0.0009522622689237
+"2030","D6","Indonesia","Implicit_prod","Price_Effect",0.0174680040089172
+"2031","D6","India","Implicit_prod","Price_Effect",0.0345248702203573
+"2032","D6","Ireland","Implicit_prod","Price_Effect",0.000896348232622696
+"2033","D6","Italy","Implicit_prod","Price_Effect",0.00193335620959578
+"2034","D6","Japan","Implicit_prod","Price_Effect",0.00210887742553478
+"2035","D6","Luxembourg","Implicit_prod","Price_Effect",8.57581584173979e-06
+"2036","D6","Mexico","Implicit_prod","Price_Effect",0.011228495932297
+"2037","D6","Russian Federation","Implicit_prod","Price_Effect",0.0291230234367889
+"2038","D6","Turkiye","Implicit_prod","Price_Effect",0.00903239233468258
+"2039","D6","United States","Implicit_prod","Price_Effect",0.0142463315655127
+"2040","D6","South Africa","Implicit_prod","Price_Effect",0.0354582593558581
+"2041","D6","Belgium","Implicit_cons","Price_Effect",0.000404581414319305
+"2042","D6","Brazil","Implicit_cons","Price_Effect",0.0034002900022081
+"2043","D6","China","Implicit_cons","Price_Effect",0.0112694968575646
+"2044","D6","Germany","Implicit_cons","Price_Effect",0.000672675883090582
+"2045","D6","Denmark","Implicit_cons","Price_Effect",7.92427983052787e-05
+"2046","D6","Spain","Implicit_cons","Price_Effect",0.000288730663712436
+"2047","D6","Finland","Implicit_cons","Price_Effect",5.4115598586724e-05
+"2048","D6","France","Implicit_cons","Price_Effect",0.000395436926822231
+"2049","D6","United Kingdom","Implicit_cons","Price_Effect",0.000778363103725875
+"2050","D6","Indonesia","Implicit_cons","Price_Effect",0.00738763099437507
+"2051","D6","India","Implicit_cons","Price_Effect",0.010627587087027
+"2052","D6","Ireland","Implicit_cons","Price_Effect",0.00218077658137618
+"2053","D6","Italy","Implicit_cons","Price_Effect",0.000791968159061212
+"2054","D6","Japan","Implicit_cons","Price_Effect",0.000852121862213604
+"2055","D6","Luxembourg","Implicit_cons","Price_Effect",0.00200978869581565
+"2056","D6","Mexico","Implicit_cons","Price_Effect",0.00576075363541851
+"2057","D6","Russian Federation","Implicit_cons","Price_Effect",0.00873809803693793
+"2058","D6","Turkiye","Implicit_cons","Price_Effect",0.00783165126170351
+"2059","D6","United States","Implicit_cons","Price_Effect",0.00352795837437303
+"2060","D6","South Africa","Implicit_cons","Price_Effect",0.0160615848865812
+"2061","D6","Belgium","Null","Price_Effect",NA
+"2062","D6","Brazil","Null","Price_Effect",NA
+"2063","D6","China","Null","Price_Effect",NA
+"2064","D6","Germany","Null","Price_Effect",NA
+"2065","D6","Denmark","Null","Price_Effect",NA
+"2066","D6","Spain","Null","Price_Effect",NA
+"2067","D6","Finland","Null","Price_Effect",NA
+"2068","D6","France","Null","Price_Effect",NA
+"2069","D6","United Kingdom","Null","Price_Effect",NA
+"2070","D6","Indonesia","Null","Price_Effect",NA
+"2071","D6","India","Null","Price_Effect",NA
+"2072","D6","Ireland","Null","Price_Effect",NA
+"2073","D6","Italy","Null","Price_Effect",NA
+"2074","D6","Japan","Null","Price_Effect",NA
+"2075","D6","Luxembourg","Null","Price_Effect",NA
+"2076","D6","Mexico","Null","Price_Effect",NA
+"2077","D6","Russian Federation","Null","Price_Effect",NA
+"2078","D6","Turkiye","Null","Price_Effect",NA
+"2079","D6","United States","Null","Price_Effect",NA
+"2080","D6","South Africa","Null","Price_Effect",NA
+"2081","D7","Belgium","Explicit","Price_Effect",0
+"2082","D7","Brazil","Explicit","Price_Effect",0.00013269794895268
+"2083","D7","China","Explicit","Price_Effect",0.00157566953870881
+"2084","D7","Germany","Explicit","Price_Effect",0
+"2085","D7","Denmark","Explicit","Price_Effect",0
+"2086","D7","Spain","Explicit","Price_Effect",0
+"2087","D7","Finland","Explicit","Price_Effect",0
+"2088","D7","France","Explicit","Price_Effect",0
+"2089","D7","United Kingdom","Explicit","Price_Effect",0.000906396349893068
+"2090","D7","Indonesia","Explicit","Price_Effect",0.0152839282118841
+"2091","D7","India","Explicit","Price_Effect",0.00487901110041798
+"2092","D7","Ireland","Explicit","Price_Effect",0.00127294701690697
+"2093","D7","Italy","Explicit","Price_Effect",0
+"2094","D7","Japan","Explicit","Price_Effect",7.78448442709023e-05
+"2095","D7","Luxembourg","Explicit","Price_Effect",0.000291333400298876
+"2096","D7","Mexico","Explicit","Price_Effect",0.00037749444774711
+"2097","D7","Russian Federation","Explicit","Price_Effect",0.017671531919619
+"2098","D7","Turkiye","Explicit","Price_Effect",0.00188568840793274
+"2099","D7","United States","Explicit","Price_Effect",0.000215445583992265
+"2100","D7","South Africa","Explicit","Price_Effect",0
+"2101","D7","Belgium","Implicit_prod","Price_Effect",0.000305722800194763
+"2102","D7","Brazil","Implicit_prod","Price_Effect",0.00879486324464232
+"2103","D7","China","Implicit_prod","Price_Effect",0.0105252518470744
+"2104","D7","Germany","Implicit_prod","Price_Effect",0.0012895615619473
+"2105","D7","Denmark","Implicit_prod","Price_Effect",0.00012568120164849
+"2106","D7","Spain","Implicit_prod","Price_Effect",0.00048450197536313
+"2107","D7","Finland","Implicit_prod","Price_Effect",0.000143978327715704
+"2108","D7","France","Implicit_prod","Price_Effect",0.00053212781482496
+"2109","D7","United Kingdom","Implicit_prod","Price_Effect",0.00103856926621583
+"2110","D7","Indonesia","Implicit_prod","Price_Effect",0.0165098273760508
+"2111","D7","India","Implicit_prod","Price_Effect",0.0314474254016523
+"2112","D7","Ireland","Implicit_prod","Price_Effect",0.00088027817859328
+"2113","D7","Italy","Implicit_prod","Price_Effect",0.00195861640523163
+"2114","D7","Japan","Implicit_prod","Price_Effect",0.00203823172927178
+"2115","D7","Luxembourg","Implicit_prod","Price_Effect",9.12307783079759e-06
+"2116","D7","Mexico","Implicit_prod","Price_Effect",0.00722378139944135
+"2117","D7","Russian Federation","Implicit_prod","Price_Effect",0.0288035568490401
+"2118","D7","Turkiye","Implicit_prod","Price_Effect",0.0090055038174024
+"2119","D7","United States","Implicit_prod","Price_Effect",0.0138699363328879
+"2120","D7","South Africa","Implicit_prod","Price_Effect",0.0307317417260416
+"2121","D7","Belgium","Implicit_cons","Price_Effect",0.000387480861646199
+"2122","D7","Brazil","Implicit_cons","Price_Effect",0.00299862094475202
+"2123","D7","China","Implicit_cons","Price_Effect",0.0114258369633354
+"2124","D7","Germany","Implicit_cons","Price_Effect",0.000729865679607764
+"2125","D7","Denmark","Implicit_cons","Price_Effect",7.41124649807386e-05
+"2126","D7","Spain","Implicit_cons","Price_Effect",0.000290181607402541
+"2127","D7","Finland","Implicit_cons","Price_Effect",5.88284084670936e-05
+"2128","D7","France","Implicit_cons","Price_Effect",0.000370372694067345
+"2129","D7","United Kingdom","Implicit_cons","Price_Effect",0.000799382695477929
+"2130","D7","Indonesia","Implicit_cons","Price_Effect",0.00588688065390157
+"2131","D7","India","Implicit_cons","Price_Effect",0.00825141411837758
+"2132","D7","Ireland","Implicit_cons","Price_Effect",0.00199654281037956
+"2133","D7","Italy","Implicit_cons","Price_Effect",0.000844482220903726
+"2134","D7","Japan","Implicit_cons","Price_Effect",0.0007936589768059
+"2135","D7","Luxembourg","Implicit_cons","Price_Effect",0.00226225900990148
+"2136","D7","Mexico","Implicit_cons","Price_Effect",0.00264625755901715
+"2137","D7","Russian Federation","Implicit_cons","Price_Effect",0.00847644484128735
+"2138","D7","Turkiye","Implicit_cons","Price_Effect",0.00799838611807048
+"2139","D7","United States","Implicit_cons","Price_Effect",0.00353885522027267
+"2140","D7","South Africa","Implicit_cons","Price_Effect",0.00993577593304458
+"2141","D7","Belgium","Null","Price_Effect",NA
+"2142","D7","Brazil","Null","Price_Effect",NA
+"2143","D7","China","Null","Price_Effect",NA
+"2144","D7","Germany","Null","Price_Effect",NA
+"2145","D7","Denmark","Null","Price_Effect",NA
+"2146","D7","Spain","Null","Price_Effect",NA
+"2147","D7","Finland","Null","Price_Effect",NA
+"2148","D7","France","Null","Price_Effect",NA
+"2149","D7","United Kingdom","Null","Price_Effect",NA
+"2150","D7","Indonesia","Null","Price_Effect",NA
+"2151","D7","India","Null","Price_Effect",NA
+"2152","D7","Ireland","Null","Price_Effect",NA
+"2153","D7","Italy","Null","Price_Effect",NA
+"2154","D7","Japan","Null","Price_Effect",NA
+"2155","D7","Luxembourg","Null","Price_Effect",NA
+"2156","D7","Mexico","Null","Price_Effect",NA
+"2157","D7","Russian Federation","Null","Price_Effect",NA
+"2158","D7","Turkiye","Null","Price_Effect",NA
+"2159","D7","United States","Null","Price_Effect",NA
+"2160","D7","South Africa","Null","Price_Effect",NA
+"2161","D8","Belgium","Explicit","Price_Effect",0
+"2162","D8","Brazil","Explicit","Price_Effect",0.000118122093249428
+"2163","D8","China","Explicit","Price_Effect",0.00156551721673828
+"2164","D8","Germany","Explicit","Price_Effect",0
+"2165","D8","Denmark","Explicit","Price_Effect",0
+"2166","D8","Spain","Explicit","Price_Effect",0
+"2167","D8","Finland","Explicit","Price_Effect",0
+"2168","D8","France","Explicit","Price_Effect",0
+"2169","D8","United Kingdom","Explicit","Price_Effect",0.000875795767761265
+"2170","D8","Indonesia","Explicit","Price_Effect",0.0133525895786025
+"2171","D8","India","Explicit","Price_Effect",0.00474696682279045
+"2172","D8","Ireland","Explicit","Price_Effect",0.00109305546114037
+"2173","D8","Italy","Explicit","Price_Effect",0
+"2174","D8","Japan","Explicit","Price_Effect",6.88846795187357e-05
+"2175","D8","Luxembourg","Explicit","Price_Effect",0.000264086225316626
+"2176","D8","Mexico","Explicit","Price_Effect",0.000351285626983727
+"2177","D8","Russian Federation","Explicit","Price_Effect",0.0172226069464376
+"2178","D8","Turkiye","Explicit","Price_Effect",0.00179045935134314
+"2179","D8","United States","Explicit","Price_Effect",0.000190172601887264
+"2180","D8","South Africa","Explicit","Price_Effect",0
+"2181","D8","Belgium","Implicit_prod","Price_Effect",0.000328586362389164
+"2182","D8","Brazil","Implicit_prod","Price_Effect",0.00628917891410871
+"2183","D8","China","Implicit_prod","Price_Effect",0.0105637831659275
+"2184","D8","Germany","Implicit_prod","Price_Effect",0.00119207483927272
+"2185","D8","Denmark","Implicit_prod","Price_Effect",0.000125874619932093
+"2186","D8","Spain","Implicit_prod","Price_Effect",0.000473456392918001
+"2187","D8","Finland","Implicit_prod","Price_Effect",0.000154267883307196
+"2188","D8","France","Implicit_prod","Price_Effect",0.000504895138891331
+"2189","D8","United Kingdom","Implicit_prod","Price_Effect",0.000965330779382925
+"2190","D8","Indonesia","Implicit_prod","Price_Effect",0.0157627861481505
+"2191","D8","India","Implicit_prod","Price_Effect",0.0275921212930219
+"2192","D8","Ireland","Implicit_prod","Price_Effect",0.000912430979039127
+"2193","D8","Italy","Implicit_prod","Price_Effect",0.00195808172960704
+"2194","D8","Japan","Implicit_prod","Price_Effect",0.0018282287711792
+"2195","D8","Luxembourg","Implicit_prod","Price_Effect",8.78864720620036e-06
+"2196","D8","Mexico","Implicit_prod","Price_Effect",0.00684602080590849
+"2197","D8","Russian Federation","Implicit_prod","Price_Effect",0.0284577288419102
+"2198","D8","Turkiye","Implicit_prod","Price_Effect",0.00882075198199135
+"2199","D8","United States","Implicit_prod","Price_Effect",0.0137056171236675
+"2200","D8","South Africa","Implicit_prod","Price_Effect",0.0266242301347001
+"2201","D8","Belgium","Implicit_cons","Price_Effect",0.000406602958447168
+"2202","D8","Brazil","Implicit_cons","Price_Effect",0.00116834721630739
+"2203","D8","China","Implicit_cons","Price_Effect",0.0112549335398126
+"2204","D8","Germany","Implicit_cons","Price_Effect",0.000641221082095703
+"2205","D8","Denmark","Implicit_cons","Price_Effect",7.51617042204464e-05
+"2206","D8","Spain","Implicit_cons","Price_Effect",0.000285259948045922
+"2207","D8","Finland","Implicit_cons","Price_Effect",6.12585354399402e-05
+"2208","D8","France","Implicit_cons","Price_Effect",0.000353911138337729
+"2209","D8","United Kingdom","Implicit_cons","Price_Effect",0.000654716932688399
+"2210","D8","Indonesia","Implicit_cons","Price_Effect",0.00478591556332906
+"2211","D8","India","Implicit_cons","Price_Effect",0.00540702442484276
+"2212","D8","Ireland","Implicit_cons","Price_Effect",0.00193206952150485
+"2213","D8","Italy","Implicit_cons","Price_Effect",0.000822056121283337
+"2214","D8","Japan","Implicit_cons","Price_Effect",0.000567743225000744
+"2215","D8","Luxembourg","Implicit_cons","Price_Effect",0.00207667890599925
+"2216","D8","Mexico","Implicit_cons","Price_Effect",0.00238660138188499
+"2217","D8","Russian Federation","Implicit_cons","Price_Effect",0.00817385464335716
+"2218","D8","Turkiye","Implicit_cons","Price_Effect",0.00688998388715736
+"2219","D8","United States","Implicit_cons","Price_Effect",0.00377167222555762
+"2220","D8","South Africa","Implicit_cons","Price_Effect",0.0080538287648237
+"2221","D8","Belgium","Null","Price_Effect",NA
+"2222","D8","Brazil","Null","Price_Effect",NA
+"2223","D8","China","Null","Price_Effect",NA
+"2224","D8","Germany","Null","Price_Effect",NA
+"2225","D8","Denmark","Null","Price_Effect",NA
+"2226","D8","Spain","Null","Price_Effect",NA
+"2227","D8","Finland","Null","Price_Effect",NA
+"2228","D8","France","Null","Price_Effect",NA
+"2229","D8","United Kingdom","Null","Price_Effect",NA
+"2230","D8","Indonesia","Null","Price_Effect",NA
+"2231","D8","India","Null","Price_Effect",NA
+"2232","D8","Ireland","Null","Price_Effect",NA
+"2233","D8","Italy","Null","Price_Effect",NA
+"2234","D8","Japan","Null","Price_Effect",NA
+"2235","D8","Luxembourg","Null","Price_Effect",NA
+"2236","D8","Mexico","Null","Price_Effect",NA
+"2237","D8","Russian Federation","Null","Price_Effect",NA
+"2238","D8","Turkiye","Null","Price_Effect",NA
+"2239","D8","United States","Null","Price_Effect",NA
+"2240","D8","South Africa","Null","Price_Effect",NA
+"2241","D9","Belgium","Explicit","Price_Effect",0
+"2242","D9","Brazil","Explicit","Price_Effect",9.5908107047549e-05
+"2243","D9","China","Explicit","Price_Effect",0.00148369195126166
+"2244","D9","Germany","Explicit","Price_Effect",0
+"2245","D9","Denmark","Explicit","Price_Effect",0
+"2246","D9","Spain","Explicit","Price_Effect",0
+"2247","D9","Finland","Explicit","Price_Effect",0
+"2248","D9","France","Explicit","Price_Effect",0
+"2249","D9","United Kingdom","Explicit","Price_Effect",0.00074404686132827
+"2250","D9","Indonesia","Explicit","Price_Effect",0.0108273371725415
+"2251","D9","India","Explicit","Price_Effect",0.00447240192895826
+"2252","D9","Ireland","Explicit","Price_Effect",0.00110766894305061
+"2253","D9","Italy","Explicit","Price_Effect",0
+"2254","D9","Japan","Explicit","Price_Effect",6.10448141121046e-05
+"2255","D9","Luxembourg","Explicit","Price_Effect",0.000348074989568644
+"2256","D9","Mexico","Explicit","Price_Effect",0.000284190017137166
+"2257","D9","Russian Federation","Explicit","Price_Effect",0.0166225920151574
+"2258","D9","Turkiye","Explicit","Price_Effect",0.00144303334399338
+"2259","D9","United States","Explicit","Price_Effect",0.000170798430565793
+"2260","D9","South Africa","Explicit","Price_Effect",0
+"2261","D9","Belgium","Implicit_prod","Price_Effect",0.000347289427792221
+"2262","D9","Brazil","Implicit_prod","Price_Effect",0.00480031262763206
+"2263","D9","China","Implicit_prod","Price_Effect",0.0102585399531761
+"2264","D9","Germany","Implicit_prod","Price_Effect",0.00134760077159586
+"2265","D9","Denmark","Implicit_prod","Price_Effect",0.000165680120061872
+"2266","D9","Spain","Implicit_prod","Price_Effect",0.00048475786836725
+"2267","D9","Finland","Implicit_prod","Price_Effect",0.000161790796654777
+"2268","D9","France","Implicit_prod","Price_Effect",0.000515466592614157
+"2269","D9","United Kingdom","Implicit_prod","Price_Effect",0.000995253238716199
+"2270","D9","Indonesia","Implicit_prod","Price_Effect",0.0146248338200013
+"2271","D9","India","Implicit_prod","Price_Effect",0.0231635750414712
+"2272","D9","Ireland","Implicit_prod","Price_Effect",0.000938409123764713
+"2273","D9","Italy","Implicit_prod","Price_Effect",0.00187560874081372
+"2274","D9","Japan","Implicit_prod","Price_Effect",0.00179941050382495
+"2275","D9","Luxembourg","Implicit_prod","Price_Effect",8.8492455121933e-06
+"2276","D9","Mexico","Implicit_prod","Price_Effect",0.00556848084858622
+"2277","D9","Russian Federation","Implicit_prod","Price_Effect",0.0277898736022248
+"2278","D9","Turkiye","Implicit_prod","Price_Effect",0.00904258435866616
+"2279","D9","United States","Implicit_prod","Price_Effect",0.0132397727110241
+"2280","D9","South Africa","Implicit_prod","Price_Effect",0.0199614004330943
+"2281","D9","Belgium","Implicit_cons","Price_Effect",0.00042982452815999
+"2282","D9","Brazil","Implicit_cons","Price_Effect",0.000429056966609979
+"2283","D9","China","Implicit_cons","Price_Effect",0.0104195681709977
+"2284","D9","Germany","Implicit_cons","Price_Effect",0.000742593938470942
+"2285","D9","Denmark","Implicit_cons","Price_Effect",0.000105802762549492
+"2286","D9","Spain","Implicit_cons","Price_Effect",0.000290122124755112
+"2287","D9","Finland","Implicit_cons","Price_Effect",7.43088846940449e-05
+"2288","D9","France","Implicit_cons","Price_Effect",0.000402966095602056
+"2289","D9","United Kingdom","Implicit_cons","Price_Effect",0.000673119752876493
+"2290","D9","Indonesia","Implicit_cons","Price_Effect",0.00344195313584227
+"2291","D9","India","Implicit_cons","Price_Effect",0.00262793603809972
+"2292","D9","Ireland","Implicit_cons","Price_Effect",0.00221584431004894
+"2293","D9","Italy","Implicit_cons","Price_Effect",0.000766192889462712
+"2294","D9","Japan","Implicit_cons","Price_Effect",0.000550231728020542
+"2295","D9","Luxembourg","Implicit_cons","Price_Effect",0.00231000449070778
+"2296","D9","Mexico","Implicit_cons","Price_Effect",0.00158861026107492
+"2297","D9","Russian Federation","Implicit_cons","Price_Effect",0.00779116946966213
+"2298","D9","Turkiye","Implicit_cons","Price_Effect",0.00799128039407922
+"2299","D9","United States","Implicit_cons","Price_Effect",0.00313520543963392
+"2300","D9","South Africa","Implicit_cons","Price_Effect",0.00320993407438304
+"2301","D9","Belgium","Null","Price_Effect",NA
+"2302","D9","Brazil","Null","Price_Effect",NA
+"2303","D9","China","Null","Price_Effect",NA
+"2304","D9","Germany","Null","Price_Effect",NA
+"2305","D9","Denmark","Null","Price_Effect",NA
+"2306","D9","Spain","Null","Price_Effect",NA
+"2307","D9","Finland","Null","Price_Effect",NA
+"2308","D9","France","Null","Price_Effect",NA
+"2309","D9","United Kingdom","Null","Price_Effect",NA
+"2310","D9","Indonesia","Null","Price_Effect",NA
+"2311","D9","India","Null","Price_Effect",NA
+"2312","D9","Ireland","Null","Price_Effect",NA
+"2313","D9","Italy","Null","Price_Effect",NA
+"2314","D9","Japan","Null","Price_Effect",NA
+"2315","D9","Luxembourg","Null","Price_Effect",NA
+"2316","D9","Mexico","Null","Price_Effect",NA
+"2317","D9","Russian Federation","Null","Price_Effect",NA
+"2318","D9","Turkiye","Null","Price_Effect",NA
+"2319","D9","United States","Null","Price_Effect",NA
+"2320","D9","South Africa","Null","Price_Effect",NA
+"2321","D10","Belgium","Explicit","Price_Effect",0
+"2322","D10","Brazil","Explicit","Price_Effect",6.56605536459539e-05
+"2323","D10","China","Explicit","Price_Effect",0.00125329690256707
+"2324","D10","Germany","Explicit","Price_Effect",0
+"2325","D10","Denmark","Explicit","Price_Effect",0
+"2326","D10","Spain","Explicit","Price_Effect",0
+"2327","D10","Finland","Explicit","Price_Effect",0
+"2328","D10","France","Explicit","Price_Effect",0
+"2329","D10","United Kingdom","Explicit","Price_Effect",0.000552987927076409
+"2330","D10","Indonesia","Explicit","Price_Effect",0.00669828741092546
+"2331","D10","India","Explicit","Price_Effect",0.00383974803776859
+"2332","D10","Ireland","Explicit","Price_Effect",0.000881903211236191
+"2333","D10","Italy","Explicit","Price_Effect",0
+"2334","D10","Japan","Explicit","Price_Effect",5.21370266115881e-05
+"2335","D10","Luxembourg","Explicit","Price_Effect",0.00030368999799919
+"2336","D10","Mexico","Explicit","Price_Effect",0.000226339556273707
+"2337","D10","Russian Federation","Explicit","Price_Effect",0.0163430468202057
+"2338","D10","Turkiye","Explicit","Price_Effect",0.00147907491921236
+"2339","D10","United States","Explicit","Price_Effect",0.000137690052051146
+"2340","D10","South Africa","Explicit","Price_Effect",0
+"2341","D10","Belgium","Implicit_prod","Price_Effect",0.000356136025375666
+"2342","D10","Brazil","Implicit_prod","Price_Effect",0.00404002442419792
+"2343","D10","China","Implicit_prod","Price_Effect",0.00923553779472962
+"2344","D10","Germany","Implicit_prod","Price_Effect",0.0012090441097363
+"2345","D10","Denmark","Implicit_prod","Price_Effect",0.000142973860277455
+"2346","D10","Spain","Implicit_prod","Price_Effect",0.000447525536394636
+"2347","D10","Finland","Implicit_prod","Price_Effect",0.000152440449596867
+"2348","D10","France","Implicit_prod","Price_Effect",0.000501041924445415
+"2349","D10","United Kingdom","Implicit_prod","Price_Effect",0.000910078223423708
+"2350","D10","Indonesia","Implicit_prod","Price_Effect",0.0127803189190426
+"2351","D10","India","Implicit_prod","Price_Effect",0.0186737318649734
+"2352","D10","Ireland","Implicit_prod","Price_Effect",0.000825089518834104
+"2353","D10","Italy","Implicit_prod","Price_Effect",0.00159883659973707
+"2354","D10","Japan","Implicit_prod","Price_Effect",0.0015719308832869
+"2355","D10","Luxembourg","Implicit_prod","Price_Effect",9.47787645555436e-06
+"2356","D10","Mexico","Implicit_prod","Price_Effect",0.00450737797953423
+"2357","D10","Russian Federation","Implicit_prod","Price_Effect",0.0272597001448019
+"2358","D10","Turkiye","Implicit_prod","Price_Effect",0.00803744818543237
+"2359","D10","United States","Implicit_prod","Price_Effect",0.0129132285830133
+"2360","D10","South Africa","Implicit_prod","Price_Effect",0.017721646594098
+"2361","D10","Belgium","Implicit_cons","Price_Effect",0.000423416648952814
+"2362","D10","Brazil","Implicit_cons","Price_Effect",0.000186087921733914
+"2363","D10","China","Implicit_cons","Price_Effect",0.0082118392346755
+"2364","D10","Germany","Implicit_cons","Price_Effect",0.000633489402145465
+"2365","D10","Denmark","Implicit_cons","Price_Effect",9.00695576278232e-05
+"2366","D10","Spain","Implicit_cons","Price_Effect",0.000259933052189605
+"2367","D10","Finland","Implicit_cons","Price_Effect",5.86556553392752e-05
+"2368","D10","France","Implicit_cons","Price_Effect",0.000312112908910584
+"2369","D10","United Kingdom","Implicit_cons","Price_Effect",0.000560497757365582
+"2370","D10","Indonesia","Implicit_cons","Price_Effect",0.00128978323171554
+"2371","D10","India","Implicit_cons","Price_Effect",0.000533902193475958
+"2372","D10","Ireland","Implicit_cons","Price_Effect",0.00161091119808834
+"2373","D10","Italy","Implicit_cons","Price_Effect",0.000620616846838687
+"2374","D10","Japan","Implicit_cons","Price_Effect",0.000365466925735746
+"2375","D10","Luxembourg","Implicit_cons","Price_Effect",0.00245582285657972
+"2376","D10","Mexico","Implicit_cons","Price_Effect",0.00106198736823307
+"2377","D10","Russian Federation","Implicit_cons","Price_Effect",0.00767468296955734
+"2378","D10","Turkiye","Implicit_cons","Price_Effect",0.00482653186919014
+"2379","D10","United States","Implicit_cons","Price_Effect",0.00359448214918548
+"2380","D10","South Africa","Implicit_cons","Price_Effect",0.00252541504598777
+"2381","D10","Belgium","Null","Price_Effect",NA
+"2382","D10","Brazil","Null","Price_Effect",NA
+"2383","D10","China","Null","Price_Effect",NA
+"2384","D10","Germany","Null","Price_Effect",NA
+"2385","D10","Denmark","Null","Price_Effect",NA
+"2386","D10","Spain","Null","Price_Effect",NA
+"2387","D10","Finland","Null","Price_Effect",NA
+"2388","D10","France","Null","Price_Effect",NA
+"2389","D10","United Kingdom","Null","Price_Effect",NA
+"2390","D10","Indonesia","Null","Price_Effect",NA
+"2391","D10","India","Null","Price_Effect",NA
+"2392","D10","Ireland","Null","Price_Effect",NA
+"2393","D10","Italy","Null","Price_Effect",NA
+"2394","D10","Japan","Null","Price_Effect",NA
+"2395","D10","Luxembourg","Null","Price_Effect",NA
+"2396","D10","Mexico","Null","Price_Effect",NA
+"2397","D10","Russian Federation","Null","Price_Effect",NA
+"2398","D10","Turkiye","Null","Price_Effect",NA
+"2399","D10","United States","Null","Price_Effect",NA
+"2400","D10","South Africa","Null","Price_Effect",NA
+"2401","D1","Other HICs","Explicit","Income_Effect",0.000424840859840237
+"2402","D1","Other HICs","Explicit","Price_Effect",0.00121242413949468
+"2403","D1","Other HICs","Explicit","Total_Effect",0.00163726499933492
+"2404","D1","Other HICs","Implicit_cons","Income_Effect",0.000689356417158044
+"2405","D1","Other HICs","Implicit_cons","Price_Effect",0.00680315411263319
+"2406","D1","Other HICs","Implicit_cons","Total_Effect",0.00749251052979123
+"2407","D1","Other HICs","Implicit_prod","Income_Effect",0.00327823594878608
+"2408","D1","Other HICs","Implicit_prod","Price_Effect",0.00606896797222273
+"2409","D1","Other HICs","Implicit_prod","Total_Effect",0.00934720392100881
+"2410","D1","Other HICs","Null","Income_Effect",NA
+"2411","D1","Other HICs","Null","Price_Effect",NA
+"2412","D1","Other HICs","Null","Total_Effect",NA
+"2413","D1","Other LICs","Explicit","Income_Effect",0.000773284201988491
+"2414","D1","Other LICs","Explicit","Price_Effect",0.000476855316895468
+"2415","D1","Other LICs","Explicit","Total_Effect",0.00125013951888396
+"2416","D1","Other LICs","Implicit_cons","Income_Effect",0.000629989939610074
+"2417","D1","Other LICs","Implicit_cons","Price_Effect",0.00227471560081403
+"2418","D1","Other LICs","Implicit_cons","Total_Effect",0.0029047055404241
+"2419","D1","Other LICs","Implicit_prod","Income_Effect",0.00190691338551301
+"2420","D1","Other LICs","Implicit_prod","Price_Effect",0.00166589433804213
+"2421","D1","Other LICs","Implicit_prod","Total_Effect",0.00357280772355514
+"2422","D1","Other LICs","Null","Income_Effect",NA
+"2423","D1","Other LICs","Null","Price_Effect",NA
+"2424","D1","Other LICs","Null","Total_Effect",NA
+"2425","D1","Other LMICs","Explicit","Income_Effect",0.00461232733729626
+"2426","D1","Other LMICs","Explicit","Price_Effect",0.0198556871839528
+"2427","D1","Other LMICs","Explicit","Total_Effect",0.0244680145212491
+"2428","D1","Other LMICs","Implicit_cons","Income_Effect",0.00152871946532165
+"2429","D1","Other LMICs","Implicit_cons","Price_Effect",0.0196887926371057
+"2430","D1","Other LMICs","Implicit_cons","Total_Effect",0.0212175121024273
+"2431","D1","Other LMICs","Implicit_prod","Income_Effect",0.00816805736133093
+"2432","D1","Other LMICs","Implicit_prod","Price_Effect",0.0245893410728835
+"2433","D1","Other LMICs","Implicit_prod","Total_Effect",0.0327573984342144
+"2434","D1","Other LMICs","Null","Income_Effect",NA
+"2435","D1","Other LMICs","Null","Price_Effect",NA
+"2436","D1","Other LMICs","Null","Total_Effect",NA
+"2437","D1","Other UMICs","Explicit","Income_Effect",0.00520022831539169
+"2438","D1","Other UMICs","Explicit","Price_Effect",0.0252901127907977
+"2439","D1","Other UMICs","Explicit","Total_Effect",0.0304903411061893
+"2440","D1","Other UMICs","Implicit_cons","Income_Effect",0.00311696101638103
+"2441","D1","Other UMICs","Implicit_cons","Price_Effect",0.0345734804092725
+"2442","D1","Other UMICs","Implicit_cons","Total_Effect",0.0376904414256535
+"2443","D1","Other UMICs","Implicit_prod","Income_Effect",0.00923138456012873
+"2444","D1","Other UMICs","Implicit_prod","Price_Effect",0.0382623729956716
+"2445","D1","Other UMICs","Implicit_prod","Total_Effect",0.0474937575558004
+"2446","D1","Other UMICs","Null","Income_Effect",NA
+"2447","D1","Other UMICs","Null","Price_Effect",NA
+"2448","D1","Other UMICs","Null","Total_Effect",NA
+"2449","D10","Other HICs","Explicit","Income_Effect",0.000517925074510268
+"2450","D10","Other HICs","Explicit","Price_Effect",0.000584561021014444
+"2451","D10","Other HICs","Explicit","Total_Effect",0.00110248609552471
+"2452","D10","Other HICs","Implicit_cons","Income_Effect",0.000858920847118645
+"2453","D10","Other HICs","Implicit_cons","Price_Effect",0.00237776305596384
+"2454","D10","Other HICs","Implicit_cons","Total_Effect",0.00323668390308249
+"2455","D10","Other HICs","Implicit_prod","Income_Effect",0.00321714271129592
+"2456","D10","Other HICs","Implicit_prod","Price_Effect",0.00323697358092011
+"2457","D10","Other HICs","Implicit_prod","Total_Effect",0.00645411629221603
+"2458","D10","Other HICs","Null","Income_Effect",NA
+"2459","D10","Other HICs","Null","Price_Effect",NA
+"2460","D10","Other HICs","Null","Total_Effect",NA
+"2461","D10","Other LICs","Explicit","Income_Effect",0.000961179750204587
+"2462","D10","Other LICs","Explicit","Price_Effect",0.00216084708733505
+"2463","D10","Other LICs","Explicit","Total_Effect",0.00312202683753964
+"2464","D10","Other LICs","Implicit_cons","Income_Effect",0.000701428814986628
+"2465","D10","Other LICs","Implicit_cons","Price_Effect",0.00115875169995961
+"2466","D10","Other LICs","Implicit_cons","Total_Effect",0.00186018051494624
+"2467","D10","Other LICs","Implicit_prod","Income_Effect",0.00237118043371878
+"2468","D10","Other LICs","Implicit_prod","Price_Effect",0.00235042484199148
+"2469","D10","Other LICs","Implicit_prod","Total_Effect",0.00472160527571026
+"2470","D10","Other LICs","Null","Income_Effect",NA
+"2471","D10","Other LICs","Null","Price_Effect",NA
+"2472","D10","Other LICs","Null","Total_Effect",NA
+"2473","D10","Other LMICs","Explicit","Income_Effect",0.00868799160466462
+"2474","D10","Other LMICs","Explicit","Price_Effect",0.0129292222613415
+"2475","D10","Other LMICs","Explicit","Total_Effect",0.0216172138660061
+"2476","D10","Other LMICs","Implicit_cons","Income_Effect",0.00375935958571953
+"2477","D10","Other LMICs","Implicit_cons","Price_Effect",0.00552313292979964
+"2478","D10","Other LMICs","Implicit_cons","Total_Effect",0.00928249251551917
+"2479","D10","Other LMICs","Implicit_prod","Income_Effect",0.0142156798922634
+"2480","D10","Other LMICs","Implicit_prod","Price_Effect",0.0171081996514028
+"2481","D10","Other LMICs","Implicit_prod","Total_Effect",0.0313238795436662
+"2482","D10","Other LMICs","Null","Income_Effect",NA
+"2483","D10","Other LMICs","Null","Price_Effect",NA
+"2484","D10","Other LMICs","Null","Total_Effect",NA
+"2485","D10","Other UMICs","Explicit","Income_Effect",0.00536010084982885
+"2486","D10","Other UMICs","Explicit","Price_Effect",0.00685864622728725
+"2487","D10","Other UMICs","Explicit","Total_Effect",0.0122187470771161
+"2488","D10","Other UMICs","Implicit_cons","Income_Effect",0.00508117842450067
+"2489","D10","Other UMICs","Implicit_cons","Price_Effect",0.00522501146990293
+"2490","D10","Other UMICs","Implicit_cons","Total_Effect",0.0103061898944036
+"2491","D10","Other UMICs","Implicit_prod","Income_Effect",0.0143603618814193
+"2492","D10","Other UMICs","Implicit_prod","Price_Effect",0.012333496013083
+"2493","D10","Other UMICs","Implicit_prod","Total_Effect",0.0266938578945022
+"2494","D10","Other UMICs","Null","Income_Effect",NA
+"2495","D10","Other UMICs","Null","Price_Effect",NA
+"2496","D10","Other UMICs","Null","Total_Effect",NA
+"2497","D2","Other HICs","Explicit","Income_Effect",0.000340078225297957
+"2498","D2","Other HICs","Explicit","Price_Effect",0.00126491965929515
+"2499","D2","Other HICs","Explicit","Total_Effect",0.00160499788459311
+"2500","D2","Other HICs","Implicit_cons","Income_Effect",0.000593217448015465
+"2501","D2","Other HICs","Implicit_cons","Price_Effect",0.00620951380095503
+"2502","D2","Other HICs","Implicit_cons","Total_Effect",0.0068027312489705
+"2503","D2","Other HICs","Implicit_prod","Income_Effect",0.00260666237434403
+"2504","D2","Other HICs","Implicit_prod","Price_Effect",0.00507747943523671
+"2505","D2","Other HICs","Implicit_prod","Total_Effect",0.00768414180958074
+"2506","D2","Other HICs","Null","Income_Effect",NA
+"2507","D2","Other HICs","Null","Price_Effect",NA
+"2508","D2","Other HICs","Null","Total_Effect",NA
+"2509","D2","Other LICs","Explicit","Income_Effect",0.00065113025880331
+"2510","D2","Other LICs","Explicit","Price_Effect",0.000500904537345673
+"2511","D2","Other LICs","Explicit","Total_Effect",0.00115203479614898
+"2512","D2","Other LICs","Implicit_cons","Income_Effect",0.00050034693704813
+"2513","D2","Other LICs","Implicit_cons","Price_Effect",0.00222185860470011
+"2514","D2","Other LICs","Implicit_cons","Total_Effect",0.00272220554174824
+"2515","D2","Other LICs","Implicit_prod","Income_Effect",0.00186758055728008
+"2516","D2","Other LICs","Implicit_prod","Price_Effect",0.00164050974515012
+"2517","D2","Other LICs","Implicit_prod","Total_Effect",0.0035080903024302
+"2518","D2","Other LICs","Null","Income_Effect",NA
+"2519","D2","Other LICs","Null","Price_Effect",NA
+"2520","D2","Other LICs","Null","Total_Effect",NA
+"2521","D2","Other LMICs","Explicit","Income_Effect",0.0047391731522882
+"2522","D2","Other LMICs","Explicit","Price_Effect",0.0183523852139056
+"2523","D2","Other LMICs","Explicit","Total_Effect",0.0230915583661938
+"2524","D2","Other LMICs","Implicit_cons","Income_Effect",0.00145538843437904
+"2525","D2","Other LMICs","Implicit_cons","Price_Effect",0.0163840169562086
+"2526","D2","Other LMICs","Implicit_cons","Total_Effect",0.0178394053905876
+"2527","D2","Other LMICs","Implicit_prod","Income_Effect",0.00832163161518082
+"2528","D2","Other LMICs","Implicit_prod","Price_Effect",0.0232620412599065
+"2529","D2","Other LMICs","Implicit_prod","Total_Effect",0.0315836728750873
+"2530","D2","Other LMICs","Null","Income_Effect",NA
+"2531","D2","Other LMICs","Null","Price_Effect",NA
+"2532","D2","Other LMICs","Null","Total_Effect",NA
+"2533","D2","Other UMICs","Explicit","Income_Effect",0.00502295340945411
+"2534","D2","Other UMICs","Explicit","Price_Effect",0.0200816121984656
+"2535","D2","Other UMICs","Explicit","Total_Effect",0.0251045656079197
+"2536","D2","Other UMICs","Implicit_cons","Income_Effect",0.00322009643462486
+"2537","D2","Other UMICs","Implicit_cons","Price_Effect",0.0267554787435524
+"2538","D2","Other UMICs","Implicit_cons","Total_Effect",0.0299755751781772
+"2539","D2","Other UMICs","Implicit_prod","Income_Effect",0.00975957359553649
+"2540","D2","Other UMICs","Implicit_prod","Price_Effect",0.0316478620765733
+"2541","D2","Other UMICs","Implicit_prod","Total_Effect",0.0414074356721098
+"2542","D2","Other UMICs","Null","Income_Effect",NA
+"2543","D2","Other UMICs","Null","Price_Effect",NA
+"2544","D2","Other UMICs","Null","Total_Effect",NA
+"2545","D3","Other HICs","Explicit","Income_Effect",0.000329092826591948
+"2546","D3","Other HICs","Explicit","Price_Effect",0.00115003947058149
+"2547","D3","Other HICs","Explicit","Total_Effect",0.00147913229717344
+"2548","D3","Other HICs","Implicit_cons","Income_Effect",0.00057829361130662
+"2549","D3","Other HICs","Implicit_cons","Price_Effect",0.00475410743588833
+"2550","D3","Other HICs","Implicit_cons","Total_Effect",0.00533240104719495
+"2551","D3","Other HICs","Implicit_prod","Income_Effect",0.0025012307949176
+"2552","D3","Other HICs","Implicit_prod","Price_Effect",0.00449635288526354
+"2553","D3","Other HICs","Implicit_prod","Total_Effect",0.00699758368018114
+"2554","D3","Other HICs","Null","Income_Effect",NA
+"2555","D3","Other HICs","Null","Price_Effect",NA
+"2556","D3","Other HICs","Null","Total_Effect",NA
+"2557","D3","Other LICs","Explicit","Income_Effect",0.00030506124655467
+"2558","D3","Other LICs","Explicit","Price_Effect",0.000584954660864352
+"2559","D3","Other LICs","Explicit","Total_Effect",0.000890015907419022
+"2560","D3","Other LICs","Implicit_cons","Income_Effect",0.000185443333798287
+"2561","D3","Other LICs","Implicit_cons","Price_Effect",0.00226943155718335
+"2562","D3","Other LICs","Implicit_cons","Total_Effect",0.00245487489098164
+"2563","D3","Other LICs","Implicit_prod","Income_Effect",0.00147636291544439
+"2564","D3","Other LICs","Implicit_prod","Price_Effect",0.00172260964868745
+"2565","D3","Other LICs","Implicit_prod","Total_Effect",0.00319897256413184
+"2566","D3","Other LICs","Null","Income_Effect",NA
+"2567","D3","Other LICs","Null","Price_Effect",NA
+"2568","D3","Other LICs","Null","Total_Effect",NA
+"2569","D3","Other LMICs","Explicit","Income_Effect",0.00529980168602078
+"2570","D3","Other LMICs","Explicit","Price_Effect",0.0181868137530324
+"2571","D3","Other LMICs","Explicit","Total_Effect",0.0234866154390532
+"2572","D3","Other LMICs","Implicit_cons","Income_Effect",0.00164710284503852
+"2573","D3","Other LMICs","Implicit_cons","Price_Effect",0.0153938256677084
+"2574","D3","Other LMICs","Implicit_cons","Total_Effect",0.017040928512747
+"2575","D3","Other LMICs","Implicit_prod","Income_Effect",0.00897990764383476
+"2576","D3","Other LMICs","Implicit_prod","Price_Effect",0.02280677716887
+"2577","D3","Other LMICs","Implicit_prod","Total_Effect",0.0317866848127047
+"2578","D3","Other LMICs","Null","Income_Effect",NA
+"2579","D3","Other LMICs","Null","Price_Effect",NA
+"2580","D3","Other LMICs","Null","Total_Effect",NA
+"2581","D3","Other UMICs","Explicit","Income_Effect",0.00500059291747156
+"2582","D3","Other UMICs","Explicit","Price_Effect",0.0163808875111262
+"2583","D3","Other UMICs","Explicit","Total_Effect",0.0213814804285978
+"2584","D3","Other UMICs","Implicit_cons","Income_Effect",0.00343297277433066
+"2585","D3","Other UMICs","Implicit_cons","Price_Effect",0.0208273569035671
+"2586","D3","Other UMICs","Implicit_cons","Total_Effect",0.0242603296778978
+"2587","D3","Other UMICs","Implicit_prod","Income_Effect",0.0104426267596044
+"2588","D3","Other UMICs","Implicit_prod","Price_Effect",0.027018106323618
+"2589","D3","Other UMICs","Implicit_prod","Total_Effect",0.0374607330832224
+"2590","D3","Other UMICs","Null","Income_Effect",NA
+"2591","D3","Other UMICs","Null","Price_Effect",NA
+"2592","D3","Other UMICs","Null","Total_Effect",NA
+"2593","D4","Other HICs","Explicit","Income_Effect",0.000358137586410139
+"2594","D4","Other HICs","Explicit","Price_Effect",0.00108469470995215
+"2595","D4","Other HICs","Explicit","Total_Effect",0.00144283229636229
+"2596","D4","Other HICs","Implicit_cons","Income_Effect",0.000625466876114475
+"2597","D4","Other HICs","Implicit_cons","Price_Effect",0.00459199278308934
+"2598","D4","Other HICs","Implicit_cons","Total_Effect",0.00521745965920382
+"2599","D4","Other HICs","Implicit_prod","Income_Effect",0.00267957014981132
+"2600","D4","Other HICs","Implicit_prod","Price_Effect",0.00432782222474804
+"2601","D4","Other HICs","Implicit_prod","Total_Effect",0.00700739237455936
+"2602","D4","Other HICs","Null","Income_Effect",NA
+"2603","D4","Other HICs","Null","Price_Effect",NA
+"2604","D4","Other HICs","Null","Total_Effect",NA
+"2605","D4","Other LICs","Explicit","Income_Effect",0.000811087974167555
+"2606","D4","Other LICs","Explicit","Price_Effect",0.000610050719800892
+"2607","D4","Other LICs","Explicit","Total_Effect",0.00142113869396845
+"2608","D4","Other LICs","Implicit_cons","Income_Effect",0.000607696584582931
+"2609","D4","Other LICs","Implicit_cons","Price_Effect",0.00221115303192324
+"2610","D4","Other LICs","Implicit_cons","Total_Effect",0.00281884961650617
+"2611","D4","Other LICs","Implicit_prod","Income_Effect",0.00221747786126561
+"2612","D4","Other LICs","Implicit_prod","Price_Effect",0.00163111054214662
+"2613","D4","Other LICs","Implicit_prod","Total_Effect",0.00384858840341224
+"2614","D4","Other LICs","Null","Income_Effect",NA
+"2615","D4","Other LICs","Null","Price_Effect",NA
+"2616","D4","Other LICs","Null","Total_Effect",NA
+"2617","D4","Other LMICs","Explicit","Income_Effect",0.00595883555809518
+"2618","D4","Other LMICs","Explicit","Price_Effect",0.0171735064741566
+"2619","D4","Other LMICs","Explicit","Total_Effect",0.0231323420322517
+"2620","D4","Other LMICs","Implicit_cons","Income_Effect",0.00185868590677006
+"2621","D4","Other LMICs","Implicit_cons","Price_Effect",0.0137139901659442
+"2622","D4","Other LMICs","Implicit_cons","Total_Effect",0.0155726760727143
+"2623","D4","Other LMICs","Implicit_prod","Income_Effect",0.0098659451601597
+"2624","D4","Other LMICs","Implicit_prod","Price_Effect",0.0218359204549529
+"2625","D4","Other LMICs","Implicit_prod","Total_Effect",0.0317018656151126
+"2626","D4","Other LMICs","Null","Income_Effect",NA
+"2627","D4","Other LMICs","Null","Price_Effect",NA
+"2628","D4","Other LMICs","Null","Total_Effect",NA
+"2629","D4","Other UMICs","Explicit","Income_Effect",0.00543524698209499
+"2630","D4","Other UMICs","Explicit","Price_Effect",0.0153184158004838
+"2631","D4","Other UMICs","Explicit","Total_Effect",0.0207536627825788
+"2632","D4","Other UMICs","Implicit_cons","Income_Effect",0.00380466104770891
+"2633","D4","Other UMICs","Implicit_cons","Price_Effect",0.018280746090666
+"2634","D4","Other UMICs","Implicit_cons","Total_Effect",0.0220854071383749
+"2635","D4","Other UMICs","Implicit_prod","Income_Effect",0.0113085322985384
+"2636","D4","Other UMICs","Implicit_prod","Price_Effect",0.0250132394732467
+"2637","D4","Other UMICs","Implicit_prod","Total_Effect",0.0363217717717852
+"2638","D4","Other UMICs","Null","Income_Effect",NA
+"2639","D4","Other UMICs","Null","Price_Effect",NA
+"2640","D4","Other UMICs","Null","Total_Effect",NA
+"2641","D5","Other HICs","Explicit","Income_Effect",0.000375079371618924
+"2642","D5","Other HICs","Explicit","Price_Effect",0.000993619454353691
+"2643","D5","Other HICs","Explicit","Total_Effect",0.00136869882597261
+"2644","D5","Other HICs","Implicit_cons","Income_Effect",0.000669447717921135
+"2645","D5","Other HICs","Implicit_cons","Price_Effect",0.00372508259386284
+"2646","D5","Other HICs","Implicit_cons","Total_Effect",0.00439453031178397
+"2647","D5","Other HICs","Implicit_prod","Income_Effect",0.00284801802320708
+"2648","D5","Other HICs","Implicit_prod","Price_Effect",0.00398628882682241
+"2649","D5","Other HICs","Implicit_prod","Total_Effect",0.00683430685002949
+"2650","D5","Other HICs","Null","Income_Effect",NA
+"2651","D5","Other HICs","Null","Price_Effect",NA
+"2652","D5","Other HICs","Null","Total_Effect",NA
+"2653","D5","Other LICs","Explicit","Income_Effect",0.000580122830001346
+"2654","D5","Other LICs","Explicit","Price_Effect",0.0015296248252708
+"2655","D5","Other LICs","Explicit","Total_Effect",0.00210974765527215
+"2656","D5","Other LICs","Implicit_cons","Income_Effect",0.000416405498359718
+"2657","D5","Other LICs","Implicit_cons","Price_Effect",0.00228981475431669
+"2658","D5","Other LICs","Implicit_cons","Total_Effect",0.00270622025267641
+"2659","D5","Other LICs","Implicit_prod","Income_Effect",0.00189670972323573
+"2660","D5","Other LICs","Implicit_prod","Price_Effect",0.00173722882949388
+"2661","D5","Other LICs","Implicit_prod","Total_Effect",0.00363393855272962
+"2662","D5","Other LICs","Null","Income_Effect",NA
+"2663","D5","Other LICs","Null","Price_Effect",NA
+"2664","D5","Other LICs","Null","Total_Effect",NA
+"2665","D5","Other LMICs","Explicit","Income_Effect",0.0063324913569436
+"2666","D5","Other LMICs","Explicit","Price_Effect",0.0167545128331317
+"2667","D5","Other LMICs","Explicit","Total_Effect",0.0230870041900753
+"2668","D5","Other LMICs","Implicit_cons","Income_Effect",0.00199724296480137
+"2669","D5","Other LMICs","Implicit_cons","Price_Effect",0.012604808120331
+"2670","D5","Other LMICs","Implicit_cons","Total_Effect",0.0146020510851324
+"2671","D5","Other LMICs","Implicit_prod","Income_Effect",0.0104031883642087
+"2672","D5","Other LMICs","Implicit_prod","Price_Effect",0.0217510265151106
+"2673","D5","Other LMICs","Implicit_prod","Total_Effect",0.0321542148793194
+"2674","D5","Other LMICs","Null","Income_Effect",NA
+"2675","D5","Other LMICs","Null","Price_Effect",NA
+"2676","D5","Other LMICs","Null","Total_Effect",NA
+"2677","D5","Other UMICs","Explicit","Income_Effect",0.00540898008428427
+"2678","D5","Other UMICs","Explicit","Price_Effect",0.0129392892143037
+"2679","D5","Other UMICs","Explicit","Total_Effect",0.018348269298588
+"2680","D5","Other UMICs","Implicit_cons","Income_Effect",0.0037831716833162
+"2681","D5","Other UMICs","Implicit_cons","Price_Effect",0.0139736325641568
+"2682","D5","Other UMICs","Implicit_cons","Total_Effect",0.017756804247473
+"2683","D5","Other UMICs","Implicit_prod","Income_Effect",0.0114910024555135
+"2684","D5","Other UMICs","Implicit_prod","Price_Effect",0.0215282385865846
+"2685","D5","Other UMICs","Implicit_prod","Total_Effect",0.0330192410420981
+"2686","D5","Other UMICs","Null","Income_Effect",NA
+"2687","D5","Other UMICs","Null","Price_Effect",NA
+"2688","D5","Other UMICs","Null","Total_Effect",NA
+"2689","D6","Other HICs","Explicit","Income_Effect",0.000363441153170731
+"2690","D6","Other HICs","Explicit","Price_Effect",0.00092612166265475
+"2691","D6","Other HICs","Explicit","Total_Effect",0.00128956281582548
+"2692","D6","Other HICs","Implicit_cons","Income_Effect",0.000653259881301279
+"2693","D6","Other HICs","Implicit_cons","Price_Effect",0.00364831043893564
+"2694","D6","Other HICs","Implicit_cons","Total_Effect",0.00430157032023692
+"2695","D6","Other HICs","Implicit_prod","Income_Effect",0.00272464082560908
+"2696","D6","Other HICs","Implicit_prod","Price_Effect",0.00391367134581091
+"2697","D6","Other HICs","Implicit_prod","Total_Effect",0.00663831217141999
+"2698","D6","Other HICs","Null","Income_Effect",NA
+"2699","D6","Other HICs","Null","Price_Effect",NA
+"2700","D6","Other HICs","Null","Total_Effect",NA
+"2701","D6","Other LICs","Explicit","Income_Effect",0.00096944488184352
+"2702","D6","Other LICs","Explicit","Price_Effect",0.0008103071404929
+"2703","D6","Other LICs","Explicit","Total_Effect",0.00177975202233642
+"2704","D6","Other LICs","Implicit_cons","Income_Effect",0.000738861773037715
+"2705","D6","Other LICs","Implicit_cons","Price_Effect",0.00222691653698349
+"2706","D6","Other LICs","Implicit_cons","Total_Effect",0.0029657783100212
+"2707","D6","Other LICs","Implicit_prod","Income_Effect",0.00246561003354743
+"2708","D6","Other LICs","Implicit_prod","Price_Effect",0.00176196346708817
+"2709","D6","Other LICs","Implicit_prod","Total_Effect",0.0042275735006356
+"2710","D6","Other LICs","Null","Income_Effect",NA
+"2711","D6","Other LICs","Null","Price_Effect",NA
+"2712","D6","Other LICs","Null","Total_Effect",NA
+"2713","D6","Other LMICs","Explicit","Income_Effect",0.0068471956742396
+"2714","D6","Other LMICs","Explicit","Price_Effect",0.0163988106711658
+"2715","D6","Other LMICs","Explicit","Total_Effect",0.0232460063454054
+"2716","D6","Other LMICs","Implicit_cons","Income_Effect",0.00217455401793875
+"2717","D6","Other LMICs","Implicit_cons","Price_Effect",0.011362080488632
+"2718","D6","Other LMICs","Implicit_cons","Total_Effect",0.0135366345065707
+"2719","D6","Other LMICs","Implicit_prod","Income_Effect",0.0110406229800914
+"2720","D6","Other LMICs","Implicit_prod","Price_Effect",0.0210978536260885
+"2721","D6","Other LMICs","Implicit_prod","Total_Effect",0.0321384766061799
+"2722","D6","Other LMICs","Null","Income_Effect",NA
+"2723","D6","Other LMICs","Null","Price_Effect",NA
+"2724","D6","Other LMICs","Null","Total_Effect",NA
+"2725","D6","Other UMICs","Explicit","Income_Effect",0.00522831061535752
+"2726","D6","Other UMICs","Explicit","Price_Effect",0.0116862063237396
+"2727","D6","Other UMICs","Explicit","Total_Effect",0.0169145169390971
+"2728","D6","Other UMICs","Implicit_cons","Income_Effect",0.00397229135116049
+"2729","D6","Other UMICs","Implicit_cons","Price_Effect",0.0116367157800837
+"2730","D6","Other UMICs","Implicit_cons","Total_Effect",0.0156090071312442
+"2731","D6","Other UMICs","Implicit_prod","Income_Effect",0.0119193062261109
+"2732","D6","Other UMICs","Implicit_prod","Price_Effect",0.0193013195744565
+"2733","D6","Other UMICs","Implicit_prod","Total_Effect",0.0312206258005674
+"2734","D6","Other UMICs","Null","Income_Effect",NA
+"2735","D6","Other UMICs","Null","Price_Effect",NA
+"2736","D6","Other UMICs","Null","Total_Effect",NA
+"2737","D7","Other HICs","Explicit","Income_Effect",0.000371904229455203
+"2738","D7","Other HICs","Explicit","Price_Effect",0.00084173672665075
+"2739","D7","Other HICs","Explicit","Total_Effect",0.00121364095610595
+"2740","D7","Other HICs","Implicit_cons","Income_Effect",0.000664441256277449
+"2741","D7","Other HICs","Implicit_cons","Price_Effect",0.00335923443858499
+"2742","D7","Other HICs","Implicit_cons","Total_Effect",0.00402367569486244
+"2743","D7","Other HICs","Implicit_prod","Income_Effect",0.00275424277899604
+"2744","D7","Other HICs","Implicit_prod","Price_Effect",0.00389255853783488
+"2745","D7","Other HICs","Implicit_prod","Total_Effect",0.00664680131683092
+"2746","D7","Other HICs","Null","Income_Effect",NA
+"2747","D7","Other HICs","Null","Price_Effect",NA
+"2748","D7","Other HICs","Null","Total_Effect",NA
+"2749","D7","Other LICs","Explicit","Income_Effect",0.000977486305754924
+"2750","D7","Other LICs","Explicit","Price_Effect",0.000800448030728754
+"2751","D7","Other LICs","Explicit","Total_Effect",0.00177793433648368
+"2752","D7","Other LICs","Implicit_cons","Income_Effect",0.000747912030226716
+"2753","D7","Other LICs","Implicit_cons","Price_Effect",0.00222015590834516
+"2754","D7","Other LICs","Implicit_cons","Total_Effect",0.00296806793857188
+"2755","D7","Other LICs","Implicit_prod","Income_Effect",0.00249822022329989
+"2756","D7","Other LICs","Implicit_prod","Price_Effect",0.00184612877269639
+"2757","D7","Other LICs","Implicit_prod","Total_Effect",0.00434434899599629
+"2758","D7","Other LICs","Null","Income_Effect",NA
+"2759","D7","Other LICs","Null","Price_Effect",NA
+"2760","D7","Other LICs","Null","Total_Effect",NA
+"2761","D7","Other LMICs","Explicit","Income_Effect",0.00758165049846316
+"2762","D7","Other LMICs","Explicit","Price_Effect",0.016040618343158
+"2763","D7","Other LMICs","Explicit","Total_Effect",0.0236222688416211
+"2764","D7","Other LMICs","Implicit_cons","Income_Effect",0.00253319070536968
+"2765","D7","Other LMICs","Implicit_cons","Price_Effect",0.0105762800223943
+"2766","D7","Other LMICs","Implicit_cons","Total_Effect",0.013109470727764
+"2767","D7","Other LMICs","Implicit_prod","Income_Effect",0.0119972718297493
+"2768","D7","Other LMICs","Implicit_prod","Price_Effect",0.0208527565724934
+"2769","D7","Other LMICs","Implicit_prod","Total_Effect",0.0328500284022427
+"2770","D7","Other LMICs","Null","Income_Effect",NA
+"2771","D7","Other LMICs","Null","Price_Effect",NA
+"2772","D7","Other LMICs","Null","Total_Effect",NA
+"2773","D7","Other UMICs","Explicit","Income_Effect",0.00508295906502244
+"2774","D7","Other UMICs","Explicit","Price_Effect",0.0111763992034166
+"2775","D7","Other UMICs","Explicit","Total_Effect",0.0162593582684391
+"2776","D7","Other UMICs","Implicit_cons","Income_Effect",0.00413981665303476
+"2777","D7","Other UMICs","Implicit_cons","Price_Effect",0.0101880352793897
+"2778","D7","Other UMICs","Implicit_cons","Total_Effect",0.0143278519324244
+"2779","D7","Other UMICs","Implicit_prod","Income_Effect",0.0122999390430452
+"2780","D7","Other UMICs","Implicit_prod","Price_Effect",0.0181047617028408
+"2781","D7","Other UMICs","Implicit_prod","Total_Effect",0.030404700745886
+"2782","D7","Other UMICs","Null","Income_Effect",NA
+"2783","D7","Other UMICs","Null","Price_Effect",NA
+"2784","D7","Other UMICs","Null","Total_Effect",NA
+"2785","D8","Other HICs","Explicit","Income_Effect",0.000414823127519837
+"2786","D8","Other HICs","Explicit","Price_Effect",0.000792623796661146
+"2787","D8","Other HICs","Explicit","Total_Effect",0.00120744692418098
+"2788","D8","Other HICs","Implicit_cons","Income_Effect",0.000721783887780534
+"2789","D8","Other HICs","Implicit_cons","Price_Effect",0.00306956610811091
+"2790","D8","Other HICs","Implicit_cons","Total_Effect",0.00379134999589144
+"2791","D8","Other HICs","Implicit_prod","Income_Effect",0.00300017552005332
+"2792","D8","Other HICs","Implicit_prod","Price_Effect",0.00366666008020365
+"2793","D8","Other HICs","Implicit_prod","Total_Effect",0.00666683560025697
+"2794","D8","Other HICs","Null","Income_Effect",NA
+"2795","D8","Other HICs","Null","Price_Effect",NA
+"2796","D8","Other HICs","Null","Total_Effect",NA
+"2797","D8","Other LICs","Explicit","Income_Effect",0.000977200528393829
+"2798","D8","Other LICs","Explicit","Price_Effect",0.00101792709709287
+"2799","D8","Other LICs","Explicit","Total_Effect",0.00199512762548669
+"2800","D8","Other LICs","Implicit_cons","Income_Effect",0.000728519826937882
+"2801","D8","Other LICs","Implicit_cons","Price_Effect",0.00208641002420129
+"2802","D8","Other LICs","Implicit_cons","Total_Effect",0.00281492985113917
+"2803","D8","Other LICs","Implicit_prod","Income_Effect",0.0025529471226982
+"2804","D8","Other LICs","Implicit_prod","Price_Effect",0.00193670253287408
+"2805","D8","Other LICs","Implicit_prod","Total_Effect",0.00448964965557227
+"2806","D8","Other LICs","Null","Income_Effect",NA
+"2807","D8","Other LICs","Null","Price_Effect",NA
+"2808","D8","Other LICs","Null","Total_Effect",NA
+"2809","D8","Other LMICs","Explicit","Income_Effect",0.0079905861840057
+"2810","D8","Other LMICs","Explicit","Price_Effect",0.0155032503129961
+"2811","D8","Other LMICs","Explicit","Total_Effect",0.0234938364970018
+"2812","D8","Other LMICs","Implicit_cons","Income_Effect",0.00278922035002811
+"2813","D8","Other LMICs","Implicit_cons","Price_Effect",0.00941500778691901
+"2814","D8","Other LMICs","Implicit_cons","Total_Effect",0.0122042281369471
+"2815","D8","Other LMICs","Implicit_prod","Income_Effect",0.0125604826879384
+"2816","D8","Other LMICs","Implicit_prod","Price_Effect",0.0202927641694155
+"2817","D8","Other LMICs","Implicit_prod","Total_Effect",0.0328532468573539
+"2818","D8","Other LMICs","Null","Income_Effect",NA
+"2819","D8","Other LMICs","Null","Price_Effect",NA
+"2820","D8","Other LMICs","Null","Total_Effect",NA
+"2821","D8","Other UMICs","Explicit","Income_Effect",0.00535187671469261
+"2822","D8","Other UMICs","Explicit","Price_Effect",0.00934808335035939
+"2823","D8","Other UMICs","Explicit","Total_Effect",0.014699960065052
+"2824","D8","Other UMICs","Implicit_cons","Income_Effect",0.00437649568759059
+"2825","D8","Other UMICs","Implicit_cons","Price_Effect",0.0079427071720337
+"2826","D8","Other UMICs","Implicit_cons","Total_Effect",0.0123192028596243
+"2827","D8","Other UMICs","Implicit_prod","Income_Effect",0.0128201360129229
+"2828","D8","Other UMICs","Implicit_prod","Price_Effect",0.0158802849839934
+"2829","D8","Other UMICs","Implicit_prod","Total_Effect",0.0287004209969163
+"2830","D8","Other UMICs","Null","Income_Effect",NA
+"2831","D8","Other UMICs","Null","Price_Effect",NA
+"2832","D8","Other UMICs","Null","Total_Effect",NA
+"2833","D9","Other HICs","Explicit","Income_Effect",0.000419881806672991
+"2834","D9","Other HICs","Explicit","Price_Effect",0.00071193214281384
+"2835","D9","Other HICs","Explicit","Total_Effect",0.00113181394948683
+"2836","D9","Other HICs","Implicit_cons","Income_Effect",0.000728073026424927
+"2837","D9","Other HICs","Implicit_cons","Price_Effect",0.00285031212805339
+"2838","D9","Other HICs","Implicit_cons","Total_Effect",0.00357838515447832
+"2839","D9","Other HICs","Implicit_prod","Income_Effect",0.00298066590681382
+"2840","D9","Other HICs","Implicit_prod","Price_Effect",0.00365171646043198
+"2841","D9","Other HICs","Implicit_prod","Total_Effect",0.0066323823672458
+"2842","D9","Other HICs","Null","Income_Effect",NA
+"2843","D9","Other HICs","Null","Price_Effect",NA
+"2844","D9","Other HICs","Null","Total_Effect",NA
+"2845","D9","Other LICs","Explicit","Income_Effect",0.00103365966217683
+"2846","D9","Other LICs","Explicit","Price_Effect",0.00144748346678648
+"2847","D9","Other LICs","Explicit","Total_Effect",0.00248114312896331
+"2848","D9","Other LICs","Implicit_cons","Income_Effect",0.000790096352643161
+"2849","D9","Other LICs","Implicit_cons","Price_Effect",0.00186713696322906
+"2850","D9","Other LICs","Implicit_cons","Total_Effect",0.00265723331587222
+"2851","D9","Other LICs","Implicit_prod","Income_Effect",0.00281248582568349
+"2852","D9","Other LICs","Implicit_prod","Price_Effect",0.00208633430637502
+"2853","D9","Other LICs","Implicit_prod","Total_Effect",0.0048988201320585
+"2854","D9","Other LICs","Null","Income_Effect",NA
+"2855","D9","Other LICs","Null","Price_Effect",NA
+"2856","D9","Other LICs","Null","Total_Effect",NA
+"2857","D9","Other LMICs","Explicit","Income_Effect",0.00811201247574747
+"2858","D9","Other LMICs","Explicit","Price_Effect",0.0148173785329118
+"2859","D9","Other LMICs","Explicit","Total_Effect",0.0229293910086593
+"2860","D9","Other LMICs","Implicit_cons","Income_Effect",0.00296542584166372
+"2861","D9","Other LMICs","Implicit_cons","Price_Effect",0.00798563407371431
+"2862","D9","Other LMICs","Implicit_cons","Total_Effect",0.010951059915378
+"2863","D9","Other LMICs","Implicit_prod","Income_Effect",0.0128993461252583
+"2864","D9","Other LMICs","Implicit_prod","Price_Effect",0.0193744826831065
+"2865","D9","Other LMICs","Implicit_prod","Total_Effect",0.0322738288083648
+"2866","D9","Other LMICs","Null","Income_Effect",NA
+"2867","D9","Other LMICs","Null","Price_Effect",NA
+"2868","D9","Other LMICs","Null","Total_Effect",NA
+"2869","D9","Other UMICs","Explicit","Income_Effect",0.00522548419229591
+"2870","D9","Other UMICs","Explicit","Price_Effect",0.0082482997499347
+"2871","D9","Other UMICs","Explicit","Total_Effect",0.0134737839422306
+"2872","D9","Other UMICs","Implicit_cons","Income_Effect",0.00456759815676942
+"2873","D9","Other UMICs","Implicit_cons","Price_Effect",0.00644079127144506
+"2874","D9","Other UMICs","Implicit_cons","Total_Effect",0.0110083894282145
+"2875","D9","Other UMICs","Implicit_prod","Income_Effect",0.0131021303630192
+"2876","D9","Other UMICs","Implicit_prod","Price_Effect",0.0141617617850154
+"2877","D9","Other UMICs","Implicit_prod","Total_Effect",0.0272638921480346
+"2878","D9","Other UMICs","Null","Income_Effect",NA
+"2879","D9","Other UMICs","Null","Price_Effect",NA
+"2880","D9","Other UMICs","Null","Total_Effect",NA
