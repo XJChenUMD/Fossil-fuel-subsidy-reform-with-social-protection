@@ -1,6 +1,10 @@
 
 
-#Set working directory and working envir-----
+#Main file: run the full analysis pipeline (Modules 1-9)
+#Xiangjie Chen, GEOG, UMD
+#xjchen@terpmail.umd.edu
+
+#Set working directory and working environment-----
 library(openxlsx)
 library(stringr)
 library(tidyverse)
@@ -40,18 +44,13 @@ source(str_c(pathcode,"/Module 9_Database comparison_Explicit subsidies.R"))
 
 
 
-# ROBUSTNESS CHECK: SI2021 — Subsidy magnitudes calibrated to year 2021
-# =============================================================================
-# Purpose: Verify that core conclusions (poverty/inequality/CO2 trade-offs,
-#   direction of welfare effects, SP scenario rankings) are robust to using
-#   2021 subsidy magnitudes instead of 2022 (main run).
-# pathout stays as the main run base (Module 4 SP_Scenarios is year-invariant)
+#Robustness check SI2021: rerun with 2021 subsidy data instead of 2022-----
+# pathout stays as the main-run base (Module 4 SP_Scenarios is year-invariant)
 pathout2 <- str_c(pathout, "/Subsidy scenarios and revenue/SI2021");dir.create(pathout2)
 pathout3 <- str_c(pathout, "/Effect_Subsidy+Social assistance/SI2021");dir.create(pathout3)
 pathout5 <- str_c(pathout, "/Results summary and figs/SI2021");dir.create(pathout5)
 
-# pathcode stays as the base folder — SI2021 wrappers live in the SI2021 subfolder
-YEAR_USE_2023_OVERRIDE <- 2021L
+YEAR_USE_2023_OVERRIDE <- 2021L  # switches Module 3's reference year to 2021
 source(str_c(pathcode,"/Module 3_Subsidy scenarios_PriceData_v5.R"))
 rm(YEAR_USE_2023_OVERRIDE)
 message("SI2021 Module 3 complete (YEAR_USE_2023 = 2021 was used as override).")
@@ -59,10 +58,8 @@ message("SI2021 Module 3 complete (YEAR_USE_2023 = 2021 was used as override).")
 source(str_c(pathcode,"/Module 5_Effects_Subsidy+SA_v5_recyshares_v6.R"))
 source(str_c(pathcode,"/Module 6_Results summary_v5_recyshares.R"))
 source(str_c(pathcode,"/Module 7_Visualization_v9_recyshares100.R"))
-# shared pathout — the main run result is reused directly by Module 5 SI2021.
 
-# ROBUSTNESS CHECK: SI_IMF25 — IMF 2025 database, reference year 2024
-# =============================================================================
+#Robustness check SI_IMF25: rerun with the IMF 2025 database, reference year 2024-----
 pathout2_imf25 <- str_c(pathout, "/Subsidy scenarios and revenue/SI_IMF25");dir.create(pathout2_imf25)
 pathout3_imf25 <- str_c(pathout, "/Effect_Subsidy+Social assistance/SI_IMF25");dir.create(pathout3_imf25)
 pathout5_imf25 <- str_c(pathout, "/Results summary and figs/SI_IMF25");dir.create(pathout5_imf25)

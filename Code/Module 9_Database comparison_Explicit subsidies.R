@@ -2,34 +2,32 @@
 #Xiangjie Chen, GEOG, UMD
 #xjchen@terpmail.umd.edu
 #
-# Goal: Compare country-level explicit fossil fuel subsidy estimates across:
-#   (A) IMF 2023  –  EXTERNALfuelsubsidiestemplate2023new.xlsx  / 'data' sheet
-#       Variable:  mit.sub.texpprod.tot.all.1  (texp + tpro; million 2021 USD)
-#       Consistent with Module 3 Subsidy_Clean construction.
-#   (B) IMF 2025  –  EXTERNALfuelsubsidiestemplate2025.csv
-#       Variable:  mit.expsub.con.all.all.1  (consumer explicit only; billion 2021 USD)
-#   (C) IEA 2025  –  IEA Subsidies 2010-2024.xlsx  / 'Subsidies by country' sheet
+# Compare country-level explicit fossil fuel subsidy estimates across:
+#   (A) IMF 2023: EXTERNALfuelsubsidiestemplate2023new.xlsx, 'data' sheet.
+#       Variable mit.sub.texpprod.tot.all.1 (texp + tpro; million 2021 USD),
+#       consistent with the Subsidy_Clean construction in Module 3.
+#   (B) IMF 2025: EXTERNALfuelsubsidiestemplate2025.csv.
+#       Variable mit.expsub.con.all.all.1 (consumer explicit only; billion 2021 USD).
+#   (C) IEA 2025: IEA Subsidies 2010-2024.xlsx, 'Subsidies by country' sheet.
 #       Product = "Total" (price-gap, all fuels; million real 2024 USD)
 #
-# Unit harmonisation → ALL converted to BILLION 2017 USD via US GDP deflator
-#   Deflator base: GDPDEF.csv  (quarterly; annual average; index 2017 = 100)
-#   DEFL_2021_to_2017 = 0.9078  (consistent with Module 3)
-#   DEFL_2024_to_2017 = 0.7973
+# Unit harmonisation: all series converted to billion 2017 USD via the US GDP
+#   deflator (GDPDEF.csv; quarterly, annual average, index 2017 = 100).
+#   DEFL_2021_to_2017 = 0.9078 (consistent with Module 3); DEFL_2024_to_2017 = 0.7973.
 #
-# Module 3 consistency note:
-#   Module 3 computes Subsidy_Clean from the SAME 'data' sheet using:
-#   texp (residential + industrial/power) + tpro (direct producer transfers)
-#   → mit.sub.texpprod.tot.all.1 captures this identical aggregation.
-#   Module 9 therefore reproduces the SAME explicit subsidy total used in the
-#   paper's main analysis, making the cross-database comparison directly
+# Consistency with Module 3: Module 3 computes Subsidy_Clean from the same
+#   'data' sheet as texp (residential + industrial/power) + tpro (producer
+#   transfers), which is exactly the aggregation in mit.sub.texpprod.tot.all.1.
+#   Module 9 therefore reproduces the explicit-subsidy totals used in the
+#   paper's main analysis, so the cross-database comparison is directly
 #   interpretable alongside the paper's results.
 #
 # Figures:
-#   Fig9a – Time-series facet for ALL study countries (targetcounty) + key extras
-#   Fig9b – 2022 bar chart (all study countries + others with data, sorted by IMF2023)
-#   Fig9c – Scatter: IMF 2023 vs IMF 2025 (log scale, 2022)
-#   Fig9d – Scatter: IMF 2023 vs IEA (log scale, 2022)
-#   Fig9e – Income-group aggregated time series (requires Reg_corr)
+#   Fig9a: time-series facets for all study countries
+#   Fig9b: 2022 bar chart (study countries + other top countries, sorted by IMF 2023)
+#   Fig9c: scatter, IMF 2023 vs IMF 2025 (log scale, 2022)
+#   Fig9d: scatter, IMF 2023 vs IEA (log scale, 2022)
+#   Fig9e: income-group aggregated time series (requires Reg_corr from Module 7)
 
 library(readxl)
 library(tidyverse)
@@ -38,7 +36,7 @@ library(scales)
 library(ggpubr)
 library(RColorBrewer)
 
-# ── paths ─────────────────────────────────────────────────────────────────────
+#Paths-----
 pathdata_others <- "C:/Users/xiang/OneDrive/Energy subsidy and distributional issue/others"
 
 # =============================================================================
@@ -53,7 +51,7 @@ gdpdef_raw <- read_csv(file.path(pathdata_others, "GDPDEF.csv"),
 base_2017 <- gdpdef_raw %>% filter(year == 2017) %>% pull(GDPDEF_ann)
 
 gdpdef <- gdpdef_raw %>%
-  mutate(defl = base_2017 / GDPDEF_ann)   # multiply data × defl → 2017 USD
+  mutate(defl = base_2017 / GDPDEF_ann)   # multiply data by defl to get 2017 USD
 
 # Scalar deflators used as constants
 DEFL_2021_to_2017 <- gdpdef %>% filter(year == 2021) %>% pull(defl)  # ≈ 0.9078
@@ -63,9 +61,8 @@ message(sprintf("Deflators: 2021→2017 = %.4f | 2024→2017 = %.4f",
                 DEFL_2021_to_2017, DEFL_2024_to_2017))
 
 # =============================================================================
-# 1.  Study-country reference list  (from Module 7 / targetcounty)
+# 1. Study-country reference list (same set as targetcounty in Module 7)
 # =============================================================================
-# These must ALL appear in every figure.
 study_countries_display <- c(
   # individually modelled in paper
   "Brazil","China","India","Mexico","Russian Federation",
@@ -74,7 +71,7 @@ study_countries_display <- c(
   "Luxembourg","Germany","Italy","Japan","United States"
 )
 
-# ── shared theme ──────────────────────────────────────────────────────────────
+#Shared theme and colors-----
 db_colors <- c("IMF 2023" = "#2166AC", "IMF 2025" = "#D6604D", "IEA 2025" = "#1B7837")
 db_shapes <- c("IMF 2023" = 16,        "IMF 2025" = 17,        "IEA 2025" = 15)
 db_lty    <- c("IMF 2023" = "solid",   "IMF 2025" = "dashed",  "IEA 2025" = "dotted")
@@ -118,7 +115,7 @@ iso_lookup <- imf23_raw %>%
 
 imf23 <- imf23_raw %>%
   rename(country = countryname, iso3 = countrycode) %>%
-  filter(scenario == "U1", year %in% 2015:2022) %>%  # 2023+ are IMF projections; excluded
+  filter(scenario == "U1", year %in% 2015:2022) %>%  # 2023+ are IMF projections and are excluded
   mutate(texpprod = replace_na(as.numeric(`mit.sub.texpprod.tot.all.1`), 0),
          # million 2021 USD → billion 2017 USD
          explicit_bn_2017 = texpprod * DEFL_2021_to_2017 / 1000,
@@ -229,7 +226,7 @@ ts_data <- all3 %>%
   group_by(country_disp, year, source) %>%
   summarise(explicit_bn_2017 = sum(explicit_bn_2017, na.rm = TRUE),
             .groups = "drop") %>%
-  # force factor order: BRICS-like big emitters first, then EU, then others
+  # facet order: large emerging economies first, then high-income countries
   mutate(country_disp = factor(country_disp, levels = c(
     "China","India","Russia","Indonesia","Brazil","Mexico","South Africa","Turkiye",
     "United States","Japan",
@@ -249,9 +246,6 @@ Fig.9a <- ts_data %>%
   scale_linetype_manual(values = db_lty) +
   geom_vline(xintercept = 2022.5, colour = "grey50", linetype = "longdash",
              linewidth = 0.4) +
-  # annotate("text", x = 2022.6, y = -Inf, label = "IMF 2023\nends",
-  #          hjust = 0, vjust = -0.3, size = 2.2, colour = "grey45",
-  #          family = "sans") +
   scale_x_continuous(breaks = c(2015, 2017, 2019, 2021, 2023),
                      limits = c(2015, 2024)) +
   scale_y_continuous(labels = number_format(accuracy = 1)) +
@@ -477,7 +471,7 @@ if (exists("Reg_corr")) {
 
 message("Module 9 complete. Output saved to pathout5.")
 
-# ── Clean up ──────────────────────────────────────────────────────────────────
+#Clean up-----
 rm(list = ls()[-which(ls() %in% c("path","pathout","pathout2","pathout3","pathout5",
                                    "pathdata3","pathdata4","pathcode"))])
 gc()

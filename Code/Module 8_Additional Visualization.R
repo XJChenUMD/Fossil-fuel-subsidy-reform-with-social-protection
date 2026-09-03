@@ -35,28 +35,21 @@ order.reg <- c("Brazil","China","India","Mexico","Russian Federation",
                "Japan","United Kingdom","United States",
                "Other LICs","Other LMICs","Other UMICs","Other HICs")
 
-# Income-group aggregation labels (same as Module 7 V9)
-# -------------------------------------------------------
-# Load Results summary (contains Reg_corr, Population, etc.)
-# If already in memory from Module 7, this is a no-op for those objects.
-# Using 100percent version to get Reg_corr in its pre-mutated or post-mutated form.
-# -------------------------------------------------------
+# Load results summary (contains Reg_corr, Population, etc.)
 load(str_c(pathout5, "/Results summary100percent.Rdata"))
-# Ensure 4-category WB_IncomeGroup — robust to BOTH raw WB labels ("Low income" etc.)
-# AND already-collapsed labels ("Other LICs" etc.) from a prior Module 7 run.
+# Collapse WB_IncomeGroup into the four "Other" categories; works with both the
+# raw WB labels ("Low income" etc.) and labels already collapsed by Module 7.
 Reg_corr <- Reg_corr %>% mutate(WB_IncomeGroup = ifelse(grepl("Low income", WB_IncomeGroup),"Other LICs",
                                             ifelse(grepl("Lower middle income", WB_IncomeGroup),"Other LMICs",
                                                    ifelse(grepl("Upper middle income", WB_IncomeGroup),"Other UMICs",
                                                           "Other HICs")))) 
 
 
-# Section 8: Module-7-style figures at 80% recycling share
-# =============================================================================
+#Module-7-style figures at the 80% recycling share-----
 # Loads the pre-computed results for Recy = 0.80 ("80percent") and reproduces
 # the main poverty / inequality / CO2 figures from Module 7 with identical
-# styling, so that 100% and 80% results can be compared side-by-side.
+# styling, so that 100% and 80% results can be compared side by side.
 # Figures are saved with the suffix "_recy80" in pathout5.
-# =============================================================================
 
 library(ggrepel)
 library(ggpubr)
@@ -70,7 +63,7 @@ Recy80_nam <- "80percent"
 load(str_c(pathout3, "/Poverty, Ineq, Emission outcome by subsidy, sp, recy", Recy80_nam, ".Rdata"))
 load(str_c(pathout2, "/Subsidy scenarios_price and CO2 response_v5.Rdata"))
 
-# ── shared theme (identical to Module 7) ──────────────────────────────────────
+#Shared theme (identical to Module 7)-----
 scheme80 <- theme_test(base_line_size = 1, base_size = 11) +
   theme(legend.position   = "top",
         legend.title       = element_text(size = 14, face = "bold"),
@@ -172,7 +165,7 @@ make_data6 <- function(arr_sp) {
 }
 
 
-# ── 8-A  No-SP baseline scatter: Explicit (mirrors Fig 2b in Module 7) ────────
+#8-A. No-SP baseline scatter, explicit subsidies (mirrors Fig 2b in Module 7)-----
 D4_exp80 <- make_data4(OUT_SUBSP[,,1,1])
 
 Fig.8A_exp <- D4_exp80 %>% ggplot() +
@@ -245,7 +238,7 @@ ggsave(str_c(pathout5, "/Fig_recy80_Explicit_scatter_bar.jpg"),
 write.csv(D4_exp80, str_c(pathout5, "/recy80_pov_ineq_CO2_Explicit.csv"))
 
 
-# ── 8-B  SP-scenario scatter by subsidy type (mirrors Module 7 lines 770–1000) ─
+#8-B. SP-scenario scatter by subsidy type (mirrors the Module 7 SP scatters)-----
 
 sp_scatter_theme <- list(
   theme_classic(base_size = 12),
@@ -322,7 +315,7 @@ ggsave(str_c(pathout5, "/Fig_recy80_SP_ImpCons.jpg"),
 write.csv(D6_impcons80, str_c(pathout5, "/recy80_SP_ImpCons.csv"))
 
 
-# ── 8-C  No-SP baseline scatters for Implicit_prod and Implicit_cons ──────────
+#8-C. No-SP baseline scatters for Implicit_prod and Implicit_cons-----
 D4_impprod80 <- make_data4(OUT_SUBSP[,,2,1])
 D4_impcons80 <- make_data4(OUT_SUBSP[,,3,1])
 

@@ -1,11 +1,11 @@
-#Module 3 (Price-Data Version v4): Energy subsidy scenarios
+#Module 3 (Price-Data Version v5): Energy subsidy scenarios
 #Xiangjie Chen, GEOG, UMD
 #xjchen@terpmail.umd.edu
 #
 # REVISION (v3, April 2025):
 #  DATA SOURCE: IMF (2023) Fossil Fuel Subsidies Database.
 #  We retain the 2023 edition in preference to the 2025 update for the following
-#  documented reasons (see IMF_2023_vs_2025_Methodology_Note.md):
+#  documented reasons:
 #
 #  (1) ELECTRICITY SUPPLY COST: The 2025 database replaces the marginal generation
 #      cost benchmark with a narrow fossil-fuel-input-cost measure that produces
