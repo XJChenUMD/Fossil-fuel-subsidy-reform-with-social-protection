@@ -1,4 +1,4 @@
-# Reallocating fossil fuel subsidies via social assistance reduces poverty and preserves emissions cuts
+# Reallocating fossil-fuel subsidies via social assistance reduces poverty and preserves emissions cuts
 
 Xiangjie Chen¹, Kuishuang Feng², Laixiang Sun¹, Daniele Malerba³, Peipei Tian⁴, Nathan Hultman⁵
 
